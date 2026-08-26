@@ -1,0 +1,6598 @@
+{
+  "num_frames_sampled": 823,
+  "num_scene_changes_detected": 0,
+  "video_meta": {
+    "reported_fps": 29.97,
+    "reported_frame_count": 50491,
+    "reported_duration_sec": 1684.7,
+    "ffprobe_duration_sec": null,
+    "duration_mismatch_flagged": false,
+    "frames_actually_decoded": 50491
+  },
+  "frames": [
+    {
+      "frame_idx": 0,
+      "timestamp_sec": 0.0,
+      "file": "work/frames\\frame_0000000_t00000.00.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 0,
+      "split": "train"
+    },
+    {
+      "frame_idx": 60,
+      "timestamp_sec": 2.0,
+      "file": "work/frames\\frame_0000060_t00002.00.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 0,
+      "split": "train"
+    },
+    {
+      "frame_idx": 120,
+      "timestamp_sec": 4.0,
+      "file": "work/frames\\frame_0000120_t00004.00.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 0,
+      "split": "train"
+    },
+    {
+      "frame_idx": 180,
+      "timestamp_sec": 6.01,
+      "file": "work/frames\\frame_0000180_t00006.01.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 0,
+      "split": "train"
+    },
+    {
+      "frame_idx": 240,
+      "timestamp_sec": 8.01,
+      "file": "work/frames\\frame_0000240_t00008.01.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 0,
+      "split": "train"
+    },
+    {
+      "frame_idx": 300,
+      "timestamp_sec": 10.01,
+      "file": "work/frames\\frame_0000300_t00010.01.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 0,
+      "split": "train"
+    },
+    {
+      "frame_idx": 360,
+      "timestamp_sec": 12.01,
+      "file": "work/frames\\frame_0000360_t00012.01.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 0,
+      "split": "train"
+    },
+    {
+      "frame_idx": 420,
+      "timestamp_sec": 14.01,
+      "file": "work/frames\\frame_0000420_t00014.01.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 0,
+      "split": "train"
+    },
+    {
+      "frame_idx": 480,
+      "timestamp_sec": 16.02,
+      "file": "work/frames\\frame_0000480_t00016.02.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 0,
+      "split": "train"
+    },
+    {
+      "frame_idx": 540,
+      "timestamp_sec": 18.02,
+      "file": "work/frames\\frame_0000540_t00018.02.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 0,
+      "split": "train"
+    },
+    {
+      "frame_idx": 600,
+      "timestamp_sec": 20.02,
+      "file": "work/frames\\frame_0000600_t00020.02.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 1,
+      "split": "train"
+    },
+    {
+      "frame_idx": 660,
+      "timestamp_sec": 22.02,
+      "file": "work/frames\\frame_0000660_t00022.02.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 1,
+      "split": "train"
+    },
+    {
+      "frame_idx": 720,
+      "timestamp_sec": 24.02,
+      "file": "work/frames\\frame_0000720_t00024.02.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 1,
+      "split": "train"
+    },
+    {
+      "frame_idx": 780,
+      "timestamp_sec": 26.03,
+      "file": "work/frames\\frame_0000780_t00026.03.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 1,
+      "split": "train"
+    },
+    {
+      "frame_idx": 840,
+      "timestamp_sec": 28.03,
+      "file": "work/frames\\frame_0000840_t00028.03.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 1,
+      "split": "train"
+    },
+    {
+      "frame_idx": 900,
+      "timestamp_sec": 30.03,
+      "file": "work/frames\\frame_0000900_t00030.03.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 1,
+      "split": "train"
+    },
+    {
+      "frame_idx": 960,
+      "timestamp_sec": 32.03,
+      "file": "work/frames\\frame_0000960_t00032.03.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 1,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1020,
+      "timestamp_sec": 34.03,
+      "file": "work/frames\\frame_0001020_t00034.03.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 1,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1080,
+      "timestamp_sec": 36.04,
+      "file": "work/frames\\frame_0001080_t00036.04.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 1,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1140,
+      "timestamp_sec": 38.04,
+      "file": "work/frames\\frame_0001140_t00038.04.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 1,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1200,
+      "timestamp_sec": 40.04,
+      "file": "work/frames\\frame_0001200_t00040.04.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 2,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1260,
+      "timestamp_sec": 42.04,
+      "file": "work/frames\\frame_0001260_t00042.04.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 2,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1320,
+      "timestamp_sec": 44.04,
+      "file": "work/frames\\frame_0001320_t00044.04.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 2,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1380,
+      "timestamp_sec": 46.05,
+      "file": "work/frames\\frame_0001380_t00046.05.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 2,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1440,
+      "timestamp_sec": 48.05,
+      "file": "work/frames\\frame_0001440_t00048.05.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 2,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1500,
+      "timestamp_sec": 50.05,
+      "file": "work/frames\\frame_0001500_t00050.05.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 2,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1560,
+      "timestamp_sec": 52.05,
+      "file": "work/frames\\frame_0001560_t00052.05.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 2,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1620,
+      "timestamp_sec": 54.05,
+      "file": "work/frames\\frame_0001620_t00054.05.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 2,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1680,
+      "timestamp_sec": 56.06,
+      "file": "work/frames\\frame_0001680_t00056.06.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 2,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1740,
+      "timestamp_sec": 58.06,
+      "file": "work/frames\\frame_0001740_t00058.06.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 2,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1800,
+      "timestamp_sec": 60.06,
+      "file": "work/frames\\frame_0001800_t00060.06.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 3,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1860,
+      "timestamp_sec": 62.06,
+      "file": "work/frames\\frame_0001860_t00062.06.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 3,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1920,
+      "timestamp_sec": 64.06,
+      "file": "work/frames\\frame_0001920_t00064.06.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 3,
+      "split": "train"
+    },
+    {
+      "frame_idx": 1980,
+      "timestamp_sec": 66.07,
+      "file": "work/frames\\frame_0001980_t00066.07.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 3,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2040,
+      "timestamp_sec": 68.07,
+      "file": "work/frames\\frame_0002040_t00068.07.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 3,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2100,
+      "timestamp_sec": 70.07,
+      "file": "work/frames\\frame_0002100_t00070.07.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 3,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2160,
+      "timestamp_sec": 72.07,
+      "file": "work/frames\\frame_0002160_t00072.07.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 3,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2220,
+      "timestamp_sec": 74.07,
+      "file": "work/frames\\frame_0002220_t00074.07.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 3,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2280,
+      "timestamp_sec": 76.08,
+      "file": "work/frames\\frame_0002280_t00076.08.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 3,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2340,
+      "timestamp_sec": 78.08,
+      "file": "work/frames\\frame_0002340_t00078.08.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 3,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2400,
+      "timestamp_sec": 80.08,
+      "file": "work/frames\\frame_0002400_t00080.08.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 4,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2460,
+      "timestamp_sec": 82.08,
+      "file": "work/frames\\frame_0002460_t00082.08.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 4,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2520,
+      "timestamp_sec": 84.08,
+      "file": "work/frames\\frame_0002520_t00084.08.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 4,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2580,
+      "timestamp_sec": 86.09,
+      "file": "work/frames\\frame_0002580_t00086.09.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 4,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2640,
+      "timestamp_sec": 88.09,
+      "file": "work/frames\\frame_0002640_t00088.09.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 4,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2700,
+      "timestamp_sec": 90.09,
+      "file": "work/frames\\frame_0002700_t00090.09.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 4,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2760,
+      "timestamp_sec": 92.09,
+      "file": "work/frames\\frame_0002760_t00092.09.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 4,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2820,
+      "timestamp_sec": 94.09,
+      "file": "work/frames\\frame_0002820_t00094.09.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 4,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2880,
+      "timestamp_sec": 96.1,
+      "file": "work/frames\\frame_0002880_t00096.10.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 4,
+      "split": "train"
+    },
+    {
+      "frame_idx": 2940,
+      "timestamp_sec": 98.1,
+      "file": "work/frames\\frame_0002940_t00098.10.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 4,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3000,
+      "timestamp_sec": 100.1,
+      "file": "work/frames\\frame_0003000_t00100.10.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 5,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3060,
+      "timestamp_sec": 102.1,
+      "file": "work/frames\\frame_0003060_t00102.10.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 5,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3120,
+      "timestamp_sec": 104.1,
+      "file": "work/frames\\frame_0003120_t00104.10.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 5,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3180,
+      "timestamp_sec": 106.11,
+      "file": "work/frames\\frame_0003180_t00106.11.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 5,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3240,
+      "timestamp_sec": 108.11,
+      "file": "work/frames\\frame_0003240_t00108.11.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 5,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3300,
+      "timestamp_sec": 110.11,
+      "file": "work/frames\\frame_0003300_t00110.11.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 5,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3360,
+      "timestamp_sec": 112.11,
+      "file": "work/frames\\frame_0003360_t00112.11.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 5,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3420,
+      "timestamp_sec": 114.11,
+      "file": "work/frames\\frame_0003420_t00114.11.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 5,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3480,
+      "timestamp_sec": 116.12,
+      "file": "work/frames\\frame_0003480_t00116.12.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 5,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3540,
+      "timestamp_sec": 118.12,
+      "file": "work/frames\\frame_0003540_t00118.12.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 5,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3600,
+      "timestamp_sec": 120.12,
+      "file": "work/frames\\frame_0003600_t00120.12.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 6,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3660,
+      "timestamp_sec": 122.12,
+      "file": "work/frames\\frame_0003660_t00122.12.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 6,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3720,
+      "timestamp_sec": 124.12,
+      "file": "work/frames\\frame_0003720_t00124.12.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 6,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3780,
+      "timestamp_sec": 126.13,
+      "file": "work/frames\\frame_0003780_t00126.13.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 6,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3840,
+      "timestamp_sec": 128.13,
+      "file": "work/frames\\frame_0003840_t00128.13.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 6,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3900,
+      "timestamp_sec": 130.13,
+      "file": "work/frames\\frame_0003900_t00130.13.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 6,
+      "split": "train"
+    },
+    {
+      "frame_idx": 3960,
+      "timestamp_sec": 132.13,
+      "file": "work/frames\\frame_0003960_t00132.13.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 6,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4020,
+      "timestamp_sec": 134.13,
+      "file": "work/frames\\frame_0004020_t00134.13.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 6,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4080,
+      "timestamp_sec": 136.14,
+      "file": "work/frames\\frame_0004080_t00136.14.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 6,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4140,
+      "timestamp_sec": 138.14,
+      "file": "work/frames\\frame_0004140_t00138.14.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 6,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4200,
+      "timestamp_sec": 140.14,
+      "file": "work/frames\\frame_0004200_t00140.14.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 7,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4260,
+      "timestamp_sec": 142.14,
+      "file": "work/frames\\frame_0004260_t00142.14.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 7,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4320,
+      "timestamp_sec": 144.14,
+      "file": "work/frames\\frame_0004320_t00144.14.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 7,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4380,
+      "timestamp_sec": 146.15,
+      "file": "work/frames\\frame_0004380_t00146.15.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 7,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4440,
+      "timestamp_sec": 148.15,
+      "file": "work/frames\\frame_0004440_t00148.15.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 7,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4500,
+      "timestamp_sec": 150.15,
+      "file": "work/frames\\frame_0004500_t00150.15.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 7,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4560,
+      "timestamp_sec": 152.15,
+      "file": "work/frames\\frame_0004560_t00152.15.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 7,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4620,
+      "timestamp_sec": 154.15,
+      "file": "work/frames\\frame_0004620_t00154.15.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 7,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4680,
+      "timestamp_sec": 156.16,
+      "file": "work/frames\\frame_0004680_t00156.16.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 7,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4740,
+      "timestamp_sec": 158.16,
+      "file": "work/frames\\frame_0004740_t00158.16.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 7,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4800,
+      "timestamp_sec": 160.16,
+      "file": "work/frames\\frame_0004800_t00160.16.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 8,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4860,
+      "timestamp_sec": 162.16,
+      "file": "work/frames\\frame_0004860_t00162.16.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 8,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4920,
+      "timestamp_sec": 164.16,
+      "file": "work/frames\\frame_0004920_t00164.16.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 8,
+      "split": "train"
+    },
+    {
+      "frame_idx": 4980,
+      "timestamp_sec": 166.17,
+      "file": "work/frames\\frame_0004980_t00166.17.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 8,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5040,
+      "timestamp_sec": 168.17,
+      "file": "work/frames\\frame_0005040_t00168.17.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 8,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5100,
+      "timestamp_sec": 170.17,
+      "file": "work/frames\\frame_0005100_t00170.17.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 8,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5160,
+      "timestamp_sec": 172.17,
+      "file": "work/frames\\frame_0005160_t00172.17.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 8,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5220,
+      "timestamp_sec": 174.17,
+      "file": "work/frames\\frame_0005220_t00174.17.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 8,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5280,
+      "timestamp_sec": 176.18,
+      "file": "work/frames\\frame_0005280_t00176.18.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 8,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5340,
+      "timestamp_sec": 178.18,
+      "file": "work/frames\\frame_0005340_t00178.18.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 8,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5400,
+      "timestamp_sec": 180.18,
+      "file": "work/frames\\frame_0005400_t00180.18.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 9,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5460,
+      "timestamp_sec": 182.18,
+      "file": "work/frames\\frame_0005460_t00182.18.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 9,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5520,
+      "timestamp_sec": 184.18,
+      "file": "work/frames\\frame_0005520_t00184.18.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 9,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5580,
+      "timestamp_sec": 186.19,
+      "file": "work/frames\\frame_0005580_t00186.19.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 9,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5640,
+      "timestamp_sec": 188.19,
+      "file": "work/frames\\frame_0005640_t00188.19.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 9,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5700,
+      "timestamp_sec": 190.19,
+      "file": "work/frames\\frame_0005700_t00190.19.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 9,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5760,
+      "timestamp_sec": 192.19,
+      "file": "work/frames\\frame_0005760_t00192.19.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 9,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5820,
+      "timestamp_sec": 194.19,
+      "file": "work/frames\\frame_0005820_t00194.19.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 9,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5880,
+      "timestamp_sec": 196.2,
+      "file": "work/frames\\frame_0005880_t00196.20.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 9,
+      "split": "train"
+    },
+    {
+      "frame_idx": 5940,
+      "timestamp_sec": 198.2,
+      "file": "work/frames\\frame_0005940_t00198.20.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 9,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6000,
+      "timestamp_sec": 200.2,
+      "file": "work/frames\\frame_0006000_t00200.20.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 10,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6060,
+      "timestamp_sec": 202.2,
+      "file": "work/frames\\frame_0006060_t00202.20.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 10,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6120,
+      "timestamp_sec": 204.2,
+      "file": "work/frames\\frame_0006120_t00204.20.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 10,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6180,
+      "timestamp_sec": 206.21,
+      "file": "work/frames\\frame_0006180_t00206.21.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 10,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6240,
+      "timestamp_sec": 208.21,
+      "file": "work/frames\\frame_0006240_t00208.21.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 10,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6300,
+      "timestamp_sec": 210.21,
+      "file": "work/frames\\frame_0006300_t00210.21.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 10,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6360,
+      "timestamp_sec": 212.21,
+      "file": "work/frames\\frame_0006360_t00212.21.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 10,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6420,
+      "timestamp_sec": 214.21,
+      "file": "work/frames\\frame_0006420_t00214.21.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 10,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6480,
+      "timestamp_sec": 216.22,
+      "file": "work/frames\\frame_0006480_t00216.22.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 10,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6540,
+      "timestamp_sec": 218.22,
+      "file": "work/frames\\frame_0006540_t00218.22.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 10,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6600,
+      "timestamp_sec": 220.22,
+      "file": "work/frames\\frame_0006600_t00220.22.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 11,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6660,
+      "timestamp_sec": 222.22,
+      "file": "work/frames\\frame_0006660_t00222.22.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 11,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6720,
+      "timestamp_sec": 224.22,
+      "file": "work/frames\\frame_0006720_t00224.22.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 11,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6780,
+      "timestamp_sec": 226.23,
+      "file": "work/frames\\frame_0006780_t00226.23.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 11,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6840,
+      "timestamp_sec": 228.23,
+      "file": "work/frames\\frame_0006840_t00228.23.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 11,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6900,
+      "timestamp_sec": 230.23,
+      "file": "work/frames\\frame_0006900_t00230.23.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 11,
+      "split": "train"
+    },
+    {
+      "frame_idx": 6960,
+      "timestamp_sec": 232.23,
+      "file": "work/frames\\frame_0006960_t00232.23.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 11,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7020,
+      "timestamp_sec": 234.23,
+      "file": "work/frames\\frame_0007020_t00234.23.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 11,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7080,
+      "timestamp_sec": 236.24,
+      "file": "work/frames\\frame_0007080_t00236.24.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 11,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7140,
+      "timestamp_sec": 238.24,
+      "file": "work/frames\\frame_0007140_t00238.24.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 11,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7200,
+      "timestamp_sec": 240.24,
+      "file": "work/frames\\frame_0007200_t00240.24.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 12,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7260,
+      "timestamp_sec": 242.24,
+      "file": "work/frames\\frame_0007260_t00242.24.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 12,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7320,
+      "timestamp_sec": 244.24,
+      "file": "work/frames\\frame_0007320_t00244.24.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 12,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7380,
+      "timestamp_sec": 246.25,
+      "file": "work/frames\\frame_0007380_t00246.25.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 12,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7440,
+      "timestamp_sec": 248.25,
+      "file": "work/frames\\frame_0007440_t00248.25.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 12,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7500,
+      "timestamp_sec": 250.25,
+      "file": "work/frames\\frame_0007500_t00250.25.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 12,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7560,
+      "timestamp_sec": 252.25,
+      "file": "work/frames\\frame_0007560_t00252.25.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 12,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7620,
+      "timestamp_sec": 254.25,
+      "file": "work/frames\\frame_0007620_t00254.25.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 12,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7680,
+      "timestamp_sec": 256.26,
+      "file": "work/frames\\frame_0007680_t00256.26.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 12,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7740,
+      "timestamp_sec": 258.26,
+      "file": "work/frames\\frame_0007740_t00258.26.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 12,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7800,
+      "timestamp_sec": 260.26,
+      "file": "work/frames\\frame_0007800_t00260.26.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 13,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7860,
+      "timestamp_sec": 262.26,
+      "file": "work/frames\\frame_0007860_t00262.26.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 13,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7920,
+      "timestamp_sec": 264.26,
+      "file": "work/frames\\frame_0007920_t00264.26.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 13,
+      "split": "train"
+    },
+    {
+      "frame_idx": 7980,
+      "timestamp_sec": 266.27,
+      "file": "work/frames\\frame_0007980_t00266.27.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 13,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8040,
+      "timestamp_sec": 268.27,
+      "file": "work/frames\\frame_0008040_t00268.27.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 13,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8100,
+      "timestamp_sec": 270.27,
+      "file": "work/frames\\frame_0008100_t00270.27.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 13,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8160,
+      "timestamp_sec": 272.27,
+      "file": "work/frames\\frame_0008160_t00272.27.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 13,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8220,
+      "timestamp_sec": 274.27,
+      "file": "work/frames\\frame_0008220_t00274.27.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 13,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8280,
+      "timestamp_sec": 276.28,
+      "file": "work/frames\\frame_0008280_t00276.28.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 13,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8340,
+      "timestamp_sec": 278.28,
+      "file": "work/frames\\frame_0008340_t00278.28.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 13,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8400,
+      "timestamp_sec": 280.28,
+      "file": "work/frames\\frame_0008400_t00280.28.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 14,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8460,
+      "timestamp_sec": 282.28,
+      "file": "work/frames\\frame_0008460_t00282.28.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 14,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8520,
+      "timestamp_sec": 284.28,
+      "file": "work/frames\\frame_0008520_t00284.28.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 14,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8580,
+      "timestamp_sec": 286.29,
+      "file": "work/frames\\frame_0008580_t00286.29.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 14,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8640,
+      "timestamp_sec": 288.29,
+      "file": "work/frames\\frame_0008640_t00288.29.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 14,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8700,
+      "timestamp_sec": 290.29,
+      "file": "work/frames\\frame_0008700_t00290.29.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 14,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8760,
+      "timestamp_sec": 292.29,
+      "file": "work/frames\\frame_0008760_t00292.29.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 14,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8820,
+      "timestamp_sec": 294.29,
+      "file": "work/frames\\frame_0008820_t00294.29.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 14,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8880,
+      "timestamp_sec": 296.3,
+      "file": "work/frames\\frame_0008880_t00296.30.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 14,
+      "split": "train"
+    },
+    {
+      "frame_idx": 8940,
+      "timestamp_sec": 298.3,
+      "file": "work/frames\\frame_0008940_t00298.30.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 14,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9000,
+      "timestamp_sec": 300.3,
+      "file": "work/frames\\frame_0009000_t00300.30.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 15,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9060,
+      "timestamp_sec": 302.3,
+      "file": "work/frames\\frame_0009060_t00302.30.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 15,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9120,
+      "timestamp_sec": 304.3,
+      "file": "work/frames\\frame_0009120_t00304.30.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 15,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9180,
+      "timestamp_sec": 306.31,
+      "file": "work/frames\\frame_0009180_t00306.31.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 15,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9240,
+      "timestamp_sec": 308.31,
+      "file": "work/frames\\frame_0009240_t00308.31.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 15,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9300,
+      "timestamp_sec": 310.31,
+      "file": "work/frames\\frame_0009300_t00310.31.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 15,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9360,
+      "timestamp_sec": 312.31,
+      "file": "work/frames\\frame_0009360_t00312.31.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 15,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9420,
+      "timestamp_sec": 314.31,
+      "file": "work/frames\\frame_0009420_t00314.31.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 15,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9480,
+      "timestamp_sec": 316.32,
+      "file": "work/frames\\frame_0009480_t00316.32.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 15,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9540,
+      "timestamp_sec": 318.32,
+      "file": "work/frames\\frame_0009540_t00318.32.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 15,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9600,
+      "timestamp_sec": 320.32,
+      "file": "work/frames\\frame_0009600_t00320.32.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 16,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9660,
+      "timestamp_sec": 322.32,
+      "file": "work/frames\\frame_0009660_t00322.32.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 16,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9720,
+      "timestamp_sec": 324.32,
+      "file": "work/frames\\frame_0009720_t00324.32.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 16,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9780,
+      "timestamp_sec": 326.33,
+      "file": "work/frames\\frame_0009780_t00326.33.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 16,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9840,
+      "timestamp_sec": 328.33,
+      "file": "work/frames\\frame_0009840_t00328.33.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 16,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9900,
+      "timestamp_sec": 330.33,
+      "file": "work/frames\\frame_0009900_t00330.33.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 16,
+      "split": "train"
+    },
+    {
+      "frame_idx": 9960,
+      "timestamp_sec": 332.33,
+      "file": "work/frames\\frame_0009960_t00332.33.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 16,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10020,
+      "timestamp_sec": 334.33,
+      "file": "work/frames\\frame_0010020_t00334.33.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 16,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10080,
+      "timestamp_sec": 336.34,
+      "file": "work/frames\\frame_0010080_t00336.34.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 16,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10140,
+      "timestamp_sec": 338.34,
+      "file": "work/frames\\frame_0010140_t00338.34.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 16,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10200,
+      "timestamp_sec": 340.34,
+      "file": "work/frames\\frame_0010200_t00340.34.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 17,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10260,
+      "timestamp_sec": 342.34,
+      "file": "work/frames\\frame_0010260_t00342.34.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 17,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10320,
+      "timestamp_sec": 344.34,
+      "file": "work/frames\\frame_0010320_t00344.34.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 17,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10380,
+      "timestamp_sec": 346.35,
+      "file": "work/frames\\frame_0010380_t00346.35.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 17,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10440,
+      "timestamp_sec": 348.35,
+      "file": "work/frames\\frame_0010440_t00348.35.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 17,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10500,
+      "timestamp_sec": 350.35,
+      "file": "work/frames\\frame_0010500_t00350.35.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 17,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10560,
+      "timestamp_sec": 352.35,
+      "file": "work/frames\\frame_0010560_t00352.35.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 17,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10620,
+      "timestamp_sec": 354.35,
+      "file": "work/frames\\frame_0010620_t00354.35.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 17,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10680,
+      "timestamp_sec": 356.36,
+      "file": "work/frames\\frame_0010680_t00356.36.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 17,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10740,
+      "timestamp_sec": 358.36,
+      "file": "work/frames\\frame_0010740_t00358.36.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 17,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10800,
+      "timestamp_sec": 360.36,
+      "file": "work/frames\\frame_0010800_t00360.36.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 18,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10860,
+      "timestamp_sec": 362.36,
+      "file": "work/frames\\frame_0010860_t00362.36.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 18,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10920,
+      "timestamp_sec": 364.36,
+      "file": "work/frames\\frame_0010920_t00364.36.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 18,
+      "split": "train"
+    },
+    {
+      "frame_idx": 10980,
+      "timestamp_sec": 366.37,
+      "file": "work/frames\\frame_0010980_t00366.37.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 18,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11040,
+      "timestamp_sec": 368.37,
+      "file": "work/frames\\frame_0011040_t00368.37.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 18,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11100,
+      "timestamp_sec": 370.37,
+      "file": "work/frames\\frame_0011100_t00370.37.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 18,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11160,
+      "timestamp_sec": 372.37,
+      "file": "work/frames\\frame_0011160_t00372.37.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 18,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11220,
+      "timestamp_sec": 374.37,
+      "file": "work/frames\\frame_0011220_t00374.37.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 18,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11280,
+      "timestamp_sec": 376.38,
+      "file": "work/frames\\frame_0011280_t00376.38.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 18,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11340,
+      "timestamp_sec": 378.38,
+      "file": "work/frames\\frame_0011340_t00378.38.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 18,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11400,
+      "timestamp_sec": 380.38,
+      "file": "work/frames\\frame_0011400_t00380.38.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 19,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11460,
+      "timestamp_sec": 382.38,
+      "file": "work/frames\\frame_0011460_t00382.38.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 19,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11520,
+      "timestamp_sec": 384.38,
+      "file": "work/frames\\frame_0011520_t00384.38.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 19,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11580,
+      "timestamp_sec": 386.39,
+      "file": "work/frames\\frame_0011580_t00386.39.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 19,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11640,
+      "timestamp_sec": 388.39,
+      "file": "work/frames\\frame_0011640_t00388.39.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 19,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11700,
+      "timestamp_sec": 390.39,
+      "file": "work/frames\\frame_0011700_t00390.39.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 19,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11760,
+      "timestamp_sec": 392.39,
+      "file": "work/frames\\frame_0011760_t00392.39.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 19,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11820,
+      "timestamp_sec": 394.39,
+      "file": "work/frames\\frame_0011820_t00394.39.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 19,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11880,
+      "timestamp_sec": 396.4,
+      "file": "work/frames\\frame_0011880_t00396.40.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 19,
+      "split": "train"
+    },
+    {
+      "frame_idx": 11940,
+      "timestamp_sec": 398.4,
+      "file": "work/frames\\frame_0011940_t00398.40.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 19,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12000,
+      "timestamp_sec": 400.4,
+      "file": "work/frames\\frame_0012000_t00400.40.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 20,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12060,
+      "timestamp_sec": 402.4,
+      "file": "work/frames\\frame_0012060_t00402.40.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 20,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12120,
+      "timestamp_sec": 404.4,
+      "file": "work/frames\\frame_0012120_t00404.40.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 20,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12180,
+      "timestamp_sec": 406.41,
+      "file": "work/frames\\frame_0012180_t00406.41.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 20,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12240,
+      "timestamp_sec": 408.41,
+      "file": "work/frames\\frame_0012240_t00408.41.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 20,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12300,
+      "timestamp_sec": 410.41,
+      "file": "work/frames\\frame_0012300_t00410.41.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 20,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12360,
+      "timestamp_sec": 412.41,
+      "file": "work/frames\\frame_0012360_t00412.41.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 20,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12420,
+      "timestamp_sec": 414.41,
+      "file": "work/frames\\frame_0012420_t00414.41.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 20,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12480,
+      "timestamp_sec": 416.42,
+      "file": "work/frames\\frame_0012480_t00416.42.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 20,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12540,
+      "timestamp_sec": 418.42,
+      "file": "work/frames\\frame_0012540_t00418.42.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 20,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12600,
+      "timestamp_sec": 420.42,
+      "file": "work/frames\\frame_0012600_t00420.42.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 21,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12660,
+      "timestamp_sec": 422.42,
+      "file": "work/frames\\frame_0012660_t00422.42.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 21,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12720,
+      "timestamp_sec": 424.42,
+      "file": "work/frames\\frame_0012720_t00424.42.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 21,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12780,
+      "timestamp_sec": 426.43,
+      "file": "work/frames\\frame_0012780_t00426.43.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 21,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12840,
+      "timestamp_sec": 428.43,
+      "file": "work/frames\\frame_0012840_t00428.43.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 21,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12900,
+      "timestamp_sec": 430.43,
+      "file": "work/frames\\frame_0012900_t00430.43.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 21,
+      "split": "train"
+    },
+    {
+      "frame_idx": 12960,
+      "timestamp_sec": 432.43,
+      "file": "work/frames\\frame_0012960_t00432.43.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 21,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13020,
+      "timestamp_sec": 434.43,
+      "file": "work/frames\\frame_0013020_t00434.43.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 21,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13080,
+      "timestamp_sec": 436.44,
+      "file": "work/frames\\frame_0013080_t00436.44.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 21,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13140,
+      "timestamp_sec": 438.44,
+      "file": "work/frames\\frame_0013140_t00438.44.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 21,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13200,
+      "timestamp_sec": 440.44,
+      "file": "work/frames\\frame_0013200_t00440.44.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 22,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13260,
+      "timestamp_sec": 442.44,
+      "file": "work/frames\\frame_0013260_t00442.44.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 22,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13320,
+      "timestamp_sec": 444.44,
+      "file": "work/frames\\frame_0013320_t00444.44.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 22,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13380,
+      "timestamp_sec": 446.45,
+      "file": "work/frames\\frame_0013380_t00446.45.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 22,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13440,
+      "timestamp_sec": 448.45,
+      "file": "work/frames\\frame_0013440_t00448.45.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 22,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13500,
+      "timestamp_sec": 450.45,
+      "file": "work/frames\\frame_0013500_t00450.45.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 22,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13560,
+      "timestamp_sec": 452.45,
+      "file": "work/frames\\frame_0013560_t00452.45.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 22,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13620,
+      "timestamp_sec": 454.45,
+      "file": "work/frames\\frame_0013620_t00454.45.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 22,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13680,
+      "timestamp_sec": 456.46,
+      "file": "work/frames\\frame_0013680_t00456.46.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 22,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13740,
+      "timestamp_sec": 458.46,
+      "file": "work/frames\\frame_0013740_t00458.46.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 22,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13800,
+      "timestamp_sec": 460.46,
+      "file": "work/frames\\frame_0013800_t00460.46.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 23,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13860,
+      "timestamp_sec": 462.46,
+      "file": "work/frames\\frame_0013860_t00462.46.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 23,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13920,
+      "timestamp_sec": 464.46,
+      "file": "work/frames\\frame_0013920_t00464.46.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 23,
+      "split": "train"
+    },
+    {
+      "frame_idx": 13980,
+      "timestamp_sec": 466.47,
+      "file": "work/frames\\frame_0013980_t00466.47.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 23,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14040,
+      "timestamp_sec": 468.47,
+      "file": "work/frames\\frame_0014040_t00468.47.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 23,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14100,
+      "timestamp_sec": 470.47,
+      "file": "work/frames\\frame_0014100_t00470.47.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 23,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14160,
+      "timestamp_sec": 472.47,
+      "file": "work/frames\\frame_0014160_t00472.47.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 23,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14220,
+      "timestamp_sec": 474.47,
+      "file": "work/frames\\frame_0014220_t00474.47.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 23,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14280,
+      "timestamp_sec": 476.48,
+      "file": "work/frames\\frame_0014280_t00476.48.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 23,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14340,
+      "timestamp_sec": 478.48,
+      "file": "work/frames\\frame_0014340_t00478.48.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 23,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14400,
+      "timestamp_sec": 480.48,
+      "file": "work/frames\\frame_0014400_t00480.48.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 24,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14460,
+      "timestamp_sec": 482.48,
+      "file": "work/frames\\frame_0014460_t00482.48.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 24,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14520,
+      "timestamp_sec": 484.48,
+      "file": "work/frames\\frame_0014520_t00484.48.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 24,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14580,
+      "timestamp_sec": 486.49,
+      "file": "work/frames\\frame_0014580_t00486.49.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 24,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14640,
+      "timestamp_sec": 488.49,
+      "file": "work/frames\\frame_0014640_t00488.49.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 24,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14700,
+      "timestamp_sec": 490.49,
+      "file": "work/frames\\frame_0014700_t00490.49.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 24,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14760,
+      "timestamp_sec": 492.49,
+      "file": "work/frames\\frame_0014760_t00492.49.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 24,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14820,
+      "timestamp_sec": 494.49,
+      "file": "work/frames\\frame_0014820_t00494.49.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 24,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14880,
+      "timestamp_sec": 496.5,
+      "file": "work/frames\\frame_0014880_t00496.50.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 24,
+      "split": "train"
+    },
+    {
+      "frame_idx": 14940,
+      "timestamp_sec": 498.5,
+      "file": "work/frames\\frame_0014940_t00498.50.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 24,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15000,
+      "timestamp_sec": 500.5,
+      "file": "work/frames\\frame_0015000_t00500.50.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 25,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15060,
+      "timestamp_sec": 502.5,
+      "file": "work/frames\\frame_0015060_t00502.50.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 25,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15120,
+      "timestamp_sec": 504.5,
+      "file": "work/frames\\frame_0015120_t00504.50.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 25,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15180,
+      "timestamp_sec": 506.51,
+      "file": "work/frames\\frame_0015180_t00506.51.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 25,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15240,
+      "timestamp_sec": 508.51,
+      "file": "work/frames\\frame_0015240_t00508.51.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 25,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15300,
+      "timestamp_sec": 510.51,
+      "file": "work/frames\\frame_0015300_t00510.51.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 25,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15360,
+      "timestamp_sec": 512.51,
+      "file": "work/frames\\frame_0015360_t00512.51.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 25,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15420,
+      "timestamp_sec": 514.51,
+      "file": "work/frames\\frame_0015420_t00514.51.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 25,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15480,
+      "timestamp_sec": 516.52,
+      "file": "work/frames\\frame_0015480_t00516.52.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 25,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15540,
+      "timestamp_sec": 518.52,
+      "file": "work/frames\\frame_0015540_t00518.52.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 25,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15600,
+      "timestamp_sec": 520.52,
+      "file": "work/frames\\frame_0015600_t00520.52.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 26,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15660,
+      "timestamp_sec": 522.52,
+      "file": "work/frames\\frame_0015660_t00522.52.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 26,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15720,
+      "timestamp_sec": 524.52,
+      "file": "work/frames\\frame_0015720_t00524.52.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 26,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15780,
+      "timestamp_sec": 526.53,
+      "file": "work/frames\\frame_0015780_t00526.53.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 26,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15840,
+      "timestamp_sec": 528.53,
+      "file": "work/frames\\frame_0015840_t00528.53.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 26,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15900,
+      "timestamp_sec": 530.53,
+      "file": "work/frames\\frame_0015900_t00530.53.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 26,
+      "split": "train"
+    },
+    {
+      "frame_idx": 15960,
+      "timestamp_sec": 532.53,
+      "file": "work/frames\\frame_0015960_t00532.53.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 26,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16020,
+      "timestamp_sec": 534.53,
+      "file": "work/frames\\frame_0016020_t00534.53.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 26,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16080,
+      "timestamp_sec": 536.54,
+      "file": "work/frames\\frame_0016080_t00536.54.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 26,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16140,
+      "timestamp_sec": 538.54,
+      "file": "work/frames\\frame_0016140_t00538.54.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 26,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16200,
+      "timestamp_sec": 540.54,
+      "file": "work/frames\\frame_0016200_t00540.54.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 27,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16260,
+      "timestamp_sec": 542.54,
+      "file": "work/frames\\frame_0016260_t00542.54.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 27,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16380,
+      "timestamp_sec": 546.55,
+      "file": "work/frames\\frame_0016380_t00546.55.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 27,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16440,
+      "timestamp_sec": 548.55,
+      "file": "work/frames\\frame_0016440_t00548.55.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 27,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16500,
+      "timestamp_sec": 550.55,
+      "file": "work/frames\\frame_0016500_t00550.55.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 27,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16560,
+      "timestamp_sec": 552.55,
+      "file": "work/frames\\frame_0016560_t00552.55.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 27,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16620,
+      "timestamp_sec": 554.55,
+      "file": "work/frames\\frame_0016620_t00554.55.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 27,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16680,
+      "timestamp_sec": 556.56,
+      "file": "work/frames\\frame_0016680_t00556.56.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 27,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16740,
+      "timestamp_sec": 558.56,
+      "file": "work/frames\\frame_0016740_t00558.56.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 27,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16800,
+      "timestamp_sec": 560.56,
+      "file": "work/frames\\frame_0016800_t00560.56.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 28,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16860,
+      "timestamp_sec": 562.56,
+      "file": "work/frames\\frame_0016860_t00562.56.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 28,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16920,
+      "timestamp_sec": 564.56,
+      "file": "work/frames\\frame_0016920_t00564.56.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 28,
+      "split": "train"
+    },
+    {
+      "frame_idx": 16980,
+      "timestamp_sec": 566.57,
+      "file": "work/frames\\frame_0016980_t00566.57.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 28,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17040,
+      "timestamp_sec": 568.57,
+      "file": "work/frames\\frame_0017040_t00568.57.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 28,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17100,
+      "timestamp_sec": 570.57,
+      "file": "work/frames\\frame_0017100_t00570.57.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 28,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17160,
+      "timestamp_sec": 572.57,
+      "file": "work/frames\\frame_0017160_t00572.57.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 28,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17220,
+      "timestamp_sec": 574.57,
+      "file": "work/frames\\frame_0017220_t00574.57.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 28,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17280,
+      "timestamp_sec": 576.58,
+      "file": "work/frames\\frame_0017280_t00576.58.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 28,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17340,
+      "timestamp_sec": 578.58,
+      "file": "work/frames\\frame_0017340_t00578.58.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 28,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17400,
+      "timestamp_sec": 580.58,
+      "file": "work/frames\\frame_0017400_t00580.58.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 29,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17460,
+      "timestamp_sec": 582.58,
+      "file": "work/frames\\frame_0017460_t00582.58.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 29,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17520,
+      "timestamp_sec": 584.58,
+      "file": "work/frames\\frame_0017520_t00584.58.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 29,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17580,
+      "timestamp_sec": 586.59,
+      "file": "work/frames\\frame_0017580_t00586.59.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 29,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17640,
+      "timestamp_sec": 588.59,
+      "file": "work/frames\\frame_0017640_t00588.59.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 29,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17700,
+      "timestamp_sec": 590.59,
+      "file": "work/frames\\frame_0017700_t00590.59.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 29,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17760,
+      "timestamp_sec": 592.59,
+      "file": "work/frames\\frame_0017760_t00592.59.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 29,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17820,
+      "timestamp_sec": 594.59,
+      "file": "work/frames\\frame_0017820_t00594.59.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 29,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17880,
+      "timestamp_sec": 596.6,
+      "file": "work/frames\\frame_0017880_t00596.60.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 29,
+      "split": "train"
+    },
+    {
+      "frame_idx": 17940,
+      "timestamp_sec": 598.6,
+      "file": "work/frames\\frame_0017940_t00598.60.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 29,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18000,
+      "timestamp_sec": 600.6,
+      "file": "work/frames\\frame_0018000_t00600.60.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 30,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18060,
+      "timestamp_sec": 602.6,
+      "file": "work/frames\\frame_0018060_t00602.60.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 30,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18120,
+      "timestamp_sec": 604.6,
+      "file": "work/frames\\frame_0018120_t00604.60.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 30,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18180,
+      "timestamp_sec": 606.61,
+      "file": "work/frames\\frame_0018180_t00606.61.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 30,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18240,
+      "timestamp_sec": 608.61,
+      "file": "work/frames\\frame_0018240_t00608.61.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 30,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18300,
+      "timestamp_sec": 610.61,
+      "file": "work/frames\\frame_0018300_t00610.61.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 30,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18360,
+      "timestamp_sec": 612.61,
+      "file": "work/frames\\frame_0018360_t00612.61.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 30,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18420,
+      "timestamp_sec": 614.61,
+      "file": "work/frames\\frame_0018420_t00614.61.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 30,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18480,
+      "timestamp_sec": 616.62,
+      "file": "work/frames\\frame_0018480_t00616.62.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 30,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18540,
+      "timestamp_sec": 618.62,
+      "file": "work/frames\\frame_0018540_t00618.62.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 30,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18600,
+      "timestamp_sec": 620.62,
+      "file": "work/frames\\frame_0018600_t00620.62.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 31,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18660,
+      "timestamp_sec": 622.62,
+      "file": "work/frames\\frame_0018660_t00622.62.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 31,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18720,
+      "timestamp_sec": 624.62,
+      "file": "work/frames\\frame_0018720_t00624.62.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 31,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18780,
+      "timestamp_sec": 626.63,
+      "file": "work/frames\\frame_0018780_t00626.63.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 31,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18840,
+      "timestamp_sec": 628.63,
+      "file": "work/frames\\frame_0018840_t00628.63.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 31,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18900,
+      "timestamp_sec": 630.63,
+      "file": "work/frames\\frame_0018900_t00630.63.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 31,
+      "split": "train"
+    },
+    {
+      "frame_idx": 18960,
+      "timestamp_sec": 632.63,
+      "file": "work/frames\\frame_0018960_t00632.63.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 31,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19020,
+      "timestamp_sec": 634.63,
+      "file": "work/frames\\frame_0019020_t00634.63.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 31,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19080,
+      "timestamp_sec": 636.64,
+      "file": "work/frames\\frame_0019080_t00636.64.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 31,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19140,
+      "timestamp_sec": 638.64,
+      "file": "work/frames\\frame_0019140_t00638.64.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 31,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19200,
+      "timestamp_sec": 640.64,
+      "file": "work/frames\\frame_0019200_t00640.64.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 32,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19260,
+      "timestamp_sec": 642.64,
+      "file": "work/frames\\frame_0019260_t00642.64.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 32,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19320,
+      "timestamp_sec": 644.64,
+      "file": "work/frames\\frame_0019320_t00644.64.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 32,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19380,
+      "timestamp_sec": 646.65,
+      "file": "work/frames\\frame_0019380_t00646.65.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 32,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19440,
+      "timestamp_sec": 648.65,
+      "file": "work/frames\\frame_0019440_t00648.65.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 32,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19500,
+      "timestamp_sec": 650.65,
+      "file": "work/frames\\frame_0019500_t00650.65.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 32,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19560,
+      "timestamp_sec": 652.65,
+      "file": "work/frames\\frame_0019560_t00652.65.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 32,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19620,
+      "timestamp_sec": 654.65,
+      "file": "work/frames\\frame_0019620_t00654.65.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 32,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19680,
+      "timestamp_sec": 656.66,
+      "file": "work/frames\\frame_0019680_t00656.66.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 32,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19740,
+      "timestamp_sec": 658.66,
+      "file": "work/frames\\frame_0019740_t00658.66.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 32,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19800,
+      "timestamp_sec": 660.66,
+      "file": "work/frames\\frame_0019800_t00660.66.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 33,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19860,
+      "timestamp_sec": 662.66,
+      "file": "work/frames\\frame_0019860_t00662.66.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 33,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19920,
+      "timestamp_sec": 664.66,
+      "file": "work/frames\\frame_0019920_t00664.66.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 33,
+      "split": "train"
+    },
+    {
+      "frame_idx": 19980,
+      "timestamp_sec": 666.67,
+      "file": "work/frames\\frame_0019980_t00666.67.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 33,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20040,
+      "timestamp_sec": 668.67,
+      "file": "work/frames\\frame_0020040_t00668.67.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 33,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20100,
+      "timestamp_sec": 670.67,
+      "file": "work/frames\\frame_0020100_t00670.67.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 33,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20160,
+      "timestamp_sec": 672.67,
+      "file": "work/frames\\frame_0020160_t00672.67.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 33,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20220,
+      "timestamp_sec": 674.67,
+      "file": "work/frames\\frame_0020220_t00674.67.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 33,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20280,
+      "timestamp_sec": 676.68,
+      "file": "work/frames\\frame_0020280_t00676.68.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 33,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20340,
+      "timestamp_sec": 678.68,
+      "file": "work/frames\\frame_0020340_t00678.68.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 33,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20400,
+      "timestamp_sec": 680.68,
+      "file": "work/frames\\frame_0020400_t00680.68.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 34,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20460,
+      "timestamp_sec": 682.68,
+      "file": "work/frames\\frame_0020460_t00682.68.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 34,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20520,
+      "timestamp_sec": 684.68,
+      "file": "work/frames\\frame_0020520_t00684.68.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 34,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20580,
+      "timestamp_sec": 686.69,
+      "file": "work/frames\\frame_0020580_t00686.69.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 34,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20640,
+      "timestamp_sec": 688.69,
+      "file": "work/frames\\frame_0020640_t00688.69.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 34,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20700,
+      "timestamp_sec": 690.69,
+      "file": "work/frames\\frame_0020700_t00690.69.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 34,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20760,
+      "timestamp_sec": 692.69,
+      "file": "work/frames\\frame_0020760_t00692.69.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 34,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20820,
+      "timestamp_sec": 694.69,
+      "file": "work/frames\\frame_0020820_t00694.69.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 34,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20880,
+      "timestamp_sec": 696.7,
+      "file": "work/frames\\frame_0020880_t00696.70.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 34,
+      "split": "train"
+    },
+    {
+      "frame_idx": 20940,
+      "timestamp_sec": 698.7,
+      "file": "work/frames\\frame_0020940_t00698.70.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 34,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21000,
+      "timestamp_sec": 700.7,
+      "file": "work/frames\\frame_0021000_t00700.70.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 35,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21060,
+      "timestamp_sec": 702.7,
+      "file": "work/frames\\frame_0021060_t00702.70.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 35,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21120,
+      "timestamp_sec": 704.7,
+      "file": "work/frames\\frame_0021120_t00704.70.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 35,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21180,
+      "timestamp_sec": 706.71,
+      "file": "work/frames\\frame_0021180_t00706.71.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 35,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21240,
+      "timestamp_sec": 708.71,
+      "file": "work/frames\\frame_0021240_t00708.71.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 35,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21300,
+      "timestamp_sec": 710.71,
+      "file": "work/frames\\frame_0021300_t00710.71.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 35,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21360,
+      "timestamp_sec": 712.71,
+      "file": "work/frames\\frame_0021360_t00712.71.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 35,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21420,
+      "timestamp_sec": 714.71,
+      "file": "work/frames\\frame_0021420_t00714.71.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 35,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21480,
+      "timestamp_sec": 716.72,
+      "file": "work/frames\\frame_0021480_t00716.72.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 35,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21540,
+      "timestamp_sec": 718.72,
+      "file": "work/frames\\frame_0021540_t00718.72.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 35,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21600,
+      "timestamp_sec": 720.72,
+      "file": "work/frames\\frame_0021600_t00720.72.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 36,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21660,
+      "timestamp_sec": 722.72,
+      "file": "work/frames\\frame_0021660_t00722.72.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 36,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21720,
+      "timestamp_sec": 724.72,
+      "file": "work/frames\\frame_0021720_t00724.72.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 36,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21780,
+      "timestamp_sec": 726.73,
+      "file": "work/frames\\frame_0021780_t00726.73.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 36,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21840,
+      "timestamp_sec": 728.73,
+      "file": "work/frames\\frame_0021840_t00728.73.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 36,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21900,
+      "timestamp_sec": 730.73,
+      "file": "work/frames\\frame_0021900_t00730.73.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 36,
+      "split": "train"
+    },
+    {
+      "frame_idx": 21960,
+      "timestamp_sec": 732.73,
+      "file": "work/frames\\frame_0021960_t00732.73.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 36,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22020,
+      "timestamp_sec": 734.73,
+      "file": "work/frames\\frame_0022020_t00734.73.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 36,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22080,
+      "timestamp_sec": 736.74,
+      "file": "work/frames\\frame_0022080_t00736.74.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 36,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22140,
+      "timestamp_sec": 738.74,
+      "file": "work/frames\\frame_0022140_t00738.74.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 36,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22200,
+      "timestamp_sec": 740.74,
+      "file": "work/frames\\frame_0022200_t00740.74.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 37,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22260,
+      "timestamp_sec": 742.74,
+      "file": "work/frames\\frame_0022260_t00742.74.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 37,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22320,
+      "timestamp_sec": 744.74,
+      "file": "work/frames\\frame_0022320_t00744.74.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 37,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22380,
+      "timestamp_sec": 746.75,
+      "file": "work/frames\\frame_0022380_t00746.75.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 37,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22440,
+      "timestamp_sec": 748.75,
+      "file": "work/frames\\frame_0022440_t00748.75.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 37,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22500,
+      "timestamp_sec": 750.75,
+      "file": "work/frames\\frame_0022500_t00750.75.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 37,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22560,
+      "timestamp_sec": 752.75,
+      "file": "work/frames\\frame_0022560_t00752.75.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 37,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22620,
+      "timestamp_sec": 754.75,
+      "file": "work/frames\\frame_0022620_t00754.75.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 37,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22680,
+      "timestamp_sec": 756.76,
+      "file": "work/frames\\frame_0022680_t00756.76.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 37,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22800,
+      "timestamp_sec": 760.76,
+      "file": "work/frames\\frame_0022800_t00760.76.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 38,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22860,
+      "timestamp_sec": 762.76,
+      "file": "work/frames\\frame_0022860_t00762.76.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 38,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22920,
+      "timestamp_sec": 764.76,
+      "file": "work/frames\\frame_0022920_t00764.76.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 38,
+      "split": "train"
+    },
+    {
+      "frame_idx": 22980,
+      "timestamp_sec": 766.77,
+      "file": "work/frames\\frame_0022980_t00766.77.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 38,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23040,
+      "timestamp_sec": 768.77,
+      "file": "work/frames\\frame_0023040_t00768.77.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 38,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23100,
+      "timestamp_sec": 770.77,
+      "file": "work/frames\\frame_0023100_t00770.77.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 38,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23160,
+      "timestamp_sec": 772.77,
+      "file": "work/frames\\frame_0023160_t00772.77.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 38,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23220,
+      "timestamp_sec": 774.77,
+      "file": "work/frames\\frame_0023220_t00774.77.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 38,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23280,
+      "timestamp_sec": 776.78,
+      "file": "work/frames\\frame_0023280_t00776.78.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 38,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23340,
+      "timestamp_sec": 778.78,
+      "file": "work/frames\\frame_0023340_t00778.78.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 38,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23400,
+      "timestamp_sec": 780.78,
+      "file": "work/frames\\frame_0023400_t00780.78.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 39,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23460,
+      "timestamp_sec": 782.78,
+      "file": "work/frames\\frame_0023460_t00782.78.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 39,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23520,
+      "timestamp_sec": 784.78,
+      "file": "work/frames\\frame_0023520_t00784.78.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 39,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23580,
+      "timestamp_sec": 786.79,
+      "file": "work/frames\\frame_0023580_t00786.79.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 39,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23640,
+      "timestamp_sec": 788.79,
+      "file": "work/frames\\frame_0023640_t00788.79.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 39,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23700,
+      "timestamp_sec": 790.79,
+      "file": "work/frames\\frame_0023700_t00790.79.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 39,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23760,
+      "timestamp_sec": 792.79,
+      "file": "work/frames\\frame_0023760_t00792.79.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 39,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23820,
+      "timestamp_sec": 794.79,
+      "file": "work/frames\\frame_0023820_t00794.79.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 39,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23880,
+      "timestamp_sec": 796.8,
+      "file": "work/frames\\frame_0023880_t00796.80.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 39,
+      "split": "train"
+    },
+    {
+      "frame_idx": 23940,
+      "timestamp_sec": 798.8,
+      "file": "work/frames\\frame_0023940_t00798.80.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 39,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24000,
+      "timestamp_sec": 800.8,
+      "file": "work/frames\\frame_0024000_t00800.80.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 40,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24060,
+      "timestamp_sec": 802.8,
+      "file": "work/frames\\frame_0024060_t00802.80.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 40,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24120,
+      "timestamp_sec": 804.8,
+      "file": "work/frames\\frame_0024120_t00804.80.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 40,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24180,
+      "timestamp_sec": 806.81,
+      "file": "work/frames\\frame_0024180_t00806.81.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 40,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24240,
+      "timestamp_sec": 808.81,
+      "file": "work/frames\\frame_0024240_t00808.81.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 40,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24300,
+      "timestamp_sec": 810.81,
+      "file": "work/frames\\frame_0024300_t00810.81.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 40,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24420,
+      "timestamp_sec": 814.81,
+      "file": "work/frames\\frame_0024420_t00814.81.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 40,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24540,
+      "timestamp_sec": 818.82,
+      "file": "work/frames\\frame_0024540_t00818.82.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 40,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24600,
+      "timestamp_sec": 820.82,
+      "file": "work/frames\\frame_0024600_t00820.82.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 41,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24660,
+      "timestamp_sec": 822.82,
+      "file": "work/frames\\frame_0024660_t00822.82.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 41,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24720,
+      "timestamp_sec": 824.82,
+      "file": "work/frames\\frame_0024720_t00824.82.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 41,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24780,
+      "timestamp_sec": 826.83,
+      "file": "work/frames\\frame_0024780_t00826.83.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 41,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24840,
+      "timestamp_sec": 828.83,
+      "file": "work/frames\\frame_0024840_t00828.83.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 41,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24900,
+      "timestamp_sec": 830.83,
+      "file": "work/frames\\frame_0024900_t00830.83.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 41,
+      "split": "train"
+    },
+    {
+      "frame_idx": 24960,
+      "timestamp_sec": 832.83,
+      "file": "work/frames\\frame_0024960_t00832.83.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 41,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25020,
+      "timestamp_sec": 834.83,
+      "file": "work/frames\\frame_0025020_t00834.83.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 41,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25080,
+      "timestamp_sec": 836.84,
+      "file": "work/frames\\frame_0025080_t00836.84.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 41,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25140,
+      "timestamp_sec": 838.84,
+      "file": "work/frames\\frame_0025140_t00838.84.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 41,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25200,
+      "timestamp_sec": 840.84,
+      "file": "work/frames\\frame_0025200_t00840.84.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 42,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25260,
+      "timestamp_sec": 842.84,
+      "file": "work/frames\\frame_0025260_t00842.84.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 42,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25320,
+      "timestamp_sec": 844.84,
+      "file": "work/frames\\frame_0025320_t00844.84.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 42,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25380,
+      "timestamp_sec": 846.85,
+      "file": "work/frames\\frame_0025380_t00846.85.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 42,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25440,
+      "timestamp_sec": 848.85,
+      "file": "work/frames\\frame_0025440_t00848.85.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 42,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25500,
+      "timestamp_sec": 850.85,
+      "file": "work/frames\\frame_0025500_t00850.85.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 42,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25560,
+      "timestamp_sec": 852.85,
+      "file": "work/frames\\frame_0025560_t00852.85.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 42,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25620,
+      "timestamp_sec": 854.85,
+      "file": "work/frames\\frame_0025620_t00854.85.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 42,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25680,
+      "timestamp_sec": 856.86,
+      "file": "work/frames\\frame_0025680_t00856.86.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 42,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25740,
+      "timestamp_sec": 858.86,
+      "file": "work/frames\\frame_0025740_t00858.86.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 42,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25800,
+      "timestamp_sec": 860.86,
+      "file": "work/frames\\frame_0025800_t00860.86.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 43,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25860,
+      "timestamp_sec": 862.86,
+      "file": "work/frames\\frame_0025860_t00862.86.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 43,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25920,
+      "timestamp_sec": 864.86,
+      "file": "work/frames\\frame_0025920_t00864.86.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 43,
+      "split": "train"
+    },
+    {
+      "frame_idx": 25980,
+      "timestamp_sec": 866.87,
+      "file": "work/frames\\frame_0025980_t00866.87.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 43,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26040,
+      "timestamp_sec": 868.87,
+      "file": "work/frames\\frame_0026040_t00868.87.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 43,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26100,
+      "timestamp_sec": 870.87,
+      "file": "work/frames\\frame_0026100_t00870.87.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 43,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26160,
+      "timestamp_sec": 872.87,
+      "file": "work/frames\\frame_0026160_t00872.87.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 43,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26220,
+      "timestamp_sec": 874.87,
+      "file": "work/frames\\frame_0026220_t00874.87.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 43,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26280,
+      "timestamp_sec": 876.88,
+      "file": "work/frames\\frame_0026280_t00876.88.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 43,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26340,
+      "timestamp_sec": 878.88,
+      "file": "work/frames\\frame_0026340_t00878.88.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 43,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26400,
+      "timestamp_sec": 880.88,
+      "file": "work/frames\\frame_0026400_t00880.88.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 44,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26460,
+      "timestamp_sec": 882.88,
+      "file": "work/frames\\frame_0026460_t00882.88.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 44,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26520,
+      "timestamp_sec": 884.88,
+      "file": "work/frames\\frame_0026520_t00884.88.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 44,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26580,
+      "timestamp_sec": 886.89,
+      "file": "work/frames\\frame_0026580_t00886.89.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 44,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26640,
+      "timestamp_sec": 888.89,
+      "file": "work/frames\\frame_0026640_t00888.89.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 44,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26700,
+      "timestamp_sec": 890.89,
+      "file": "work/frames\\frame_0026700_t00890.89.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 44,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26760,
+      "timestamp_sec": 892.89,
+      "file": "work/frames\\frame_0026760_t00892.89.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 44,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26820,
+      "timestamp_sec": 894.89,
+      "file": "work/frames\\frame_0026820_t00894.89.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 44,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26880,
+      "timestamp_sec": 896.9,
+      "file": "work/frames\\frame_0026880_t00896.90.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 44,
+      "split": "train"
+    },
+    {
+      "frame_idx": 26940,
+      "timestamp_sec": 898.9,
+      "file": "work/frames\\frame_0026940_t00898.90.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 44,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27000,
+      "timestamp_sec": 900.9,
+      "file": "work/frames\\frame_0027000_t00900.90.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 45,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27060,
+      "timestamp_sec": 902.9,
+      "file": "work/frames\\frame_0027060_t00902.90.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 45,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27120,
+      "timestamp_sec": 904.9,
+      "file": "work/frames\\frame_0027120_t00904.90.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 45,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27180,
+      "timestamp_sec": 906.91,
+      "file": "work/frames\\frame_0027180_t00906.91.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 45,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27240,
+      "timestamp_sec": 908.91,
+      "file": "work/frames\\frame_0027240_t00908.91.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 45,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27300,
+      "timestamp_sec": 910.91,
+      "file": "work/frames\\frame_0027300_t00910.91.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 45,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27360,
+      "timestamp_sec": 912.91,
+      "file": "work/frames\\frame_0027360_t00912.91.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 45,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27420,
+      "timestamp_sec": 914.91,
+      "file": "work/frames\\frame_0027420_t00914.91.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 45,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27480,
+      "timestamp_sec": 916.92,
+      "file": "work/frames\\frame_0027480_t00916.92.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 45,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27540,
+      "timestamp_sec": 918.92,
+      "file": "work/frames\\frame_0027540_t00918.92.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 45,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27600,
+      "timestamp_sec": 920.92,
+      "file": "work/frames\\frame_0027600_t00920.92.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 46,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27660,
+      "timestamp_sec": 922.92,
+      "file": "work/frames\\frame_0027660_t00922.92.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 46,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27720,
+      "timestamp_sec": 924.92,
+      "file": "work/frames\\frame_0027720_t00924.92.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 46,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27780,
+      "timestamp_sec": 926.93,
+      "file": "work/frames\\frame_0027780_t00926.93.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 46,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27840,
+      "timestamp_sec": 928.93,
+      "file": "work/frames\\frame_0027840_t00928.93.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 46,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27900,
+      "timestamp_sec": 930.93,
+      "file": "work/frames\\frame_0027900_t00930.93.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 46,
+      "split": "train"
+    },
+    {
+      "frame_idx": 27960,
+      "timestamp_sec": 932.93,
+      "file": "work/frames\\frame_0027960_t00932.93.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 46,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28020,
+      "timestamp_sec": 934.93,
+      "file": "work/frames\\frame_0028020_t00934.93.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 46,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28080,
+      "timestamp_sec": 936.94,
+      "file": "work/frames\\frame_0028080_t00936.94.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 46,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28140,
+      "timestamp_sec": 938.94,
+      "file": "work/frames\\frame_0028140_t00938.94.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 46,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28200,
+      "timestamp_sec": 940.94,
+      "file": "work/frames\\frame_0028200_t00940.94.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 47,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28260,
+      "timestamp_sec": 942.94,
+      "file": "work/frames\\frame_0028260_t00942.94.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 47,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28320,
+      "timestamp_sec": 944.94,
+      "file": "work/frames\\frame_0028320_t00944.94.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 47,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28380,
+      "timestamp_sec": 946.95,
+      "file": "work/frames\\frame_0028380_t00946.95.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 47,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28440,
+      "timestamp_sec": 948.95,
+      "file": "work/frames\\frame_0028440_t00948.95.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 47,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28500,
+      "timestamp_sec": 950.95,
+      "file": "work/frames\\frame_0028500_t00950.95.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 47,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28560,
+      "timestamp_sec": 952.95,
+      "file": "work/frames\\frame_0028560_t00952.95.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 47,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28620,
+      "timestamp_sec": 954.95,
+      "file": "work/frames\\frame_0028620_t00954.95.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 47,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28680,
+      "timestamp_sec": 956.96,
+      "file": "work/frames\\frame_0028680_t00956.96.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 47,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28740,
+      "timestamp_sec": 958.96,
+      "file": "work/frames\\frame_0028740_t00958.96.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 47,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28800,
+      "timestamp_sec": 960.96,
+      "file": "work/frames\\frame_0028800_t00960.96.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 48,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28860,
+      "timestamp_sec": 962.96,
+      "file": "work/frames\\frame_0028860_t00962.96.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 48,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28920,
+      "timestamp_sec": 964.96,
+      "file": "work/frames\\frame_0028920_t00964.96.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 48,
+      "split": "train"
+    },
+    {
+      "frame_idx": 28980,
+      "timestamp_sec": 966.97,
+      "file": "work/frames\\frame_0028980_t00966.97.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 48,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29040,
+      "timestamp_sec": 968.97,
+      "file": "work/frames\\frame_0029040_t00968.97.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 48,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29100,
+      "timestamp_sec": 970.97,
+      "file": "work/frames\\frame_0029100_t00970.97.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 48,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29160,
+      "timestamp_sec": 972.97,
+      "file": "work/frames\\frame_0029160_t00972.97.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 48,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29220,
+      "timestamp_sec": 974.97,
+      "file": "work/frames\\frame_0029220_t00974.97.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 48,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29280,
+      "timestamp_sec": 976.98,
+      "file": "work/frames\\frame_0029280_t00976.98.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 48,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29340,
+      "timestamp_sec": 978.98,
+      "file": "work/frames\\frame_0029340_t00978.98.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 48,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29400,
+      "timestamp_sec": 980.98,
+      "file": "work/frames\\frame_0029400_t00980.98.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 49,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29460,
+      "timestamp_sec": 982.98,
+      "file": "work/frames\\frame_0029460_t00982.98.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 49,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29520,
+      "timestamp_sec": 984.98,
+      "file": "work/frames\\frame_0029520_t00984.98.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 49,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29580,
+      "timestamp_sec": 986.99,
+      "file": "work/frames\\frame_0029580_t00986.99.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 49,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29640,
+      "timestamp_sec": 988.99,
+      "file": "work/frames\\frame_0029640_t00988.99.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 49,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29700,
+      "timestamp_sec": 990.99,
+      "file": "work/frames\\frame_0029700_t00990.99.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 49,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29760,
+      "timestamp_sec": 992.99,
+      "file": "work/frames\\frame_0029760_t00992.99.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 49,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29820,
+      "timestamp_sec": 994.99,
+      "file": "work/frames\\frame_0029820_t00994.99.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 49,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29880,
+      "timestamp_sec": 997.0,
+      "file": "work/frames\\frame_0029880_t00997.00.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 49,
+      "split": "train"
+    },
+    {
+      "frame_idx": 29940,
+      "timestamp_sec": 999.0,
+      "file": "work/frames\\frame_0029940_t00999.00.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 49,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30000,
+      "timestamp_sec": 1001.0,
+      "file": "work/frames\\frame_0030000_t01001.00.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 50,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30060,
+      "timestamp_sec": 1003.0,
+      "file": "work/frames\\frame_0030060_t01003.00.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 50,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30120,
+      "timestamp_sec": 1005.0,
+      "file": "work/frames\\frame_0030120_t01005.00.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 50,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30180,
+      "timestamp_sec": 1007.01,
+      "file": "work/frames\\frame_0030180_t01007.01.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 50,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30240,
+      "timestamp_sec": 1009.01,
+      "file": "work/frames\\frame_0030240_t01009.01.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 50,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30300,
+      "timestamp_sec": 1011.01,
+      "file": "work/frames\\frame_0030300_t01011.01.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 50,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30360,
+      "timestamp_sec": 1013.01,
+      "file": "work/frames\\frame_0030360_t01013.01.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 50,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30420,
+      "timestamp_sec": 1015.01,
+      "file": "work/frames\\frame_0030420_t01015.01.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 50,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30480,
+      "timestamp_sec": 1017.02,
+      "file": "work/frames\\frame_0030480_t01017.02.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 50,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30540,
+      "timestamp_sec": 1019.02,
+      "file": "work/frames\\frame_0030540_t01019.02.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 50,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30600,
+      "timestamp_sec": 1021.02,
+      "file": "work/frames\\frame_0030600_t01021.02.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 51,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30660,
+      "timestamp_sec": 1023.02,
+      "file": "work/frames\\frame_0030660_t01023.02.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 51,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30720,
+      "timestamp_sec": 1025.02,
+      "file": "work/frames\\frame_0030720_t01025.02.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 51,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30780,
+      "timestamp_sec": 1027.03,
+      "file": "work/frames\\frame_0030780_t01027.03.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 51,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30840,
+      "timestamp_sec": 1029.03,
+      "file": "work/frames\\frame_0030840_t01029.03.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 51,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30900,
+      "timestamp_sec": 1031.03,
+      "file": "work/frames\\frame_0030900_t01031.03.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 51,
+      "split": "train"
+    },
+    {
+      "frame_idx": 30960,
+      "timestamp_sec": 1033.03,
+      "file": "work/frames\\frame_0030960_t01033.03.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 51,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31020,
+      "timestamp_sec": 1035.03,
+      "file": "work/frames\\frame_0031020_t01035.03.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 51,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31080,
+      "timestamp_sec": 1037.04,
+      "file": "work/frames\\frame_0031080_t01037.04.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 51,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31140,
+      "timestamp_sec": 1039.04,
+      "file": "work/frames\\frame_0031140_t01039.04.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 51,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31200,
+      "timestamp_sec": 1041.04,
+      "file": "work/frames\\frame_0031200_t01041.04.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 52,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31260,
+      "timestamp_sec": 1043.04,
+      "file": "work/frames\\frame_0031260_t01043.04.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 52,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31320,
+      "timestamp_sec": 1045.04,
+      "file": "work/frames\\frame_0031320_t01045.04.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 52,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31380,
+      "timestamp_sec": 1047.05,
+      "file": "work/frames\\frame_0031380_t01047.05.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 52,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31440,
+      "timestamp_sec": 1049.05,
+      "file": "work/frames\\frame_0031440_t01049.05.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 52,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31500,
+      "timestamp_sec": 1051.05,
+      "file": "work/frames\\frame_0031500_t01051.05.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 52,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31560,
+      "timestamp_sec": 1053.05,
+      "file": "work/frames\\frame_0031560_t01053.05.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 52,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31620,
+      "timestamp_sec": 1055.05,
+      "file": "work/frames\\frame_0031620_t01055.05.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 52,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31680,
+      "timestamp_sec": 1057.06,
+      "file": "work/frames\\frame_0031680_t01057.06.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 52,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31740,
+      "timestamp_sec": 1059.06,
+      "file": "work/frames\\frame_0031740_t01059.06.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 52,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31800,
+      "timestamp_sec": 1061.06,
+      "file": "work/frames\\frame_0031800_t01061.06.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 53,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31860,
+      "timestamp_sec": 1063.06,
+      "file": "work/frames\\frame_0031860_t01063.06.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 53,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31920,
+      "timestamp_sec": 1065.06,
+      "file": "work/frames\\frame_0031920_t01065.06.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 53,
+      "split": "train"
+    },
+    {
+      "frame_idx": 31980,
+      "timestamp_sec": 1067.07,
+      "file": "work/frames\\frame_0031980_t01067.07.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 53,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32040,
+      "timestamp_sec": 1069.07,
+      "file": "work/frames\\frame_0032040_t01069.07.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 53,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32100,
+      "timestamp_sec": 1071.07,
+      "file": "work/frames\\frame_0032100_t01071.07.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 53,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32160,
+      "timestamp_sec": 1073.07,
+      "file": "work/frames\\frame_0032160_t01073.07.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 53,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32220,
+      "timestamp_sec": 1075.07,
+      "file": "work/frames\\frame_0032220_t01075.07.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 53,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32280,
+      "timestamp_sec": 1077.08,
+      "file": "work/frames\\frame_0032280_t01077.08.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 53,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32340,
+      "timestamp_sec": 1079.08,
+      "file": "work/frames\\frame_0032340_t01079.08.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 53,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32400,
+      "timestamp_sec": 1081.08,
+      "file": "work/frames\\frame_0032400_t01081.08.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 54,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32460,
+      "timestamp_sec": 1083.08,
+      "file": "work/frames\\frame_0032460_t01083.08.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 54,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32520,
+      "timestamp_sec": 1085.08,
+      "file": "work/frames\\frame_0032520_t01085.08.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 54,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32580,
+      "timestamp_sec": 1087.09,
+      "file": "work/frames\\frame_0032580_t01087.09.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 54,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32640,
+      "timestamp_sec": 1089.09,
+      "file": "work/frames\\frame_0032640_t01089.09.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 54,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32700,
+      "timestamp_sec": 1091.09,
+      "file": "work/frames\\frame_0032700_t01091.09.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 54,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32760,
+      "timestamp_sec": 1093.09,
+      "file": "work/frames\\frame_0032760_t01093.09.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 54,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32820,
+      "timestamp_sec": 1095.09,
+      "file": "work/frames\\frame_0032820_t01095.09.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 54,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32880,
+      "timestamp_sec": 1097.1,
+      "file": "work/frames\\frame_0032880_t01097.10.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 54,
+      "split": "train"
+    },
+    {
+      "frame_idx": 32940,
+      "timestamp_sec": 1099.1,
+      "file": "work/frames\\frame_0032940_t01099.10.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 54,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33000,
+      "timestamp_sec": 1101.1,
+      "file": "work/frames\\frame_0033000_t01101.10.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 55,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33060,
+      "timestamp_sec": 1103.1,
+      "file": "work/frames\\frame_0033060_t01103.10.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 55,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33120,
+      "timestamp_sec": 1105.1,
+      "file": "work/frames\\frame_0033120_t01105.10.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 55,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33180,
+      "timestamp_sec": 1107.11,
+      "file": "work/frames\\frame_0033180_t01107.11.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 55,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33240,
+      "timestamp_sec": 1109.11,
+      "file": "work/frames\\frame_0033240_t01109.11.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 55,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33300,
+      "timestamp_sec": 1111.11,
+      "file": "work/frames\\frame_0033300_t01111.11.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 55,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33360,
+      "timestamp_sec": 1113.11,
+      "file": "work/frames\\frame_0033360_t01113.11.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 55,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33420,
+      "timestamp_sec": 1115.11,
+      "file": "work/frames\\frame_0033420_t01115.11.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 55,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33480,
+      "timestamp_sec": 1117.12,
+      "file": "work/frames\\frame_0033480_t01117.12.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 55,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33540,
+      "timestamp_sec": 1119.12,
+      "file": "work/frames\\frame_0033540_t01119.12.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 55,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33600,
+      "timestamp_sec": 1121.12,
+      "file": "work/frames\\frame_0033600_t01121.12.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 56,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33660,
+      "timestamp_sec": 1123.12,
+      "file": "work/frames\\frame_0033660_t01123.12.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 56,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33720,
+      "timestamp_sec": 1125.12,
+      "file": "work/frames\\frame_0033720_t01125.12.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 56,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33780,
+      "timestamp_sec": 1127.13,
+      "file": "work/frames\\frame_0033780_t01127.13.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 56,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33840,
+      "timestamp_sec": 1129.13,
+      "file": "work/frames\\frame_0033840_t01129.13.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 56,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33900,
+      "timestamp_sec": 1131.13,
+      "file": "work/frames\\frame_0033900_t01131.13.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 56,
+      "split": "train"
+    },
+    {
+      "frame_idx": 33960,
+      "timestamp_sec": 1133.13,
+      "file": "work/frames\\frame_0033960_t01133.13.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 56,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34020,
+      "timestamp_sec": 1135.13,
+      "file": "work/frames\\frame_0034020_t01135.13.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 56,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34080,
+      "timestamp_sec": 1137.14,
+      "file": "work/frames\\frame_0034080_t01137.14.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 56,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34140,
+      "timestamp_sec": 1139.14,
+      "file": "work/frames\\frame_0034140_t01139.14.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 56,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34200,
+      "timestamp_sec": 1141.14,
+      "file": "work/frames\\frame_0034200_t01141.14.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 57,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34260,
+      "timestamp_sec": 1143.14,
+      "file": "work/frames\\frame_0034260_t01143.14.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 57,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34320,
+      "timestamp_sec": 1145.14,
+      "file": "work/frames\\frame_0034320_t01145.14.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 57,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34380,
+      "timestamp_sec": 1147.15,
+      "file": "work/frames\\frame_0034380_t01147.15.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 57,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34440,
+      "timestamp_sec": 1149.15,
+      "file": "work/frames\\frame_0034440_t01149.15.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 57,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34500,
+      "timestamp_sec": 1151.15,
+      "file": "work/frames\\frame_0034500_t01151.15.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 57,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34560,
+      "timestamp_sec": 1153.15,
+      "file": "work/frames\\frame_0034560_t01153.15.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 57,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34620,
+      "timestamp_sec": 1155.15,
+      "file": "work/frames\\frame_0034620_t01155.15.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 57,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34680,
+      "timestamp_sec": 1157.16,
+      "file": "work/frames\\frame_0034680_t01157.16.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 57,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34740,
+      "timestamp_sec": 1159.16,
+      "file": "work/frames\\frame_0034740_t01159.16.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 57,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34800,
+      "timestamp_sec": 1161.16,
+      "file": "work/frames\\frame_0034800_t01161.16.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 58,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34860,
+      "timestamp_sec": 1163.16,
+      "file": "work/frames\\frame_0034860_t01163.16.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 58,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34920,
+      "timestamp_sec": 1165.16,
+      "file": "work/frames\\frame_0034920_t01165.16.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 58,
+      "split": "train"
+    },
+    {
+      "frame_idx": 34980,
+      "timestamp_sec": 1167.17,
+      "file": "work/frames\\frame_0034980_t01167.17.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 58,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35040,
+      "timestamp_sec": 1169.17,
+      "file": "work/frames\\frame_0035040_t01169.17.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 58,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35100,
+      "timestamp_sec": 1171.17,
+      "file": "work/frames\\frame_0035100_t01171.17.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 58,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35160,
+      "timestamp_sec": 1173.17,
+      "file": "work/frames\\frame_0035160_t01173.17.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 58,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35220,
+      "timestamp_sec": 1175.17,
+      "file": "work/frames\\frame_0035220_t01175.17.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 58,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35280,
+      "timestamp_sec": 1177.18,
+      "file": "work/frames\\frame_0035280_t01177.18.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 58,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35340,
+      "timestamp_sec": 1179.18,
+      "file": "work/frames\\frame_0035340_t01179.18.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 58,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35400,
+      "timestamp_sec": 1181.18,
+      "file": "work/frames\\frame_0035400_t01181.18.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 59,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35460,
+      "timestamp_sec": 1183.18,
+      "file": "work/frames\\frame_0035460_t01183.18.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 59,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35520,
+      "timestamp_sec": 1185.18,
+      "file": "work/frames\\frame_0035520_t01185.18.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 59,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35580,
+      "timestamp_sec": 1187.19,
+      "file": "work/frames\\frame_0035580_t01187.19.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 59,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35640,
+      "timestamp_sec": 1189.19,
+      "file": "work/frames\\frame_0035640_t01189.19.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 59,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35700,
+      "timestamp_sec": 1191.19,
+      "file": "work/frames\\frame_0035700_t01191.19.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 59,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35760,
+      "timestamp_sec": 1193.19,
+      "file": "work/frames\\frame_0035760_t01193.19.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 59,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35820,
+      "timestamp_sec": 1195.19,
+      "file": "work/frames\\frame_0035820_t01195.19.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 59,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35880,
+      "timestamp_sec": 1197.2,
+      "file": "work/frames\\frame_0035880_t01197.20.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 59,
+      "split": "train"
+    },
+    {
+      "frame_idx": 35940,
+      "timestamp_sec": 1199.2,
+      "file": "work/frames\\frame_0035940_t01199.20.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 59,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36000,
+      "timestamp_sec": 1201.2,
+      "file": "work/frames\\frame_0036000_t01201.20.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 60,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36060,
+      "timestamp_sec": 1203.2,
+      "file": "work/frames\\frame_0036060_t01203.20.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 60,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36120,
+      "timestamp_sec": 1205.2,
+      "file": "work/frames\\frame_0036120_t01205.20.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 60,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36180,
+      "timestamp_sec": 1207.21,
+      "file": "work/frames\\frame_0036180_t01207.21.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 60,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36240,
+      "timestamp_sec": 1209.21,
+      "file": "work/frames\\frame_0036240_t01209.21.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 60,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36300,
+      "timestamp_sec": 1211.21,
+      "file": "work/frames\\frame_0036300_t01211.21.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 60,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36360,
+      "timestamp_sec": 1213.21,
+      "file": "work/frames\\frame_0036360_t01213.21.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 60,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36420,
+      "timestamp_sec": 1215.21,
+      "file": "work/frames\\frame_0036420_t01215.21.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 60,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36480,
+      "timestamp_sec": 1217.22,
+      "file": "work/frames\\frame_0036480_t01217.22.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 60,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36540,
+      "timestamp_sec": 1219.22,
+      "file": "work/frames\\frame_0036540_t01219.22.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 60,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36600,
+      "timestamp_sec": 1221.22,
+      "file": "work/frames\\frame_0036600_t01221.22.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 61,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36660,
+      "timestamp_sec": 1223.22,
+      "file": "work/frames\\frame_0036660_t01223.22.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 61,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36720,
+      "timestamp_sec": 1225.22,
+      "file": "work/frames\\frame_0036720_t01225.22.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 61,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36780,
+      "timestamp_sec": 1227.23,
+      "file": "work/frames\\frame_0036780_t01227.23.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 61,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36840,
+      "timestamp_sec": 1229.23,
+      "file": "work/frames\\frame_0036840_t01229.23.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 61,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36900,
+      "timestamp_sec": 1231.23,
+      "file": "work/frames\\frame_0036900_t01231.23.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 61,
+      "split": "train"
+    },
+    {
+      "frame_idx": 36960,
+      "timestamp_sec": 1233.23,
+      "file": "work/frames\\frame_0036960_t01233.23.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 61,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37020,
+      "timestamp_sec": 1235.23,
+      "file": "work/frames\\frame_0037020_t01235.23.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 61,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37080,
+      "timestamp_sec": 1237.24,
+      "file": "work/frames\\frame_0037080_t01237.24.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 61,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37140,
+      "timestamp_sec": 1239.24,
+      "file": "work/frames\\frame_0037140_t01239.24.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 61,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37200,
+      "timestamp_sec": 1241.24,
+      "file": "work/frames\\frame_0037200_t01241.24.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 62,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37260,
+      "timestamp_sec": 1243.24,
+      "file": "work/frames\\frame_0037260_t01243.24.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 62,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37320,
+      "timestamp_sec": 1245.24,
+      "file": "work/frames\\frame_0037320_t01245.24.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 62,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37380,
+      "timestamp_sec": 1247.25,
+      "file": "work/frames\\frame_0037380_t01247.25.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 62,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37440,
+      "timestamp_sec": 1249.25,
+      "file": "work/frames\\frame_0037440_t01249.25.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 62,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37500,
+      "timestamp_sec": 1251.25,
+      "file": "work/frames\\frame_0037500_t01251.25.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 62,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37560,
+      "timestamp_sec": 1253.25,
+      "file": "work/frames\\frame_0037560_t01253.25.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 62,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37620,
+      "timestamp_sec": 1255.25,
+      "file": "work/frames\\frame_0037620_t01255.25.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 62,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37680,
+      "timestamp_sec": 1257.26,
+      "file": "work/frames\\frame_0037680_t01257.26.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 62,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37740,
+      "timestamp_sec": 1259.26,
+      "file": "work/frames\\frame_0037740_t01259.26.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 62,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37800,
+      "timestamp_sec": 1261.26,
+      "file": "work/frames\\frame_0037800_t01261.26.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 63,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37860,
+      "timestamp_sec": 1263.26,
+      "file": "work/frames\\frame_0037860_t01263.26.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 63,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37920,
+      "timestamp_sec": 1265.26,
+      "file": "work/frames\\frame_0037920_t01265.26.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 63,
+      "split": "train"
+    },
+    {
+      "frame_idx": 37980,
+      "timestamp_sec": 1267.27,
+      "file": "work/frames\\frame_0037980_t01267.27.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 63,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38040,
+      "timestamp_sec": 1269.27,
+      "file": "work/frames\\frame_0038040_t01269.27.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 63,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38100,
+      "timestamp_sec": 1271.27,
+      "file": "work/frames\\frame_0038100_t01271.27.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 63,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38160,
+      "timestamp_sec": 1273.27,
+      "file": "work/frames\\frame_0038160_t01273.27.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 63,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38220,
+      "timestamp_sec": 1275.27,
+      "file": "work/frames\\frame_0038220_t01275.27.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 63,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38280,
+      "timestamp_sec": 1277.28,
+      "file": "work/frames\\frame_0038280_t01277.28.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 63,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38340,
+      "timestamp_sec": 1279.28,
+      "file": "work/frames\\frame_0038340_t01279.28.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 63,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38400,
+      "timestamp_sec": 1281.28,
+      "file": "work/frames\\frame_0038400_t01281.28.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 64,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38460,
+      "timestamp_sec": 1283.28,
+      "file": "work/frames\\frame_0038460_t01283.28.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 64,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38520,
+      "timestamp_sec": 1285.28,
+      "file": "work/frames\\frame_0038520_t01285.28.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 64,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38580,
+      "timestamp_sec": 1287.29,
+      "file": "work/frames\\frame_0038580_t01287.29.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 64,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38640,
+      "timestamp_sec": 1289.29,
+      "file": "work/frames\\frame_0038640_t01289.29.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 64,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38700,
+      "timestamp_sec": 1291.29,
+      "file": "work/frames\\frame_0038700_t01291.29.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 64,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38760,
+      "timestamp_sec": 1293.29,
+      "file": "work/frames\\frame_0038760_t01293.29.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 64,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38820,
+      "timestamp_sec": 1295.29,
+      "file": "work/frames\\frame_0038820_t01295.29.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 64,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38880,
+      "timestamp_sec": 1297.3,
+      "file": "work/frames\\frame_0038880_t01297.30.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 64,
+      "split": "train"
+    },
+    {
+      "frame_idx": 38940,
+      "timestamp_sec": 1299.3,
+      "file": "work/frames\\frame_0038940_t01299.30.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 64,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39000,
+      "timestamp_sec": 1301.3,
+      "file": "work/frames\\frame_0039000_t01301.30.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 65,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39060,
+      "timestamp_sec": 1303.3,
+      "file": "work/frames\\frame_0039060_t01303.30.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 65,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39120,
+      "timestamp_sec": 1305.3,
+      "file": "work/frames\\frame_0039120_t01305.30.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 65,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39180,
+      "timestamp_sec": 1307.31,
+      "file": "work/frames\\frame_0039180_t01307.31.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 65,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39240,
+      "timestamp_sec": 1309.31,
+      "file": "work/frames\\frame_0039240_t01309.31.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 65,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39300,
+      "timestamp_sec": 1311.31,
+      "file": "work/frames\\frame_0039300_t01311.31.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 65,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39360,
+      "timestamp_sec": 1313.31,
+      "file": "work/frames\\frame_0039360_t01313.31.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 65,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39420,
+      "timestamp_sec": 1315.31,
+      "file": "work/frames\\frame_0039420_t01315.31.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 65,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39480,
+      "timestamp_sec": 1317.32,
+      "file": "work/frames\\frame_0039480_t01317.32.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 65,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39540,
+      "timestamp_sec": 1319.32,
+      "file": "work/frames\\frame_0039540_t01319.32.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 65,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39600,
+      "timestamp_sec": 1321.32,
+      "file": "work/frames\\frame_0039600_t01321.32.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 66,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39660,
+      "timestamp_sec": 1323.32,
+      "file": "work/frames\\frame_0039660_t01323.32.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 66,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39720,
+      "timestamp_sec": 1325.32,
+      "file": "work/frames\\frame_0039720_t01325.32.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 66,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39780,
+      "timestamp_sec": 1327.33,
+      "file": "work/frames\\frame_0039780_t01327.33.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 66,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39840,
+      "timestamp_sec": 1329.33,
+      "file": "work/frames\\frame_0039840_t01329.33.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 66,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39900,
+      "timestamp_sec": 1331.33,
+      "file": "work/frames\\frame_0039900_t01331.33.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 66,
+      "split": "train"
+    },
+    {
+      "frame_idx": 39960,
+      "timestamp_sec": 1333.33,
+      "file": "work/frames\\frame_0039960_t01333.33.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 66,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40020,
+      "timestamp_sec": 1335.33,
+      "file": "work/frames\\frame_0040020_t01335.33.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 66,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40080,
+      "timestamp_sec": 1337.34,
+      "file": "work/frames\\frame_0040080_t01337.34.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 66,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40140,
+      "timestamp_sec": 1339.34,
+      "file": "work/frames\\frame_0040140_t01339.34.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 66,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40200,
+      "timestamp_sec": 1341.34,
+      "file": "work/frames\\frame_0040200_t01341.34.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 67,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40260,
+      "timestamp_sec": 1343.34,
+      "file": "work/frames\\frame_0040260_t01343.34.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 67,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40320,
+      "timestamp_sec": 1345.34,
+      "file": "work/frames\\frame_0040320_t01345.34.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 67,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40380,
+      "timestamp_sec": 1347.35,
+      "file": "work/frames\\frame_0040380_t01347.35.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 67,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40440,
+      "timestamp_sec": 1349.35,
+      "file": "work/frames\\frame_0040440_t01349.35.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 67,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40500,
+      "timestamp_sec": 1351.35,
+      "file": "work/frames\\frame_0040500_t01351.35.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 67,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40560,
+      "timestamp_sec": 1353.35,
+      "file": "work/frames\\frame_0040560_t01353.35.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 67,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40620,
+      "timestamp_sec": 1355.35,
+      "file": "work/frames\\frame_0040620_t01355.35.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 67,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40680,
+      "timestamp_sec": 1357.36,
+      "file": "work/frames\\frame_0040680_t01357.36.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 67,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40860,
+      "timestamp_sec": 1363.36,
+      "file": "work/frames\\frame_0040860_t01363.36.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 68,
+      "split": "train"
+    },
+    {
+      "frame_idx": 40920,
+      "timestamp_sec": 1365.36,
+      "file": "work/frames\\frame_0040920_t01365.36.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 68,
+      "split": "train"
+    },
+    {
+      "frame_idx": 41040,
+      "timestamp_sec": 1369.37,
+      "file": "work/frames\\frame_0041040_t01369.37.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 68,
+      "split": "train"
+    },
+    {
+      "frame_idx": 41100,
+      "timestamp_sec": 1371.37,
+      "file": "work/frames\\frame_0041100_t01371.37.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 68,
+      "split": "train"
+    },
+    {
+      "frame_idx": 41160,
+      "timestamp_sec": 1373.37,
+      "file": "work/frames\\frame_0041160_t01373.37.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 68,
+      "split": "train"
+    },
+    {
+      "frame_idx": 41220,
+      "timestamp_sec": 1375.37,
+      "file": "work/frames\\frame_0041220_t01375.37.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 68,
+      "split": "train"
+    },
+    {
+      "frame_idx": 41280,
+      "timestamp_sec": 1377.38,
+      "file": "work/frames\\frame_0041280_t01377.38.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 68,
+      "split": "train"
+    },
+    {
+      "frame_idx": 41340,
+      "timestamp_sec": 1379.38,
+      "file": "work/frames\\frame_0041340_t01379.38.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 68,
+      "split": "train"
+    },
+    {
+      "frame_idx": 41400,
+      "timestamp_sec": 1381.38,
+      "file": "work/frames\\frame_0041400_t01381.38.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 69,
+      "split": "train"
+    },
+    {
+      "frame_idx": 41460,
+      "timestamp_sec": 1383.38,
+      "file": "work/frames\\frame_0041460_t01383.38.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 69,
+      "split": "train"
+    },
+    {
+      "frame_idx": 41520,
+      "timestamp_sec": 1385.38,
+      "file": "work/frames\\frame_0041520_t01385.38.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 69,
+      "split": "train"
+    },
+    {
+      "frame_idx": 41700,
+      "timestamp_sec": 1391.39,
+      "file": "work/frames\\frame_0041700_t01391.39.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 69,
+      "split": "train"
+    },
+    {
+      "frame_idx": 41820,
+      "timestamp_sec": 1395.39,
+      "file": "work/frames\\frame_0041820_t01395.39.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 69,
+      "split": "train"
+    },
+    {
+      "frame_idx": 42000,
+      "timestamp_sec": 1401.4,
+      "file": "work/frames\\frame_0042000_t01401.40.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 70,
+      "split": "train"
+    },
+    {
+      "frame_idx": 42120,
+      "timestamp_sec": 1405.4,
+      "file": "work/frames\\frame_0042120_t01405.40.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 70,
+      "split": "train"
+    },
+    {
+      "frame_idx": 42180,
+      "timestamp_sec": 1407.41,
+      "file": "work/frames\\frame_0042180_t01407.41.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 70,
+      "split": "train"
+    },
+    {
+      "frame_idx": 42240,
+      "timestamp_sec": 1409.41,
+      "file": "work/frames\\frame_0042240_t01409.41.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 70,
+      "split": "train"
+    },
+    {
+      "frame_idx": 42360,
+      "timestamp_sec": 1413.41,
+      "file": "work/frames\\frame_0042360_t01413.41.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 70,
+      "split": "train"
+    },
+    {
+      "frame_idx": 42480,
+      "timestamp_sec": 1417.42,
+      "file": "work/frames\\frame_0042480_t01417.42.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 70,
+      "split": "train"
+    },
+    {
+      "frame_idx": 42660,
+      "timestamp_sec": 1423.42,
+      "file": "work/frames\\frame_0042660_t01423.42.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 71,
+      "split": "train"
+    },
+    {
+      "frame_idx": 42720,
+      "timestamp_sec": 1425.42,
+      "file": "work/frames\\frame_0042720_t01425.42.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 71,
+      "split": "train"
+    },
+    {
+      "frame_idx": 42780,
+      "timestamp_sec": 1427.43,
+      "file": "work/frames\\frame_0042780_t01427.43.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 71,
+      "split": "train"
+    },
+    {
+      "frame_idx": 42840,
+      "timestamp_sec": 1429.43,
+      "file": "work/frames\\frame_0042840_t01429.43.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 71,
+      "split": "train"
+    },
+    {
+      "frame_idx": 42900,
+      "timestamp_sec": 1431.43,
+      "file": "work/frames\\frame_0042900_t01431.43.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 71,
+      "split": "train"
+    },
+    {
+      "frame_idx": 42960,
+      "timestamp_sec": 1433.43,
+      "file": "work/frames\\frame_0042960_t01433.43.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 71,
+      "split": "train"
+    },
+    {
+      "frame_idx": 43020,
+      "timestamp_sec": 1435.43,
+      "file": "work/frames\\frame_0043020_t01435.43.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 71,
+      "split": "train"
+    },
+    {
+      "frame_idx": 43080,
+      "timestamp_sec": 1437.44,
+      "file": "work/frames\\frame_0043080_t01437.44.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 71,
+      "split": "train"
+    },
+    {
+      "frame_idx": 43140,
+      "timestamp_sec": 1439.44,
+      "file": "work/frames\\frame_0043140_t01439.44.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 71,
+      "split": "train"
+    },
+    {
+      "frame_idx": 43200,
+      "timestamp_sec": 1441.44,
+      "file": "work/frames\\frame_0043200_t01441.44.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 72,
+      "split": "test"
+    },
+    {
+      "frame_idx": 43260,
+      "timestamp_sec": 1443.44,
+      "file": "work/frames\\frame_0043260_t01443.44.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 72,
+      "split": "test"
+    },
+    {
+      "frame_idx": 43320,
+      "timestamp_sec": 1445.44,
+      "file": "work/frames\\frame_0043320_t01445.44.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 72,
+      "split": "test"
+    },
+    {
+      "frame_idx": 43380,
+      "timestamp_sec": 1447.45,
+      "file": "work/frames\\frame_0043380_t01447.45.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 72,
+      "split": "test"
+    },
+    {
+      "frame_idx": 43440,
+      "timestamp_sec": 1449.45,
+      "file": "work/frames\\frame_0043440_t01449.45.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 72,
+      "split": "test"
+    },
+    {
+      "frame_idx": 43500,
+      "timestamp_sec": 1451.45,
+      "file": "work/frames\\frame_0043500_t01451.45.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 72,
+      "split": "test"
+    },
+    {
+      "frame_idx": 43560,
+      "timestamp_sec": 1453.45,
+      "file": "work/frames\\frame_0043560_t01453.45.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 72,
+      "split": "test"
+    },
+    {
+      "frame_idx": 43620,
+      "timestamp_sec": 1455.45,
+      "file": "work/frames\\frame_0043620_t01455.45.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 72,
+      "split": "test"
+    },
+    {
+      "frame_idx": 43680,
+      "timestamp_sec": 1457.46,
+      "file": "work/frames\\frame_0043680_t01457.46.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 72,
+      "split": "test"
+    },
+    {
+      "frame_idx": 43740,
+      "timestamp_sec": 1459.46,
+      "file": "work/frames\\frame_0043740_t01459.46.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 72,
+      "split": "test"
+    },
+    {
+      "frame_idx": 43800,
+      "timestamp_sec": 1461.46,
+      "file": "work/frames\\frame_0043800_t01461.46.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 73,
+      "split": "test"
+    },
+    {
+      "frame_idx": 43860,
+      "timestamp_sec": 1463.46,
+      "file": "work/frames\\frame_0043860_t01463.46.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 73,
+      "split": "test"
+    },
+    {
+      "frame_idx": 43920,
+      "timestamp_sec": 1465.46,
+      "file": "work/frames\\frame_0043920_t01465.46.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 73,
+      "split": "test"
+    },
+    {
+      "frame_idx": 43980,
+      "timestamp_sec": 1467.47,
+      "file": "work/frames\\frame_0043980_t01467.47.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 73,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44040,
+      "timestamp_sec": 1469.47,
+      "file": "work/frames\\frame_0044040_t01469.47.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 73,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44100,
+      "timestamp_sec": 1471.47,
+      "file": "work/frames\\frame_0044100_t01471.47.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 73,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44160,
+      "timestamp_sec": 1473.47,
+      "file": "work/frames\\frame_0044160_t01473.47.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 73,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44220,
+      "timestamp_sec": 1475.47,
+      "file": "work/frames\\frame_0044220_t01475.47.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 73,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44280,
+      "timestamp_sec": 1477.48,
+      "file": "work/frames\\frame_0044280_t01477.48.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 73,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44340,
+      "timestamp_sec": 1479.48,
+      "file": "work/frames\\frame_0044340_t01479.48.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 73,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44400,
+      "timestamp_sec": 1481.48,
+      "file": "work/frames\\frame_0044400_t01481.48.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 74,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44460,
+      "timestamp_sec": 1483.48,
+      "file": "work/frames\\frame_0044460_t01483.48.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 74,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44520,
+      "timestamp_sec": 1485.48,
+      "file": "work/frames\\frame_0044520_t01485.48.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 74,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44580,
+      "timestamp_sec": 1487.49,
+      "file": "work/frames\\frame_0044580_t01487.49.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 74,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44640,
+      "timestamp_sec": 1489.49,
+      "file": "work/frames\\frame_0044640_t01489.49.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 74,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44700,
+      "timestamp_sec": 1491.49,
+      "file": "work/frames\\frame_0044700_t01491.49.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 74,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44760,
+      "timestamp_sec": 1493.49,
+      "file": "work/frames\\frame_0044760_t01493.49.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 74,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44820,
+      "timestamp_sec": 1495.49,
+      "file": "work/frames\\frame_0044820_t01495.49.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 74,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44880,
+      "timestamp_sec": 1497.5,
+      "file": "work/frames\\frame_0044880_t01497.50.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 74,
+      "split": "test"
+    },
+    {
+      "frame_idx": 44940,
+      "timestamp_sec": 1499.5,
+      "file": "work/frames\\frame_0044940_t01499.50.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 74,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45000,
+      "timestamp_sec": 1501.5,
+      "file": "work/frames\\frame_0045000_t01501.50.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 75,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45060,
+      "timestamp_sec": 1503.5,
+      "file": "work/frames\\frame_0045060_t01503.50.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 75,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45120,
+      "timestamp_sec": 1505.5,
+      "file": "work/frames\\frame_0045120_t01505.50.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 75,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45180,
+      "timestamp_sec": 1507.51,
+      "file": "work/frames\\frame_0045180_t01507.51.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 75,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45240,
+      "timestamp_sec": 1509.51,
+      "file": "work/frames\\frame_0045240_t01509.51.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 75,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45300,
+      "timestamp_sec": 1511.51,
+      "file": "work/frames\\frame_0045300_t01511.51.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 75,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45360,
+      "timestamp_sec": 1513.51,
+      "file": "work/frames\\frame_0045360_t01513.51.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 75,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45420,
+      "timestamp_sec": 1515.51,
+      "file": "work/frames\\frame_0045420_t01515.51.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 75,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45480,
+      "timestamp_sec": 1517.52,
+      "file": "work/frames\\frame_0045480_t01517.52.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 75,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45540,
+      "timestamp_sec": 1519.52,
+      "file": "work/frames\\frame_0045540_t01519.52.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 75,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45600,
+      "timestamp_sec": 1521.52,
+      "file": "work/frames\\frame_0045600_t01521.52.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 76,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45660,
+      "timestamp_sec": 1523.52,
+      "file": "work/frames\\frame_0045660_t01523.52.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 76,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45720,
+      "timestamp_sec": 1525.52,
+      "file": "work/frames\\frame_0045720_t01525.52.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 76,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45780,
+      "timestamp_sec": 1527.53,
+      "file": "work/frames\\frame_0045780_t01527.53.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 76,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45840,
+      "timestamp_sec": 1529.53,
+      "file": "work/frames\\frame_0045840_t01529.53.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 76,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45900,
+      "timestamp_sec": 1531.53,
+      "file": "work/frames\\frame_0045900_t01531.53.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 76,
+      "split": "test"
+    },
+    {
+      "frame_idx": 45960,
+      "timestamp_sec": 1533.53,
+      "file": "work/frames\\frame_0045960_t01533.53.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 76,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46020,
+      "timestamp_sec": 1535.53,
+      "file": "work/frames\\frame_0046020_t01535.53.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 76,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46080,
+      "timestamp_sec": 1537.54,
+      "file": "work/frames\\frame_0046080_t01537.54.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 76,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46140,
+      "timestamp_sec": 1539.54,
+      "file": "work/frames\\frame_0046140_t01539.54.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 76,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46200,
+      "timestamp_sec": 1541.54,
+      "file": "work/frames\\frame_0046200_t01541.54.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 77,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46260,
+      "timestamp_sec": 1543.54,
+      "file": "work/frames\\frame_0046260_t01543.54.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 77,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46320,
+      "timestamp_sec": 1545.54,
+      "file": "work/frames\\frame_0046320_t01545.54.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 77,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46380,
+      "timestamp_sec": 1547.55,
+      "file": "work/frames\\frame_0046380_t01547.55.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 77,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46440,
+      "timestamp_sec": 1549.55,
+      "file": "work/frames\\frame_0046440_t01549.55.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 77,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46500,
+      "timestamp_sec": 1551.55,
+      "file": "work/frames\\frame_0046500_t01551.55.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 77,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46560,
+      "timestamp_sec": 1553.55,
+      "file": "work/frames\\frame_0046560_t01553.55.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 77,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46620,
+      "timestamp_sec": 1555.55,
+      "file": "work/frames\\frame_0046620_t01555.55.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 77,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46680,
+      "timestamp_sec": 1557.56,
+      "file": "work/frames\\frame_0046680_t01557.56.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 77,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46740,
+      "timestamp_sec": 1559.56,
+      "file": "work/frames\\frame_0046740_t01559.56.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 77,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46800,
+      "timestamp_sec": 1561.56,
+      "file": "work/frames\\frame_0046800_t01561.56.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 78,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46860,
+      "timestamp_sec": 1563.56,
+      "file": "work/frames\\frame_0046860_t01563.56.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 78,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46920,
+      "timestamp_sec": 1565.56,
+      "file": "work/frames\\frame_0046920_t01565.56.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 78,
+      "split": "test"
+    },
+    {
+      "frame_idx": 46980,
+      "timestamp_sec": 1567.57,
+      "file": "work/frames\\frame_0046980_t01567.57.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 78,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47040,
+      "timestamp_sec": 1569.57,
+      "file": "work/frames\\frame_0047040_t01569.57.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 78,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47100,
+      "timestamp_sec": 1571.57,
+      "file": "work/frames\\frame_0047100_t01571.57.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 78,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47160,
+      "timestamp_sec": 1573.57,
+      "file": "work/frames\\frame_0047160_t01573.57.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 78,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47220,
+      "timestamp_sec": 1575.57,
+      "file": "work/frames\\frame_0047220_t01575.57.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 78,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47280,
+      "timestamp_sec": 1577.58,
+      "file": "work/frames\\frame_0047280_t01577.58.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 78,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47340,
+      "timestamp_sec": 1579.58,
+      "file": "work/frames\\frame_0047340_t01579.58.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 78,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47400,
+      "timestamp_sec": 1581.58,
+      "file": "work/frames\\frame_0047400_t01581.58.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 79,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47460,
+      "timestamp_sec": 1583.58,
+      "file": "work/frames\\frame_0047460_t01583.58.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 79,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47520,
+      "timestamp_sec": 1585.58,
+      "file": "work/frames\\frame_0047520_t01585.58.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 79,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47580,
+      "timestamp_sec": 1587.59,
+      "file": "work/frames\\frame_0047580_t01587.59.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 79,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47640,
+      "timestamp_sec": 1589.59,
+      "file": "work/frames\\frame_0047640_t01589.59.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 79,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47700,
+      "timestamp_sec": 1591.59,
+      "file": "work/frames\\frame_0047700_t01591.59.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 79,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47760,
+      "timestamp_sec": 1593.59,
+      "file": "work/frames\\frame_0047760_t01593.59.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 79,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47820,
+      "timestamp_sec": 1595.59,
+      "file": "work/frames\\frame_0047820_t01595.59.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 79,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47880,
+      "timestamp_sec": 1597.6,
+      "file": "work/frames\\frame_0047880_t01597.60.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 79,
+      "split": "test"
+    },
+    {
+      "frame_idx": 47940,
+      "timestamp_sec": 1599.6,
+      "file": "work/frames\\frame_0047940_t01599.60.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 79,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48000,
+      "timestamp_sec": 1601.6,
+      "file": "work/frames\\frame_0048000_t01601.60.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 80,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48060,
+      "timestamp_sec": 1603.6,
+      "file": "work/frames\\frame_0048060_t01603.60.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 80,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48120,
+      "timestamp_sec": 1605.6,
+      "file": "work/frames\\frame_0048120_t01605.60.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 80,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48180,
+      "timestamp_sec": 1607.61,
+      "file": "work/frames\\frame_0048180_t01607.61.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 80,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48240,
+      "timestamp_sec": 1609.61,
+      "file": "work/frames\\frame_0048240_t01609.61.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 80,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48300,
+      "timestamp_sec": 1611.61,
+      "file": "work/frames\\frame_0048300_t01611.61.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 80,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48360,
+      "timestamp_sec": 1613.61,
+      "file": "work/frames\\frame_0048360_t01613.61.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 80,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48420,
+      "timestamp_sec": 1615.61,
+      "file": "work/frames\\frame_0048420_t01615.61.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 80,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48480,
+      "timestamp_sec": 1617.62,
+      "file": "work/frames\\frame_0048480_t01617.62.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 80,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48540,
+      "timestamp_sec": 1619.62,
+      "file": "work/frames\\frame_0048540_t01619.62.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 80,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48600,
+      "timestamp_sec": 1621.62,
+      "file": "work/frames\\frame_0048600_t01621.62.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 81,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48660,
+      "timestamp_sec": 1623.62,
+      "file": "work/frames\\frame_0048660_t01623.62.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 81,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48720,
+      "timestamp_sec": 1625.62,
+      "file": "work/frames\\frame_0048720_t01625.62.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 81,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48780,
+      "timestamp_sec": 1627.63,
+      "file": "work/frames\\frame_0048780_t01627.63.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 81,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48840,
+      "timestamp_sec": 1629.63,
+      "file": "work/frames\\frame_0048840_t01629.63.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 81,
+      "split": "test"
+    },
+    {
+      "frame_idx": 48960,
+      "timestamp_sec": 1633.63,
+      "file": "work/frames\\frame_0048960_t01633.63.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 81,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49020,
+      "timestamp_sec": 1635.63,
+      "file": "work/frames\\frame_0049020_t01635.63.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 81,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49140,
+      "timestamp_sec": 1639.64,
+      "file": "work/frames\\frame_0049140_t01639.64.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 81,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49200,
+      "timestamp_sec": 1641.64,
+      "file": "work/frames\\frame_0049200_t01641.64.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 82,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49260,
+      "timestamp_sec": 1643.64,
+      "file": "work/frames\\frame_0049260_t01643.64.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 82,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49320,
+      "timestamp_sec": 1645.64,
+      "file": "work/frames\\frame_0049320_t01645.64.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 82,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49380,
+      "timestamp_sec": 1647.65,
+      "file": "work/frames\\frame_0049380_t01647.65.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 82,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49440,
+      "timestamp_sec": 1649.65,
+      "file": "work/frames\\frame_0049440_t01649.65.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 82,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49500,
+      "timestamp_sec": 1651.65,
+      "file": "work/frames\\frame_0049500_t01651.65.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 82,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49560,
+      "timestamp_sec": 1653.65,
+      "file": "work/frames\\frame_0049560_t01653.65.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 82,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49620,
+      "timestamp_sec": 1655.65,
+      "file": "work/frames\\frame_0049620_t01655.65.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 82,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49680,
+      "timestamp_sec": 1657.66,
+      "file": "work/frames\\frame_0049680_t01657.66.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 82,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49740,
+      "timestamp_sec": 1659.66,
+      "file": "work/frames\\frame_0049740_t01659.66.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 82,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49800,
+      "timestamp_sec": 1661.66,
+      "file": "work/frames\\frame_0049800_t01661.66.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 83,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49860,
+      "timestamp_sec": 1663.66,
+      "file": "work/frames\\frame_0049860_t01663.66.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 83,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49920,
+      "timestamp_sec": 1665.66,
+      "file": "work/frames\\frame_0049920_t01665.66.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 83,
+      "split": "test"
+    },
+    {
+      "frame_idx": 49980,
+      "timestamp_sec": 1667.67,
+      "file": "work/frames\\frame_0049980_t01667.67.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 83,
+      "split": "test"
+    },
+    {
+      "frame_idx": 50040,
+      "timestamp_sec": 1669.67,
+      "file": "work/frames\\frame_0050040_t01669.67.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 83,
+      "split": "test"
+    },
+    {
+      "frame_idx": 50100,
+      "timestamp_sec": 1671.67,
+      "file": "work/frames\\frame_0050100_t01671.67.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 83,
+      "split": "test"
+    },
+    {
+      "frame_idx": 50160,
+      "timestamp_sec": 1673.67,
+      "file": "work/frames\\frame_0050160_t01673.67.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 83,
+      "split": "test"
+    },
+    {
+      "frame_idx": 50220,
+      "timestamp_sec": 1675.67,
+      "file": "work/frames\\frame_0050220_t01675.67.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 83,
+      "split": "test"
+    },
+    {
+      "frame_idx": 50280,
+      "timestamp_sec": 1677.68,
+      "file": "work/frames\\frame_0050280_t01677.68.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 83,
+      "split": "test"
+    },
+    {
+      "frame_idx": 50340,
+      "timestamp_sec": 1679.68,
+      "file": "work/frames\\frame_0050340_t01679.68.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 83,
+      "split": "test"
+    },
+    {
+      "frame_idx": 50400,
+      "timestamp_sec": 1681.68,
+      "file": "work/frames\\frame_0050400_t01681.68.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 84,
+      "split": "test"
+    },
+    {
+      "frame_idx": 50460,
+      "timestamp_sec": 1683.68,
+      "file": "work/frames\\frame_0050460_t01683.68.jpg",
+      "is_fast_change_region": false,
+      "segment_id": 84,
+      "split": "test"
+    }
+  ]
+}

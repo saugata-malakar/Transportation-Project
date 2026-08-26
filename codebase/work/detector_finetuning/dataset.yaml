@@ -1,0 +1,6 @@
+path: C:/Users/Administrator/Downloads/TRANSPORTATION/codebase/work/detector_finetuning
+train: images/train
+val: images/val
+
+names:
+  0: person

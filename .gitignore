@@ -1,0 +1,21 @@
+# Large raw media (exceeds GitHub 100MB / 2GB limit)
+*.MP4
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Bulk extracted intermediate video frames (can be regenerated with stage2)
+codebase/work/frames/
+codebase/work/detector_finetuning/images/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.cache
+
+# OS / Temporary
+.DS_Store
+Thumbs.db
+*.tmp

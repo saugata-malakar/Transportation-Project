@@ -1,0 +1,9 @@
+{
+  "1": {
+    "crosses": true,
+    "cross_start_time_sec": 18.0
+  },
+  "4": {
+    "crosses": false
+  }
+}

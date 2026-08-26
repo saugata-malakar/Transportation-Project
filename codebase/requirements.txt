@@ -1,0 +1,16 @@
+torch>=2.1
+torchvision>=0.16
+timm>=0.9.12
+ultralytics>=8.1.0        # RT-DETRv2 + YOLO-pose (crossing-intention module's HRNet substitute)
+supervision>=0.20.0       # ByteTrack
+opencv-python>=4.9.0
+numpy>=1.24
+Pillow>=10.0               # image processing for crop selection (stage5)
+scikit-learn>=1.3.0        # metrics for ablation experiments (stage7)
+motmetrics>=1.4.0         # optional: IDF1/MOTA if you have GT tracks
+
+# System dependency (not pip-installable): ffmpeg + ffprobe, required by
+# stage2's hardened frame extraction and stage9's dense-window extraction
+# for the crossing-intention module.
+#   Ubuntu/Colab: apt-get install -y ffmpeg
+#   Mac: brew install ffmpeg

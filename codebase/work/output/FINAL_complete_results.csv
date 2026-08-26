@@ -1,0 +1,50 @@
+person_id,gender,hat,backpack,upper_clothing_colour,upper_clothing_style,lower_clothing_colour,lower_clothing_style,attribute_confidence,num_detections,first_seen_sec,last_seen_sec,track_duration_sec,crosses_street_ground_truth,cross_start_time_gt_sec,crossing_intention_probability,crossing_predicted,intention_analysis_window
+1,Male,No Hat,Backpack,Red,Long,White,Long,0.9908,10,0.0,18.02,18.02,True,18.0,0.9708,Yes,14.00s - 15.00s
+2,Male,No Hat,Backpack,Red,Long,White,Long,0.9857,4,0.0,204.2,204.2,N/A,N/A,N/A,N/A,N/A
+4,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.9903,5,0.0,16.02,16.02,False,N/A,0.0,No (ground truth),N/A - does not cross
+5,Male,No Hat,Backpack,Red,Long,White,Long,0.9764,14,34.03,208.21,174.18,N/A,N/A,N/A,N/A,N/A
+6,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.9896,233,42.04,810.81,768.77,N/A,N/A,N/A,N/A,N/A
+7,Male,No Hat,Backpack,Red,Long,White,Long,0.9567,95,44.04,540.54,496.5,N/A,N/A,N/A,N/A,N/A
+9,Male,No Hat,Backpack,Red,Long,White,Long,0.9157,4,132.13,146.15,14.02,N/A,N/A,N/A,N/A,N/A
+13,Male,No Hat,Backpack,Red,Long,White,Long,0.9622,5,222.22,242.24,20.02,N/A,N/A,N/A,N/A,N/A
+14,Male,No Hat,Backpack,Red,Long,White,Long,0.9892,12,266.27,348.35,82.08,N/A,N/A,N/A,N/A,N/A
+15,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.9822,3,280.28,324.32,44.04,N/A,N/A,N/A,N/A,N/A
+16,Male,No Hat,Backpack,Red,Long,White,Long,0.9477,21,294.29,382.38,88.09,N/A,N/A,N/A,N/A,N/A
+17,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.7863,4,314.31,320.32,6.01,N/A,N/A,N/A,N/A,N/A
+18,Male,No Hat,Backpack,Red,Long,White,Long,0.9733,3,344.34,348.35,4.01,N/A,N/A,N/A,N/A,N/A
+20,Male,No Hat,Backpack,Red,Long,White,Long,0.9854,3,356.36,360.36,4.0,N/A,N/A,N/A,N/A,N/A
+21,Male,No Hat,Backpack,Red,Long,White,Long,0.9811,3,374.37,434.43,60.06,N/A,N/A,N/A,N/A,N/A
+24,Male,No Hat,Backpack,Red,Long,White,Long,0.9867,5,408.41,458.46,50.05,N/A,N/A,N/A,N/A,N/A
+25,Male,No Hat,Backpack,Red,Long,White,Long,0.8864,3,590.59,594.59,4.0,N/A,N/A,N/A,N/A,N/A
+26,Male,No Hat,Backpack,Red,Long,White,Long,0.9874,6,592.59,614.61,22.02,N/A,N/A,N/A,N/A,N/A
+29,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.889,3,646.65,650.65,4.0,N/A,N/A,N/A,N/A,N/A
+33,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.989,3,740.74,744.74,4.0,N/A,N/A,N/A,N/A,N/A
+35,Male,No Hat,Backpack,Red,Long,White,Long,0.8674,46,768.77,1201.2,432.43,N/A,N/A,N/A,N/A,N/A
+37,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.6918,6,834.83,844.84,10.01,N/A,N/A,N/A,N/A,N/A
+38,Male,No Hat,Backpack,Red,Long,White,Long,0.9636,3,872.87,878.88,6.01,N/A,N/A,N/A,N/A,N/A
+41,Male,No Hat,Backpack,Red,Long,White,Long,0.9435,5,928.93,938.94,10.01,N/A,N/A,N/A,N/A,N/A
+42,Male,No Hat,Backpack,Red,Long,White,Long,0.7645,10,938.94,1083.08,144.14,N/A,N/A,N/A,N/A,N/A
+43,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.9594,3,960.96,964.96,4.0,N/A,N/A,N/A,N/A,N/A
+45,Female,No Hat,No Backpack,Blue,Long,White,Long,0.6468,104,978.98,1267.27,288.29,N/A,N/A,N/A,N/A,N/A
+46,Male,No Hat,Backpack,Red,Long,White,Long,0.9431,4,980.98,988.99,8.01,N/A,N/A,N/A,N/A,N/A
+47,Male,No Hat,Backpack,Red,Long,White,Long,0.8712,4,982.98,997.0,14.02,N/A,N/A,N/A,N/A,N/A
+48,Male,No Hat,Backpack,Red,Long,White,Long,0.9397,3,1013.01,1025.02,12.01,N/A,N/A,N/A,N/A,N/A
+49,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.9904,5,1027.03,1037.04,10.01,N/A,N/A,N/A,N/A,N/A
+50,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.7442,3,1035.03,1145.14,110.11,N/A,N/A,N/A,N/A,N/A
+51,Male,No Hat,Backpack,Red,Long,White,Long,0.9433,5,1047.05,1055.05,8.0,N/A,N/A,N/A,N/A,N/A
+52,Male,No Hat,Backpack,Red,Long,White,Long,0.8952,3,1057.06,1067.07,10.01,N/A,N/A,N/A,N/A,N/A
+55,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.8791,9,1107.11,1175.17,68.06,N/A,N/A,N/A,N/A,N/A
+57,Male,No Hat,Backpack,Red,Long,White,Long,0.9749,6,1125.12,1233.23,108.11,N/A,N/A,N/A,N/A,N/A
+61,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.7272,4,1213.21,1219.22,6.01,N/A,N/A,N/A,N/A,N/A
+64,Male,No Hat,Backpack,Red,Long,White,Long,0.8104,4,1281.28,1463.46,182.18,N/A,N/A,N/A,N/A,N/A
+68,Male,No Hat,Backpack,Red,Long,White,Long,0.6732,5,1327.33,1335.33,8.0,N/A,N/A,N/A,N/A,N/A
+69,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.9913,8,1347.35,1405.4,58.05,N/A,N/A,N/A,N/A,N/A
+70,Male,No Hat,Backpack,Red,Long,White,Long,0.935,8,1365.36,1383.38,18.02,N/A,N/A,N/A,N/A,N/A
+72,Male,No Hat,Backpack,Red,Long,White,Long,0.8818,29,1373.37,1599.6,226.23,N/A,N/A,N/A,N/A,N/A
+75,Male,No Hat,Backpack,Red,Long,White,Long,0.7761,11,1473.47,1641.64,168.17,N/A,N/A,N/A,N/A,N/A
+77,Male,No Hat,Backpack,Red,Long,White,Long,0.7884,9,1523.52,1593.59,70.07,N/A,N/A,N/A,N/A,N/A
+78,Male,No Hat,Backpack,Red,Long,White,Long,0.9216,6,1529.53,1601.6,72.07,N/A,N/A,N/A,N/A,N/A
+79,Male,No Hat,Backpack,Red,Long,White,Long,0.9103,3,1545.54,1577.58,32.04,N/A,N/A,N/A,N/A,N/A
+81,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.9814,5,1623.62,1661.66,38.04,N/A,N/A,N/A,N/A,N/A
+82,Male,No Hat,Backpack,Red,Long,White,Long,0.9677,4,1623.62,1633.63,10.01,N/A,N/A,N/A,N/A,N/A
+83,Female,No Hat,No Backpack,Blue,Short,Red,Long,0.9428,5,1673.67,1681.68,8.01,N/A,N/A,N/A,N/A,N/A

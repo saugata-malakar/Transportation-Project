@@ -1,0 +1,20 @@
+{
+  "1": {
+    "gender": 0,
+    "hat": 0,
+    "backpack": 1,
+    "upper_colour": 2,
+    "upper_style": 0,
+    "lower_colour": 1,
+    "lower_style": 0
+  },
+  "4": {
+    "gender": 1,
+    "hat": 0,
+    "backpack": 0,
+    "upper_colour": 3,
+    "upper_style": 1,
+    "lower_colour": 2,
+    "lower_style": 0
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "track_id": "1",
+    "window": [
+      17.0,
+      18.0
+    ],
+    "K2": 0.0,
+    "probability": 0.9707
+  },
+  {
+    "track_id": "1",
+    "window": [
+      16.0,
+      17.0
+    ],
+    "K2": 1.0,
+    "probability": 0.9707
+  },
+  {
+    "track_id": "1",
+    "window": [
+      15.0,
+      16.0
+    ],
+    "K2": 2.0,
+    "probability": 0.9705
+  },
+  {
+    "track_id": "1",
+    "window": [
+      14.0,
+      15.0
+    ],
+    "K2": 3.0,
+    "probability": 0.9708
+  }
+]

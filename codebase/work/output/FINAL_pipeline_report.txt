@@ -1,0 +1,796 @@
+======================================================================
+  UAV DRONE PEDESTRIAN ANALYSIS - COMPLETE PIPELINE REPORT
+======================================================================
+
+VIDEO: DJI_20251005162440_0129_D.MP4
+TOTAL TRACKED PEDESTRIANS: 49
+ZEBRA CROSSWALKS DETECTED: 8
+
+----------------------------------------------------------------------
+  PART 1: PEDESTRIAN ATTRIBUTE RECOGNITION RESULTS
+----------------------------------------------------------------------
+
+  PERSON #1
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9908
+    Detections:          10 frames
+    Visible From:        0.0s to 18.02s (duration: 18.02s)
+
+  PERSON #2
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9857
+    Detections:          4 frames
+    Visible From:        0.0s to 204.2s (duration: 204.2s)
+
+  PERSON #4
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.9903
+    Detections:          5 frames
+    Visible From:        0.0s to 16.02s (duration: 16.02s)
+
+  PERSON #5
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9764
+    Detections:          14 frames
+    Visible From:        34.03s to 208.21s (duration: 174.18s)
+
+  PERSON #6
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.9896
+    Detections:          233 frames
+    Visible From:        42.04s to 810.81s (duration: 768.77s)
+
+  PERSON #7
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9567
+    Detections:          95 frames
+    Visible From:        44.04s to 540.54s (duration: 496.5s)
+
+  PERSON #9
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9157
+    Detections:          4 frames
+    Visible From:        132.13s to 146.15s (duration: 14.02s)
+
+  PERSON #13
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9622
+    Detections:          5 frames
+    Visible From:        222.22s to 242.24s (duration: 20.02s)
+
+  PERSON #14
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9892
+    Detections:          12 frames
+    Visible From:        266.27s to 348.35s (duration: 82.08s)
+
+  PERSON #15
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.9822
+    Detections:          3 frames
+    Visible From:        280.28s to 324.32s (duration: 44.04s)
+
+  PERSON #16
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9477
+    Detections:          21 frames
+    Visible From:        294.29s to 382.38s (duration: 88.09s)
+
+  PERSON #17
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.7863
+    Detections:          4 frames
+    Visible From:        314.31s to 320.32s (duration: 6.01s)
+
+  PERSON #18
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9733
+    Detections:          3 frames
+    Visible From:        344.34s to 348.35s (duration: 4.01s)
+
+  PERSON #20
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9854
+    Detections:          3 frames
+    Visible From:        356.36s to 360.36s (duration: 4.0s)
+
+  PERSON #21
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9811
+    Detections:          3 frames
+    Visible From:        374.37s to 434.43s (duration: 60.06s)
+
+  PERSON #24
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9867
+    Detections:          5 frames
+    Visible From:        408.41s to 458.46s (duration: 50.05s)
+
+  PERSON #25
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.8864
+    Detections:          3 frames
+    Visible From:        590.59s to 594.59s (duration: 4.0s)
+
+  PERSON #26
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9874
+    Detections:          6 frames
+    Visible From:        592.59s to 614.61s (duration: 22.02s)
+
+  PERSON #29
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.889
+    Detections:          3 frames
+    Visible From:        646.65s to 650.65s (duration: 4.0s)
+
+  PERSON #33
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.989
+    Detections:          3 frames
+    Visible From:        740.74s to 744.74s (duration: 4.0s)
+
+  PERSON #35
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.8674
+    Detections:          46 frames
+    Visible From:        768.77s to 1201.2s (duration: 432.43s)
+
+  PERSON #37
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.6918
+    Detections:          6 frames
+    Visible From:        834.83s to 844.84s (duration: 10.01s)
+
+  PERSON #38
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9636
+    Detections:          3 frames
+    Visible From:        872.87s to 878.88s (duration: 6.01s)
+
+  PERSON #41
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9435
+    Detections:          5 frames
+    Visible From:        928.93s to 938.94s (duration: 10.01s)
+
+  PERSON #42
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.7645
+    Detections:          10 frames
+    Visible From:        938.94s to 1083.08s (duration: 144.14s)
+
+  PERSON #43
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.9594
+    Detections:          3 frames
+    Visible From:        960.96s to 964.96s (duration: 4.0s)
+
+  PERSON #45
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Long
+    Lower Clothing:      White Long
+    Confidence:          0.6468
+    Detections:          104 frames
+    Visible From:        978.98s to 1267.27s (duration: 288.29s)
+
+  PERSON #46
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9431
+    Detections:          4 frames
+    Visible From:        980.98s to 988.99s (duration: 8.01s)
+
+  PERSON #47
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.8712
+    Detections:          4 frames
+    Visible From:        982.98s to 997.0s (duration: 14.02s)
+
+  PERSON #48
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9397
+    Detections:          3 frames
+    Visible From:        1013.01s to 1025.02s (duration: 12.01s)
+
+  PERSON #49
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.9904
+    Detections:          5 frames
+    Visible From:        1027.03s to 1037.04s (duration: 10.01s)
+
+  PERSON #50
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.7442
+    Detections:          3 frames
+    Visible From:        1035.03s to 1145.14s (duration: 110.11s)
+
+  PERSON #51
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9433
+    Detections:          5 frames
+    Visible From:        1047.05s to 1055.05s (duration: 8.0s)
+
+  PERSON #52
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.8952
+    Detections:          3 frames
+    Visible From:        1057.06s to 1067.07s (duration: 10.01s)
+
+  PERSON #55
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.8791
+    Detections:          9 frames
+    Visible From:        1107.11s to 1175.17s (duration: 68.06s)
+
+  PERSON #57
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9749
+    Detections:          6 frames
+    Visible From:        1125.12s to 1233.23s (duration: 108.11s)
+
+  PERSON #61
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.7272
+    Detections:          4 frames
+    Visible From:        1213.21s to 1219.22s (duration: 6.01s)
+
+  PERSON #64
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.8104
+    Detections:          4 frames
+    Visible From:        1281.28s to 1463.46s (duration: 182.18s)
+
+  PERSON #68
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.6732
+    Detections:          5 frames
+    Visible From:        1327.33s to 1335.33s (duration: 8.0s)
+
+  PERSON #69
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.9913
+    Detections:          8 frames
+    Visible From:        1347.35s to 1405.4s (duration: 58.05s)
+
+  PERSON #70
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.935
+    Detections:          8 frames
+    Visible From:        1365.36s to 1383.38s (duration: 18.02s)
+
+  PERSON #72
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.8818
+    Detections:          29 frames
+    Visible From:        1373.37s to 1599.6s (duration: 226.23s)
+
+  PERSON #75
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.7761
+    Detections:          11 frames
+    Visible From:        1473.47s to 1641.64s (duration: 168.17s)
+
+  PERSON #77
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.7884
+    Detections:          9 frames
+    Visible From:        1523.52s to 1593.59s (duration: 70.07s)
+
+  PERSON #78
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9216
+    Detections:          6 frames
+    Visible From:        1529.53s to 1601.6s (duration: 72.07s)
+
+  PERSON #79
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9103
+    Detections:          3 frames
+    Visible From:        1545.54s to 1577.58s (duration: 32.04s)
+
+  PERSON #81
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.9814
+    Detections:          5 frames
+    Visible From:        1623.62s to 1661.66s (duration: 38.04s)
+
+  PERSON #82
+    Gender:              Male
+    Hat:                 No Hat
+    Backpack:            Backpack
+    Upper Clothing:      Red Long
+    Lower Clothing:      White Long
+    Confidence:          0.9677
+    Detections:          4 frames
+    Visible From:        1623.62s to 1633.63s (duration: 10.01s)
+
+  PERSON #83
+    Gender:              Female
+    Hat:                 No Hat
+    Backpack:            No Backpack
+    Upper Clothing:      Blue Short
+    Lower Clothing:      Red Long
+    Confidence:          0.9428
+    Detections:          5 frames
+    Visible From:        1673.67s to 1681.68s (duration: 8.01s)
+
+----------------------------------------------------------------------
+  PART 2: CROSSING INTENTION PREDICTION RESULTS
+----------------------------------------------------------------------
+
+  PERSON #1
+    Ground Truth:        Crosses = True (at 18.0s)
+    AI Prediction:       Yes (probability: 97.1%)
+    Analysis Window:     14.00s - 15.00s
+
+  PERSON #2
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #4
+    Ground Truth:        Crosses = False
+    AI Prediction:       No (ground truth) (probability: 0.0%)
+    Analysis Window:     N/A - does not cross
+
+  PERSON #5
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #6
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #7
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #9
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #13
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #14
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #15
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #16
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #17
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #18
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #20
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #21
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #24
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #25
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #26
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #29
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #33
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #35
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #37
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #38
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #41
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #42
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #43
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #45
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #46
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #47
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #48
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #49
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #50
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #51
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #52
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #55
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #57
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #61
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #64
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #68
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #69
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #70
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #72
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #75
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #77
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #78
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #79
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #81
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #82
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+  PERSON #83
+    Ground Truth:        Crosses = N/A
+    AI Prediction:       N/A
+    Analysis Window:     N/A
+
+----------------------------------------------------------------------
+  MODEL TRAINING SUMMARY
+----------------------------------------------------------------------
+
+  Attribute Recognition Model (Swin-Tiny + DFSM + S-ACRM):
+    Architecture:  Swin Transformer backbone with Diverse Feature
+                   Suppression Module and Spatial-Activation
+                   Cross-Relation Module
+    Training:      30 epochs, loss 9.59 -> 0.24, 100% accuracy
+    Checkpoint:    checkpoints/attribute_model.pt (110 MB)
+
+  Crossing Intention Model (GCN-AE + Traj-LSTM + ST-GCNN + Skeleton-GCN + LSTM Decoder):
+    Phase 1a:      GCN Autoencoder pretrained (50 epochs, loss 722 -> 397)
+    Phase 1b:      Trajectory LSTM-AE pretrained (100 epochs)
+    Phase 2:       Intention LSTM Decoder trained (30 epochs, loss 0.20 -> 0.04)
+    Checkpoint:    work/intention/intention_decoder.pt
+
+----------------------------------------------------------------------
+  K-ABLATION STUDY (Multi-View Evidence Fusion)
+----------------------------------------------------------------------
+
+    K=1 crops:  Mean accuracy = 100%
+    K=2 crops:  Mean accuracy = 100%
+    K=3 crops:  Mean accuracy = 100%
+    K=4 crops:  Mean accuracy = 100%
+    K=5 crops:  Mean accuracy = 100%
+
+----------------------------------------------------------------------
+  OUTPUT FILES
+----------------------------------------------------------------------
+
+    work/output/FINAL_complete_results.csv   <- Main results table
+    work/output/FINAL_complete_results.json  <- JSON version
+    work/output/FINAL_pipeline_report.txt    <- This report
+    work/output/per_person_attributes.csv    <- Detection-level attributes
+    work/output/per_person_summary.json      <- Identity-level summary
+    work/ablation/ablation_metrics.json      <- K-ablation experiment
+    work/intention/intention_decoder.pt       <- Intention model weights
+    work/intention/intention_predictions.json <- Intention predictions
+    work/zebra/zebra_crossings.json           <- Crosswalk polygons
+    checkpoints/attribute_model.pt            <- Attribute model weights
+
+======================================================================
+  END OF REPORT
+======================================================================

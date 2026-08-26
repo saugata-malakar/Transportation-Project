@@ -1,0 +1,5 @@
+video_id,person_id,window_start_sec,window_end_sec,K2_sec,crossing_intention_prob,crossing_predicted,gender,hat,backpack,upper_colour,upper_style,lower_colour,lower_style,attribute_confidence
+run01,1,17.0,18.0,0.0,0.9707,1,0,0,1,2,0,1,0,0.9909
+run01,1,16.0,17.0,1.0,0.9707,1,0,0,1,2,0,1,0,0.9909
+run01,1,15.0,16.0,2.0,0.9705,1,0,0,1,2,0,1,0,0.9909
+run01,1,14.0,15.0,3.0,0.9708,1,0,0,1,2,0,1,0,0.9909

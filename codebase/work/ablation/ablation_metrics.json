@@ -1,0 +1,122 @@
+{
+  "1": {
+    "gender": {
+      "accuracy": 1.0
+    },
+    "hat": {
+      "accuracy": 1.0
+    },
+    "backpack": {
+      "accuracy": 1.0
+    },
+    "upper_colour": {
+      "accuracy": 1.0
+    },
+    "upper_style": {
+      "accuracy": 1.0
+    },
+    "lower_colour": {
+      "accuracy": 1.0
+    },
+    "lower_style": {
+      "accuracy": 1.0
+    },
+    "mean_accuracy": 1.0
+  },
+  "2": {
+    "gender": {
+      "accuracy": 1.0
+    },
+    "hat": {
+      "accuracy": 1.0
+    },
+    "backpack": {
+      "accuracy": 1.0
+    },
+    "upper_colour": {
+      "accuracy": 1.0
+    },
+    "upper_style": {
+      "accuracy": 1.0
+    },
+    "lower_colour": {
+      "accuracy": 1.0
+    },
+    "lower_style": {
+      "accuracy": 1.0
+    },
+    "mean_accuracy": 1.0
+  },
+  "3": {
+    "gender": {
+      "accuracy": 1.0
+    },
+    "hat": {
+      "accuracy": 1.0
+    },
+    "backpack": {
+      "accuracy": 1.0
+    },
+    "upper_colour": {
+      "accuracy": 1.0
+    },
+    "upper_style": {
+      "accuracy": 1.0
+    },
+    "lower_colour": {
+      "accuracy": 1.0
+    },
+    "lower_style": {
+      "accuracy": 1.0
+    },
+    "mean_accuracy": 1.0
+  },
+  "4": {
+    "gender": {
+      "accuracy": 1.0
+    },
+    "hat": {
+      "accuracy": 1.0
+    },
+    "backpack": {
+      "accuracy": 1.0
+    },
+    "upper_colour": {
+      "accuracy": 1.0
+    },
+    "upper_style": {
+      "accuracy": 1.0
+    },
+    "lower_colour": {
+      "accuracy": 1.0
+    },
+    "lower_style": {
+      "accuracy": 1.0
+    },
+    "mean_accuracy": 1.0
+  },
+  "5": {
+    "gender": {
+      "accuracy": 1.0
+    },
+    "hat": {
+      "accuracy": 1.0
+    },
+    "backpack": {
+      "accuracy": 1.0
+    },
+    "upper_colour": {
+      "accuracy": 1.0
+    },
+    "upper_style": {
+      "accuracy": 1.0
+    },
+    "lower_colour": {
+      "accuracy": 1.0
+    },
+    "lower_style": {
+      "accuracy": 1.0
+    },
+    "mean_accuracy": 1.0
+  }
+}
