@@ -4,6 +4,7 @@
 *.avi
 *.mov
 *.mkv
+!codebase/work/crossing_zones/annotated_intersection_video.mp4
 
 # Bulk extracted intermediate video frames (can be regenerated with stage2)
 codebase/work/frames/

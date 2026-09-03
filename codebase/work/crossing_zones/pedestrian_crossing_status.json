@@ -1,0 +1,7690 @@
+{
+  "1": [
+    {
+      "frame_id": "0",
+      "timestamp_sec": 0.0,
+      "cx": 2956.0,
+      "cy": 2097.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.796
+    },
+    {
+      "frame_id": "60",
+      "timestamp_sec": 2.0,
+      "cx": 2956.0,
+      "cy": 2096.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.79
+    },
+    {
+      "frame_id": "120",
+      "timestamp_sec": 4.0,
+      "cx": 2956.2,
+      "cy": 2096.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.788
+    },
+    {
+      "frame_id": "180",
+      "timestamp_sec": 6.01,
+      "cx": 2956.2,
+      "cy": 2094.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.749
+    },
+    {
+      "frame_id": "240",
+      "timestamp_sec": 8.01,
+      "cx": 2956.3,
+      "cy": 2096.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.781
+    },
+    {
+      "frame_id": "300",
+      "timestamp_sec": 10.01,
+      "cx": 2955.1,
+      "cy": 2096.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.783
+    },
+    {
+      "frame_id": "360",
+      "timestamp_sec": 12.01,
+      "cx": 2956.7,
+      "cy": 2098.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.809
+    },
+    {
+      "frame_id": "420",
+      "timestamp_sec": 14.01,
+      "cx": 2955.5,
+      "cy": 2095.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.77
+    },
+    {
+      "frame_id": "480",
+      "timestamp_sec": 16.02,
+      "cx": 2953.6,
+      "cy": 2098.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.818
+    },
+    {
+      "frame_id": "540",
+      "timestamp_sec": 18.02,
+      "cx": 2953.5,
+      "cy": 2118.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 1.123
+    }
+  ],
+  "2": [
+    {
+      "frame_id": "0",
+      "timestamp_sec": 0.0,
+      "cx": 2291.5,
+      "cy": 807.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.118
+    },
+    {
+      "frame_id": "60",
+      "timestamp_sec": 2.0,
+      "cx": 2291.0,
+      "cy": 801.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.192
+    },
+    {
+      "frame_id": "2880",
+      "timestamp_sec": 96.1,
+      "cx": 2288.7,
+      "cy": 747.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.89
+    },
+    {
+      "frame_id": "6120",
+      "timestamp_sec": 204.2,
+      "cx": 2281.1,
+      "cy": 680.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 11.796
+    }
+  ],
+  "4": [
+    {
+      "frame_id": "0",
+      "timestamp_sec": 0.0,
+      "cx": 1209.3,
+      "cy": 1594.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.08
+    },
+    {
+      "frame_id": "60",
+      "timestamp_sec": 2.0,
+      "cx": 1209.3,
+      "cy": 1592.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.087
+    },
+    {
+      "frame_id": "360",
+      "timestamp_sec": 12.01,
+      "cx": 1209.6,
+      "cy": 1597.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.074
+    },
+    {
+      "frame_id": "420",
+      "timestamp_sec": 14.01,
+      "cx": 1209.6,
+      "cy": 1595.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.082
+    },
+    {
+      "frame_id": "480",
+      "timestamp_sec": 16.02,
+      "cx": 1207.0,
+      "cy": 1598.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.032
+    }
+  ],
+  "5": [
+    {
+      "frame_id": "1020",
+      "timestamp_sec": 34.03,
+      "cx": 1924.4,
+      "cy": 2118.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.217
+    },
+    {
+      "frame_id": "1080",
+      "timestamp_sec": 36.04,
+      "cx": 1923.1,
+      "cy": 2118.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.232
+    },
+    {
+      "frame_id": "1140",
+      "timestamp_sec": 38.04,
+      "cx": 1923.2,
+      "cy": 2117.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.228
+    },
+    {
+      "frame_id": "1380",
+      "timestamp_sec": 46.05,
+      "cx": 1924.6,
+      "cy": 2117.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.212
+    },
+    {
+      "frame_id": "1440",
+      "timestamp_sec": 48.05,
+      "cx": 1923.9,
+      "cy": 2117.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.218
+    },
+    {
+      "frame_id": "1560",
+      "timestamp_sec": 52.05,
+      "cx": 1923.3,
+      "cy": 2117.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.227
+    },
+    {
+      "frame_id": "2580",
+      "timestamp_sec": 86.09,
+      "cx": 1924.7,
+      "cy": 2117.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.211
+    },
+    {
+      "frame_id": "2640",
+      "timestamp_sec": 88.09,
+      "cx": 1924.5,
+      "cy": 2117.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.208
+    },
+    {
+      "frame_id": "3360",
+      "timestamp_sec": 112.11,
+      "cx": 1924.3,
+      "cy": 2116.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.209
+    },
+    {
+      "frame_id": "3420",
+      "timestamp_sec": 114.11,
+      "cx": 1925.1,
+      "cy": 2117.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.204
+    },
+    {
+      "frame_id": "3480",
+      "timestamp_sec": 116.12,
+      "cx": 1924.7,
+      "cy": 2117.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.207
+    },
+    {
+      "frame_id": "5580",
+      "timestamp_sec": 186.19,
+      "cx": 1923.6,
+      "cy": 2116.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.219
+    },
+    {
+      "frame_id": "5880",
+      "timestamp_sec": 196.2,
+      "cx": 1923.6,
+      "cy": 2118.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.231
+    },
+    {
+      "frame_id": "6240",
+      "timestamp_sec": 208.21,
+      "cx": 1924.7,
+      "cy": 2114.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.19
+    }
+  ],
+  "6": [
+    {
+      "frame_id": "1260",
+      "timestamp_sec": 42.04,
+      "cx": 1209.4,
+      "cy": 1683.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1320",
+      "timestamp_sec": 44.04,
+      "cx": 1210.3,
+      "cy": 1681.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1380",
+      "timestamp_sec": 46.05,
+      "cx": 1209.8,
+      "cy": 1683.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1500",
+      "timestamp_sec": 50.05,
+      "cx": 1209.4,
+      "cy": 1682.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1620",
+      "timestamp_sec": 54.05,
+      "cx": 1210.7,
+      "cy": 1684.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1680",
+      "timestamp_sec": 56.06,
+      "cx": 1208.9,
+      "cy": 1684.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1740",
+      "timestamp_sec": 58.06,
+      "cx": 1209.3,
+      "cy": 1682.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1800",
+      "timestamp_sec": 60.06,
+      "cx": 1210.5,
+      "cy": 1681.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1920",
+      "timestamp_sec": 64.06,
+      "cx": 1209.5,
+      "cy": 1682.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1980",
+      "timestamp_sec": 66.07,
+      "cx": 1209.5,
+      "cy": 1683.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2040",
+      "timestamp_sec": 68.07,
+      "cx": 1209.2,
+      "cy": 1682.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2100",
+      "timestamp_sec": 70.07,
+      "cx": 1210.2,
+      "cy": 1683.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2160",
+      "timestamp_sec": 72.07,
+      "cx": 1214.7,
+      "cy": 1681.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2220",
+      "timestamp_sec": 74.07,
+      "cx": 1210.7,
+      "cy": 1680.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2340",
+      "timestamp_sec": 78.08,
+      "cx": 1209.4,
+      "cy": 1683.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2400",
+      "timestamp_sec": 80.08,
+      "cx": 1208.8,
+      "cy": 1683.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2520",
+      "timestamp_sec": 84.08,
+      "cx": 1210.5,
+      "cy": 1685.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2580",
+      "timestamp_sec": 86.09,
+      "cx": 1211.0,
+      "cy": 1684.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2640",
+      "timestamp_sec": 88.09,
+      "cx": 1210.3,
+      "cy": 1683.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2700",
+      "timestamp_sec": 90.09,
+      "cx": 1210.1,
+      "cy": 1683.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2760",
+      "timestamp_sec": 92.09,
+      "cx": 1209.2,
+      "cy": 1684.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2820",
+      "timestamp_sec": 94.09,
+      "cx": 1210.4,
+      "cy": 1685.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2880",
+      "timestamp_sec": 96.1,
+      "cx": 1208.7,
+      "cy": 1684.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2940",
+      "timestamp_sec": 98.1,
+      "cx": 1209.6,
+      "cy": 1682.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3000",
+      "timestamp_sec": 100.1,
+      "cx": 1209.9,
+      "cy": 1682.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3060",
+      "timestamp_sec": 102.1,
+      "cx": 1210.2,
+      "cy": 1681.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3120",
+      "timestamp_sec": 104.1,
+      "cx": 1209.3,
+      "cy": 1685.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3180",
+      "timestamp_sec": 106.11,
+      "cx": 1209.5,
+      "cy": 1684.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3240",
+      "timestamp_sec": 108.11,
+      "cx": 1208.9,
+      "cy": 1684.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3360",
+      "timestamp_sec": 112.11,
+      "cx": 1211.2,
+      "cy": 1684.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3420",
+      "timestamp_sec": 114.11,
+      "cx": 1210.0,
+      "cy": 1685.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3480",
+      "timestamp_sec": 116.12,
+      "cx": 1211.3,
+      "cy": 1683.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3540",
+      "timestamp_sec": 118.12,
+      "cx": 1210.0,
+      "cy": 1683.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3720",
+      "timestamp_sec": 124.12,
+      "cx": 1214.0,
+      "cy": 1681.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3780",
+      "timestamp_sec": 126.13,
+      "cx": 1210.0,
+      "cy": 1682.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3840",
+      "timestamp_sec": 128.13,
+      "cx": 1208.5,
+      "cy": 1680.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3900",
+      "timestamp_sec": 130.13,
+      "cx": 1209.7,
+      "cy": 1682.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3960",
+      "timestamp_sec": 132.13,
+      "cx": 1209.9,
+      "cy": 1681.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "4020",
+      "timestamp_sec": 134.13,
+      "cx": 1209.0,
+      "cy": 1681.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "4140",
+      "timestamp_sec": 138.14,
+      "cx": 1210.7,
+      "cy": 1681.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "4200",
+      "timestamp_sec": 140.14,
+      "cx": 1211.6,
+      "cy": 1682.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "4260",
+      "timestamp_sec": 142.14,
+      "cx": 1210.0,
+      "cy": 1682.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "4380",
+      "timestamp_sec": 146.15,
+      "cx": 1209.6,
+      "cy": 1684.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "4440",
+      "timestamp_sec": 148.15,
+      "cx": 1208.9,
+      "cy": 1684.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "4560",
+      "timestamp_sec": 152.15,
+      "cx": 1208.5,
+      "cy": 1689.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "4680",
+      "timestamp_sec": 156.16,
+      "cx": 1208.2,
+      "cy": 1688.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "4800",
+      "timestamp_sec": 160.16,
+      "cx": 1206.7,
+      "cy": 1686.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "5100",
+      "timestamp_sec": 170.17,
+      "cx": 1207.0,
+      "cy": 1689.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "5160",
+      "timestamp_sec": 172.17,
+      "cx": 1209.4,
+      "cy": 1684.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "5580",
+      "timestamp_sec": 186.19,
+      "cx": 1209.9,
+      "cy": 1688.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "5760",
+      "timestamp_sec": 192.19,
+      "cx": 1210.3,
+      "cy": 1690.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "5820",
+      "timestamp_sec": 194.19,
+      "cx": 1210.0,
+      "cy": 1690.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "5940",
+      "timestamp_sec": 198.2,
+      "cx": 1208.2,
+      "cy": 1688.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6060",
+      "timestamp_sec": 202.2,
+      "cx": 1209.9,
+      "cy": 1684.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6120",
+      "timestamp_sec": 204.2,
+      "cx": 1212.9,
+      "cy": 1684.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6180",
+      "timestamp_sec": 206.21,
+      "cx": 1211.7,
+      "cy": 1685.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6240",
+      "timestamp_sec": 208.21,
+      "cx": 1210.7,
+      "cy": 1682.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6300",
+      "timestamp_sec": 210.21,
+      "cx": 1208.0,
+      "cy": 1683.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6360",
+      "timestamp_sec": 212.21,
+      "cx": 1209.4,
+      "cy": 1683.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6420",
+      "timestamp_sec": 214.21,
+      "cx": 1207.7,
+      "cy": 1682.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6480",
+      "timestamp_sec": 216.22,
+      "cx": 1208.6,
+      "cy": 1681.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6540",
+      "timestamp_sec": 218.22,
+      "cx": 1207.6,
+      "cy": 1683.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6600",
+      "timestamp_sec": 220.22,
+      "cx": 1207.3,
+      "cy": 1685.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6660",
+      "timestamp_sec": 222.22,
+      "cx": 1207.3,
+      "cy": 1685.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6720",
+      "timestamp_sec": 224.22,
+      "cx": 1207.7,
+      "cy": 1685.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6780",
+      "timestamp_sec": 226.23,
+      "cx": 1208.2,
+      "cy": 1682.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6840",
+      "timestamp_sec": 228.23,
+      "cx": 1208.8,
+      "cy": 1683.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6900",
+      "timestamp_sec": 230.23,
+      "cx": 1207.0,
+      "cy": 1685.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6960",
+      "timestamp_sec": 232.23,
+      "cx": 1207.5,
+      "cy": 1684.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "7020",
+      "timestamp_sec": 234.23,
+      "cx": 1208.8,
+      "cy": 1685.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "7080",
+      "timestamp_sec": 236.24,
+      "cx": 1207.6,
+      "cy": 1684.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "7140",
+      "timestamp_sec": 238.24,
+      "cx": 1208.8,
+      "cy": 1683.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "7200",
+      "timestamp_sec": 240.24,
+      "cx": 1207.7,
+      "cy": 1685.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "7260",
+      "timestamp_sec": 242.24,
+      "cx": 1208.4,
+      "cy": 1686.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "7380",
+      "timestamp_sec": 246.25,
+      "cx": 1206.0,
+      "cy": 1684.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "7680",
+      "timestamp_sec": 256.26,
+      "cx": 1209.4,
+      "cy": 1684.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "7740",
+      "timestamp_sec": 258.26,
+      "cx": 1209.4,
+      "cy": 1683.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "7800",
+      "timestamp_sec": 260.26,
+      "cx": 1209.6,
+      "cy": 1683.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "7860",
+      "timestamp_sec": 262.26,
+      "cx": 1209.5,
+      "cy": 1684.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8040",
+      "timestamp_sec": 268.27,
+      "cx": 1210.0,
+      "cy": 1687.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8160",
+      "timestamp_sec": 272.27,
+      "cx": 1210.7,
+      "cy": 1688.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8340",
+      "timestamp_sec": 278.28,
+      "cx": 1209.9,
+      "cy": 1688.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8400",
+      "timestamp_sec": 280.28,
+      "cx": 1209.6,
+      "cy": 1687.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8460",
+      "timestamp_sec": 282.28,
+      "cx": 1210.6,
+      "cy": 1690.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8520",
+      "timestamp_sec": 284.28,
+      "cx": 1209.6,
+      "cy": 1690.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8760",
+      "timestamp_sec": 292.29,
+      "cx": 1209.8,
+      "cy": 1687.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8820",
+      "timestamp_sec": 294.29,
+      "cx": 1209.9,
+      "cy": 1686.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8880",
+      "timestamp_sec": 296.3,
+      "cx": 1208.8,
+      "cy": 1685.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8940",
+      "timestamp_sec": 298.3,
+      "cx": 1210.2,
+      "cy": 1685.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9060",
+      "timestamp_sec": 302.3,
+      "cx": 1210.1,
+      "cy": 1686.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9120",
+      "timestamp_sec": 304.3,
+      "cx": 1211.5,
+      "cy": 1688.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9180",
+      "timestamp_sec": 306.31,
+      "cx": 1209.8,
+      "cy": 1686.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9240",
+      "timestamp_sec": 308.31,
+      "cx": 1210.0,
+      "cy": 1686.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9420",
+      "timestamp_sec": 314.31,
+      "cx": 1209.4,
+      "cy": 1682.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9480",
+      "timestamp_sec": 316.32,
+      "cx": 1208.4,
+      "cy": 1684.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9540",
+      "timestamp_sec": 318.32,
+      "cx": 1209.4,
+      "cy": 1684.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9600",
+      "timestamp_sec": 320.32,
+      "cx": 1209.4,
+      "cy": 1684.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9660",
+      "timestamp_sec": 322.32,
+      "cx": 1210.3,
+      "cy": 1683.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9720",
+      "timestamp_sec": 324.32,
+      "cx": 1209.0,
+      "cy": 1681.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9780",
+      "timestamp_sec": 326.33,
+      "cx": 1210.0,
+      "cy": 1681.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9840",
+      "timestamp_sec": 328.33,
+      "cx": 1210.3,
+      "cy": 1680.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9900",
+      "timestamp_sec": 330.33,
+      "cx": 1212.1,
+      "cy": 1682.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9960",
+      "timestamp_sec": 332.33,
+      "cx": 1212.9,
+      "cy": 1681.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10020",
+      "timestamp_sec": 334.33,
+      "cx": 1211.1,
+      "cy": 1681.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10080",
+      "timestamp_sec": 336.34,
+      "cx": 1210.7,
+      "cy": 1680.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10140",
+      "timestamp_sec": 338.34,
+      "cx": 1210.5,
+      "cy": 1679.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10200",
+      "timestamp_sec": 340.34,
+      "cx": 1208.2,
+      "cy": 1681.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10260",
+      "timestamp_sec": 342.34,
+      "cx": 1208.9,
+      "cy": 1680.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10320",
+      "timestamp_sec": 344.34,
+      "cx": 1210.2,
+      "cy": 1677.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10380",
+      "timestamp_sec": 346.35,
+      "cx": 1208.5,
+      "cy": 1677.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10440",
+      "timestamp_sec": 348.35,
+      "cx": 1210.7,
+      "cy": 1678.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10500",
+      "timestamp_sec": 350.35,
+      "cx": 1209.5,
+      "cy": 1677.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10560",
+      "timestamp_sec": 352.35,
+      "cx": 1211.3,
+      "cy": 1678.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10680",
+      "timestamp_sec": 356.36,
+      "cx": 1208.5,
+      "cy": 1680.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10740",
+      "timestamp_sec": 358.36,
+      "cx": 1208.5,
+      "cy": 1681.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10800",
+      "timestamp_sec": 360.36,
+      "cx": 1210.8,
+      "cy": 1679.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10860",
+      "timestamp_sec": 362.36,
+      "cx": 1210.7,
+      "cy": 1681.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10980",
+      "timestamp_sec": 366.37,
+      "cx": 1209.4,
+      "cy": 1680.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11040",
+      "timestamp_sec": 368.37,
+      "cx": 1210.7,
+      "cy": 1682.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11100",
+      "timestamp_sec": 370.37,
+      "cx": 1211.7,
+      "cy": 1680.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11160",
+      "timestamp_sec": 372.37,
+      "cx": 1210.2,
+      "cy": 1679.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11220",
+      "timestamp_sec": 374.37,
+      "cx": 1213.2,
+      "cy": 1680.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11280",
+      "timestamp_sec": 376.38,
+      "cx": 1212.7,
+      "cy": 1679.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11340",
+      "timestamp_sec": 378.38,
+      "cx": 1211.9,
+      "cy": 1679.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11400",
+      "timestamp_sec": 380.38,
+      "cx": 1208.6,
+      "cy": 1679.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11460",
+      "timestamp_sec": 382.38,
+      "cx": 1211.5,
+      "cy": 1678.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11520",
+      "timestamp_sec": 384.38,
+      "cx": 1210.1,
+      "cy": 1679.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11580",
+      "timestamp_sec": 386.39,
+      "cx": 1208.6,
+      "cy": 1680.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11640",
+      "timestamp_sec": 388.39,
+      "cx": 1208.5,
+      "cy": 1680.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11700",
+      "timestamp_sec": 390.39,
+      "cx": 1208.6,
+      "cy": 1682.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11760",
+      "timestamp_sec": 392.39,
+      "cx": 1210.3,
+      "cy": 1683.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11820",
+      "timestamp_sec": 394.39,
+      "cx": 1209.5,
+      "cy": 1683.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11880",
+      "timestamp_sec": 396.4,
+      "cx": 1208.2,
+      "cy": 1684.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11940",
+      "timestamp_sec": 398.4,
+      "cx": 1209.2,
+      "cy": 1682.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "12000",
+      "timestamp_sec": 400.4,
+      "cx": 1209.3,
+      "cy": 1681.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "12060",
+      "timestamp_sec": 402.4,
+      "cx": 1209.3,
+      "cy": 1682.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "12120",
+      "timestamp_sec": 404.4,
+      "cx": 1209.2,
+      "cy": 1682.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "12180",
+      "timestamp_sec": 406.41,
+      "cx": 1207.1,
+      "cy": 1682.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "12240",
+      "timestamp_sec": 408.41,
+      "cx": 1209.1,
+      "cy": 1684.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "12300",
+      "timestamp_sec": 410.41,
+      "cx": 1209.1,
+      "cy": 1682.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "12360",
+      "timestamp_sec": 412.41,
+      "cx": 1205.7,
+      "cy": 1681.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "12480",
+      "timestamp_sec": 416.42,
+      "cx": 1206.2,
+      "cy": 1680.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "12540",
+      "timestamp_sec": 418.42,
+      "cx": 1205.4,
+      "cy": 1681.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "12600",
+      "timestamp_sec": 420.42,
+      "cx": 1205.3,
+      "cy": 1682.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13020",
+      "timestamp_sec": 434.43,
+      "cx": 1206.4,
+      "cy": 1678.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13080",
+      "timestamp_sec": 436.44,
+      "cx": 1206.4,
+      "cy": 1679.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13140",
+      "timestamp_sec": 438.44,
+      "cx": 1205.7,
+      "cy": 1678.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13200",
+      "timestamp_sec": 440.44,
+      "cx": 1207.2,
+      "cy": 1679.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13320",
+      "timestamp_sec": 444.44,
+      "cx": 1207.8,
+      "cy": 1680.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13380",
+      "timestamp_sec": 446.45,
+      "cx": 1206.3,
+      "cy": 1681.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13440",
+      "timestamp_sec": 448.45,
+      "cx": 1207.6,
+      "cy": 1681.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13500",
+      "timestamp_sec": 450.45,
+      "cx": 1207.8,
+      "cy": 1680.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13560",
+      "timestamp_sec": 452.45,
+      "cx": 1207.0,
+      "cy": 1680.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13620",
+      "timestamp_sec": 454.45,
+      "cx": 1206.5,
+      "cy": 1683.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13680",
+      "timestamp_sec": 456.46,
+      "cx": 1206.7,
+      "cy": 1682.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13740",
+      "timestamp_sec": 458.46,
+      "cx": 1205.8,
+      "cy": 1681.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13800",
+      "timestamp_sec": 460.46,
+      "cx": 1205.7,
+      "cy": 1680.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14040",
+      "timestamp_sec": 468.47,
+      "cx": 1206.4,
+      "cy": 1680.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14100",
+      "timestamp_sec": 470.47,
+      "cx": 1207.0,
+      "cy": 1682.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14160",
+      "timestamp_sec": 472.47,
+      "cx": 1205.1,
+      "cy": 1681.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14220",
+      "timestamp_sec": 474.47,
+      "cx": 1206.1,
+      "cy": 1681.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14340",
+      "timestamp_sec": 478.48,
+      "cx": 1205.5,
+      "cy": 1682.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14400",
+      "timestamp_sec": 480.48,
+      "cx": 1206.2,
+      "cy": 1682.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14520",
+      "timestamp_sec": 484.48,
+      "cx": 1207.3,
+      "cy": 1682.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14580",
+      "timestamp_sec": 486.49,
+      "cx": 1205.8,
+      "cy": 1682.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14760",
+      "timestamp_sec": 492.49,
+      "cx": 1205.8,
+      "cy": 1681.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14820",
+      "timestamp_sec": 494.49,
+      "cx": 1205.8,
+      "cy": 1681.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "15180",
+      "timestamp_sec": 506.51,
+      "cx": 1205.4,
+      "cy": 1683.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "16620",
+      "timestamp_sec": 554.55,
+      "cx": 1205.8,
+      "cy": 1680.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "17160",
+      "timestamp_sec": 572.57,
+      "cx": 1205.4,
+      "cy": 1677.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "17280",
+      "timestamp_sec": 576.58,
+      "cx": 1205.4,
+      "cy": 1676.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "17400",
+      "timestamp_sec": 580.58,
+      "cx": 1203.9,
+      "cy": 1676.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "17460",
+      "timestamp_sec": 582.58,
+      "cx": 1204.3,
+      "cy": 1677.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "17640",
+      "timestamp_sec": 588.59,
+      "cx": 1206.2,
+      "cy": 1675.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "17700",
+      "timestamp_sec": 590.59,
+      "cx": 1203.6,
+      "cy": 1677.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "17760",
+      "timestamp_sec": 592.59,
+      "cx": 1204.0,
+      "cy": 1676.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "17880",
+      "timestamp_sec": 596.6,
+      "cx": 1204.5,
+      "cy": 1676.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "18000",
+      "timestamp_sec": 600.6,
+      "cx": 1203.5,
+      "cy": 1678.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "18060",
+      "timestamp_sec": 602.6,
+      "cx": 1204.6,
+      "cy": 1678.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "18120",
+      "timestamp_sec": 604.6,
+      "cx": 1204.6,
+      "cy": 1678.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "18180",
+      "timestamp_sec": 606.61,
+      "cx": 1204.2,
+      "cy": 1677.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "18240",
+      "timestamp_sec": 608.61,
+      "cx": 1204.2,
+      "cy": 1677.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "18300",
+      "timestamp_sec": 610.61,
+      "cx": 1203.9,
+      "cy": 1676.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "18360",
+      "timestamp_sec": 612.61,
+      "cx": 1204.2,
+      "cy": 1677.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "18480",
+      "timestamp_sec": 616.62,
+      "cx": 1206.4,
+      "cy": 1678.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "18600",
+      "timestamp_sec": 620.62,
+      "cx": 1207.5,
+      "cy": 1677.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "18900",
+      "timestamp_sec": 630.63,
+      "cx": 1205.4,
+      "cy": 1678.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "18960",
+      "timestamp_sec": 632.63,
+      "cx": 1206.3,
+      "cy": 1678.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "19020",
+      "timestamp_sec": 634.63,
+      "cx": 1206.2,
+      "cy": 1678.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "19080",
+      "timestamp_sec": 636.64,
+      "cx": 1206.6,
+      "cy": 1676.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "19140",
+      "timestamp_sec": 638.64,
+      "cx": 1206.3,
+      "cy": 1678.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "19200",
+      "timestamp_sec": 640.64,
+      "cx": 1206.2,
+      "cy": 1678.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "19380",
+      "timestamp_sec": 646.65,
+      "cx": 1204.7,
+      "cy": 1680.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "19500",
+      "timestamp_sec": 650.65,
+      "cx": 1206.4,
+      "cy": 1681.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "19980",
+      "timestamp_sec": 666.67,
+      "cx": 1207.2,
+      "cy": 1676.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "20040",
+      "timestamp_sec": 668.67,
+      "cx": 1206.8,
+      "cy": 1678.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "20100",
+      "timestamp_sec": 670.67,
+      "cx": 1206.0,
+      "cy": 1679.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "20160",
+      "timestamp_sec": 672.67,
+      "cx": 1206.7,
+      "cy": 1677.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "20280",
+      "timestamp_sec": 676.68,
+      "cx": 1206.6,
+      "cy": 1678.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "20340",
+      "timestamp_sec": 678.68,
+      "cx": 1203.7,
+      "cy": 1679.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "20400",
+      "timestamp_sec": 680.68,
+      "cx": 1204.9,
+      "cy": 1678.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "20460",
+      "timestamp_sec": 682.68,
+      "cx": 1203.8,
+      "cy": 1677.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "20520",
+      "timestamp_sec": 684.68,
+      "cx": 1206.0,
+      "cy": 1677.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "20580",
+      "timestamp_sec": 686.69,
+      "cx": 1206.1,
+      "cy": 1677.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "20820",
+      "timestamp_sec": 694.69,
+      "cx": 1204.0,
+      "cy": 1672.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "20880",
+      "timestamp_sec": 696.7,
+      "cx": 1203.7,
+      "cy": 1674.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "20940",
+      "timestamp_sec": 698.7,
+      "cx": 1203.1,
+      "cy": 1676.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "21180",
+      "timestamp_sec": 706.71,
+      "cx": 1203.6,
+      "cy": 1672.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "21240",
+      "timestamp_sec": 708.71,
+      "cx": 1204.1,
+      "cy": 1672.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "21420",
+      "timestamp_sec": 714.71,
+      "cx": 1206.3,
+      "cy": 1672.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "21480",
+      "timestamp_sec": 716.72,
+      "cx": 1205.9,
+      "cy": 1672.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "21600",
+      "timestamp_sec": 720.72,
+      "cx": 1205.7,
+      "cy": 1674.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "21660",
+      "timestamp_sec": 722.72,
+      "cx": 1206.0,
+      "cy": 1674.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "21720",
+      "timestamp_sec": 724.72,
+      "cx": 1206.4,
+      "cy": 1671.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "21780",
+      "timestamp_sec": 726.73,
+      "cx": 1207.6,
+      "cy": 1671.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "21840",
+      "timestamp_sec": 728.73,
+      "cx": 1204.2,
+      "cy": 1672.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "21900",
+      "timestamp_sec": 730.73,
+      "cx": 1204.1,
+      "cy": 1674.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "21960",
+      "timestamp_sec": 732.73,
+      "cx": 1207.5,
+      "cy": 1675.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "22080",
+      "timestamp_sec": 736.74,
+      "cx": 1205.6,
+      "cy": 1674.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "22140",
+      "timestamp_sec": 738.74,
+      "cx": 1206.6,
+      "cy": 1674.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "22200",
+      "timestamp_sec": 740.74,
+      "cx": 1204.4,
+      "cy": 1674.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "22260",
+      "timestamp_sec": 742.74,
+      "cx": 1203.4,
+      "cy": 1675.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "22320",
+      "timestamp_sec": 744.74,
+      "cx": 1203.8,
+      "cy": 1674.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "22620",
+      "timestamp_sec": 754.75,
+      "cx": 1202.3,
+      "cy": 1672.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "22800",
+      "timestamp_sec": 760.76,
+      "cx": 1203.4,
+      "cy": 1676.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "22860",
+      "timestamp_sec": 762.76,
+      "cx": 1203.9,
+      "cy": 1675.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "22920",
+      "timestamp_sec": 764.76,
+      "cx": 1205.1,
+      "cy": 1674.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "22980",
+      "timestamp_sec": 766.77,
+      "cx": 1205.0,
+      "cy": 1676.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "23040",
+      "timestamp_sec": 768.77,
+      "cx": 1205.5,
+      "cy": 1676.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "23100",
+      "timestamp_sec": 770.77,
+      "cx": 1205.4,
+      "cy": 1678.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "23280",
+      "timestamp_sec": 776.78,
+      "cx": 1205.1,
+      "cy": 1676.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "23340",
+      "timestamp_sec": 778.78,
+      "cx": 1200.7,
+      "cy": 1674.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "24300",
+      "timestamp_sec": 810.81,
+      "cx": 1202.1,
+      "cy": 1666.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    }
+  ],
+  "7": [
+    {
+      "frame_id": "1320",
+      "timestamp_sec": 44.04,
+      "cx": 1203.3,
+      "cy": 1833.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1440",
+      "timestamp_sec": 48.05,
+      "cx": 1203.9,
+      "cy": 1836.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1500",
+      "timestamp_sec": 50.05,
+      "cx": 1202.7,
+      "cy": 1834.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1620",
+      "timestamp_sec": 54.05,
+      "cx": 1203.1,
+      "cy": 1838.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1680",
+      "timestamp_sec": 56.06,
+      "cx": 1202.7,
+      "cy": 1835.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1740",
+      "timestamp_sec": 58.06,
+      "cx": 1202.5,
+      "cy": 1835.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1800",
+      "timestamp_sec": 60.06,
+      "cx": 1204.0,
+      "cy": 1829.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1860",
+      "timestamp_sec": 62.06,
+      "cx": 1202.3,
+      "cy": 1833.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1920",
+      "timestamp_sec": 64.06,
+      "cx": 1201.6,
+      "cy": 1834.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "1980",
+      "timestamp_sec": 66.07,
+      "cx": 1203.0,
+      "cy": 1834.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2040",
+      "timestamp_sec": 68.07,
+      "cx": 1202.2,
+      "cy": 1835.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2100",
+      "timestamp_sec": 70.07,
+      "cx": 1204.4,
+      "cy": 1833.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2160",
+      "timestamp_sec": 72.07,
+      "cx": 1204.8,
+      "cy": 1830.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2220",
+      "timestamp_sec": 74.07,
+      "cx": 1203.5,
+      "cy": 1833.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2280",
+      "timestamp_sec": 76.08,
+      "cx": 1203.0,
+      "cy": 1833.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2460",
+      "timestamp_sec": 82.08,
+      "cx": 1203.4,
+      "cy": 1838.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2520",
+      "timestamp_sec": 84.08,
+      "cx": 1203.1,
+      "cy": 1836.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2580",
+      "timestamp_sec": 86.09,
+      "cx": 1205.7,
+      "cy": 1835.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2640",
+      "timestamp_sec": 88.09,
+      "cx": 1205.0,
+      "cy": 1836.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2700",
+      "timestamp_sec": 90.09,
+      "cx": 1205.0,
+      "cy": 1837.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2760",
+      "timestamp_sec": 92.09,
+      "cx": 1201.9,
+      "cy": 1835.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2820",
+      "timestamp_sec": 94.09,
+      "cx": 1202.9,
+      "cy": 1836.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2880",
+      "timestamp_sec": 96.1,
+      "cx": 1200.9,
+      "cy": 1835.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "2940",
+      "timestamp_sec": 98.1,
+      "cx": 1203.3,
+      "cy": 1832.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3000",
+      "timestamp_sec": 100.1,
+      "cx": 1202.3,
+      "cy": 1835.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3060",
+      "timestamp_sec": 102.1,
+      "cx": 1202.8,
+      "cy": 1833.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3120",
+      "timestamp_sec": 104.1,
+      "cx": 1202.7,
+      "cy": 1836.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3180",
+      "timestamp_sec": 106.11,
+      "cx": 1202.8,
+      "cy": 1835.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3240",
+      "timestamp_sec": 108.11,
+      "cx": 1202.9,
+      "cy": 1833.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3360",
+      "timestamp_sec": 112.11,
+      "cx": 1203.4,
+      "cy": 1836.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3420",
+      "timestamp_sec": 114.11,
+      "cx": 1203.7,
+      "cy": 1836.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3540",
+      "timestamp_sec": 118.12,
+      "cx": 1202.3,
+      "cy": 1835.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3600",
+      "timestamp_sec": 120.12,
+      "cx": 1201.5,
+      "cy": 1833.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3660",
+      "timestamp_sec": 122.12,
+      "cx": 1205.0,
+      "cy": 1836.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3720",
+      "timestamp_sec": 124.12,
+      "cx": 1205.4,
+      "cy": 1831.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3780",
+      "timestamp_sec": 126.13,
+      "cx": 1203.0,
+      "cy": 1836.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3840",
+      "timestamp_sec": 128.13,
+      "cx": 1203.1,
+      "cy": 1831.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3900",
+      "timestamp_sec": 130.13,
+      "cx": 1202.8,
+      "cy": 1836.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "3960",
+      "timestamp_sec": 132.13,
+      "cx": 1203.2,
+      "cy": 1832.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "4020",
+      "timestamp_sec": 134.13,
+      "cx": 1204.1,
+      "cy": 1831.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "4080",
+      "timestamp_sec": 136.14,
+      "cx": 1205.5,
+      "cy": 1835.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6120",
+      "timestamp_sec": 204.2,
+      "cx": 1206.3,
+      "cy": 1835.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "6180",
+      "timestamp_sec": 206.21,
+      "cx": 1206.0,
+      "cy": 1836.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "7920",
+      "timestamp_sec": 264.26,
+      "cx": 1204.3,
+      "cy": 1838.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "7980",
+      "timestamp_sec": 266.27,
+      "cx": 1203.2,
+      "cy": 1837.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8100",
+      "timestamp_sec": 270.27,
+      "cx": 1204.7,
+      "cy": 1838.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8340",
+      "timestamp_sec": 278.28,
+      "cx": 1203.1,
+      "cy": 1838.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8400",
+      "timestamp_sec": 280.28,
+      "cx": 1202.9,
+      "cy": 1839.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8940",
+      "timestamp_sec": 298.3,
+      "cx": 1202.8,
+      "cy": 1836.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9000",
+      "timestamp_sec": 300.3,
+      "cx": 1203.7,
+      "cy": 1836.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9060",
+      "timestamp_sec": 302.3,
+      "cx": 1204.3,
+      "cy": 1835.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9240",
+      "timestamp_sec": 308.31,
+      "cx": 1202.5,
+      "cy": 1836.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9420",
+      "timestamp_sec": 314.31,
+      "cx": 1202.9,
+      "cy": 1833.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9540",
+      "timestamp_sec": 318.32,
+      "cx": 1202.0,
+      "cy": 1833.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9600",
+      "timestamp_sec": 320.32,
+      "cx": 1201.3,
+      "cy": 1835.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9660",
+      "timestamp_sec": 322.32,
+      "cx": 1201.3,
+      "cy": 1834.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9720",
+      "timestamp_sec": 324.32,
+      "cx": 1202.1,
+      "cy": 1833.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9780",
+      "timestamp_sec": 326.33,
+      "cx": 1203.2,
+      "cy": 1833.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9840",
+      "timestamp_sec": 328.33,
+      "cx": 1204.6,
+      "cy": 1831.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9900",
+      "timestamp_sec": 330.33,
+      "cx": 1206.3,
+      "cy": 1834.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9960",
+      "timestamp_sec": 332.33,
+      "cx": 1206.4,
+      "cy": 1830.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10020",
+      "timestamp_sec": 334.33,
+      "cx": 1204.6,
+      "cy": 1835.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10140",
+      "timestamp_sec": 338.34,
+      "cx": 1202.8,
+      "cy": 1831.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10200",
+      "timestamp_sec": 340.34,
+      "cx": 1201.3,
+      "cy": 1831.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10320",
+      "timestamp_sec": 344.34,
+      "cx": 1202.6,
+      "cy": 1827.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10380",
+      "timestamp_sec": 346.35,
+      "cx": 1200.8,
+      "cy": 1825.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10440",
+      "timestamp_sec": 348.35,
+      "cx": 1202.0,
+      "cy": 1827.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10560",
+      "timestamp_sec": 352.35,
+      "cx": 1202.2,
+      "cy": 1827.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10620",
+      "timestamp_sec": 354.35,
+      "cx": 1203.3,
+      "cy": 1828.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10680",
+      "timestamp_sec": 356.36,
+      "cx": 1201.0,
+      "cy": 1831.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10800",
+      "timestamp_sec": 360.36,
+      "cx": 1204.0,
+      "cy": 1832.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10860",
+      "timestamp_sec": 362.36,
+      "cx": 1205.7,
+      "cy": 1835.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10980",
+      "timestamp_sec": 366.37,
+      "cx": 1203.9,
+      "cy": 1833.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11040",
+      "timestamp_sec": 368.37,
+      "cx": 1206.4,
+      "cy": 1834.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11100",
+      "timestamp_sec": 370.37,
+      "cx": 1206.4,
+      "cy": 1834.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11640",
+      "timestamp_sec": 388.39,
+      "cx": 1202.0,
+      "cy": 1832.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11700",
+      "timestamp_sec": 390.39,
+      "cx": 1202.5,
+      "cy": 1832.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "12120",
+      "timestamp_sec": 404.4,
+      "cx": 1202.3,
+      "cy": 1831.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "12300",
+      "timestamp_sec": 410.41,
+      "cx": 1200.4,
+      "cy": 1833.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13080",
+      "timestamp_sec": 436.44,
+      "cx": 1197.3,
+      "cy": 1836.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13500",
+      "timestamp_sec": 450.45,
+      "cx": 1200.3,
+      "cy": 1844.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13560",
+      "timestamp_sec": 452.45,
+      "cx": 1199.7,
+      "cy": 1844.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13620",
+      "timestamp_sec": 454.45,
+      "cx": 1199.0,
+      "cy": 1835.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13740",
+      "timestamp_sec": 458.46,
+      "cx": 1198.8,
+      "cy": 1848.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.018
+    },
+    {
+      "frame_id": "14100",
+      "timestamp_sec": 470.47,
+      "cx": 1199.1,
+      "cy": 1838.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14160",
+      "timestamp_sec": 472.47,
+      "cx": 1199.5,
+      "cy": 1846.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14220",
+      "timestamp_sec": 474.47,
+      "cx": 1199.0,
+      "cy": 1848.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.021
+    },
+    {
+      "frame_id": "14400",
+      "timestamp_sec": 480.48,
+      "cx": 1199.4,
+      "cy": 1847.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14520",
+      "timestamp_sec": 484.48,
+      "cx": 1199.5,
+      "cy": 1841.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14580",
+      "timestamp_sec": 486.49,
+      "cx": 1199.2,
+      "cy": 1838.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14640",
+      "timestamp_sec": 488.49,
+      "cx": 1199.0,
+      "cy": 1840.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "14760",
+      "timestamp_sec": 492.49,
+      "cx": 1198.0,
+      "cy": 1846.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "15180",
+      "timestamp_sec": 506.51,
+      "cx": 1199.6,
+      "cy": 1847.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "16020",
+      "timestamp_sec": 534.53,
+      "cx": 1204.9,
+      "cy": 1852.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.056
+    },
+    {
+      "frame_id": "16200",
+      "timestamp_sec": 540.54,
+      "cx": 1205.7,
+      "cy": 1854.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.087
+    }
+  ],
+  "9": [
+    {
+      "frame_id": "3960",
+      "timestamp_sec": 132.13,
+      "cx": 3034.6,
+      "cy": 990.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.892
+    },
+    {
+      "frame_id": "4080",
+      "timestamp_sec": 136.14,
+      "cx": 3035.6,
+      "cy": 991.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.884
+    },
+    {
+      "frame_id": "4320",
+      "timestamp_sec": 144.14,
+      "cx": 3034.0,
+      "cy": 990.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.89
+    },
+    {
+      "frame_id": "4380",
+      "timestamp_sec": 146.15,
+      "cx": 3035.4,
+      "cy": 990.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.895
+    }
+  ],
+  "13": [
+    {
+      "frame_id": "6660",
+      "timestamp_sec": 222.22,
+      "cx": 1204.1,
+      "cy": 1861.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.203
+    },
+    {
+      "frame_id": "6720",
+      "timestamp_sec": 224.22,
+      "cx": 1202.9,
+      "cy": 1857.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.144
+    },
+    {
+      "frame_id": "7080",
+      "timestamp_sec": 236.24,
+      "cx": 1204.9,
+      "cy": 1860.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.183
+    },
+    {
+      "frame_id": "7200",
+      "timestamp_sec": 240.24,
+      "cx": 1200.7,
+      "cy": 1858.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.167
+    },
+    {
+      "frame_id": "7260",
+      "timestamp_sec": 242.24,
+      "cx": 1200.6,
+      "cy": 1857.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.144
+    }
+  ],
+  "14": [
+    {
+      "frame_id": "7980",
+      "timestamp_sec": 266.27,
+      "cx": 1065.0,
+      "cy": 325.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8100",
+      "timestamp_sec": 270.27,
+      "cx": 1064.9,
+      "cy": 325.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8220",
+      "timestamp_sec": 274.27,
+      "cx": 1065.0,
+      "cy": 325.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8460",
+      "timestamp_sec": 282.28,
+      "cx": 1064.8,
+      "cy": 328.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "8760",
+      "timestamp_sec": 292.29,
+      "cx": 1064.7,
+      "cy": 329.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9120",
+      "timestamp_sec": 304.3,
+      "cx": 1066.0,
+      "cy": 327.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9180",
+      "timestamp_sec": 306.31,
+      "cx": 1065.3,
+      "cy": 327.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9240",
+      "timestamp_sec": 308.31,
+      "cx": 1065.0,
+      "cy": 326.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9600",
+      "timestamp_sec": 320.32,
+      "cx": 1065.5,
+      "cy": 325.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "9720",
+      "timestamp_sec": 324.32,
+      "cx": 1066.4,
+      "cy": 326.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10320",
+      "timestamp_sec": 344.34,
+      "cx": 1068.9,
+      "cy": 324.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "10440",
+      "timestamp_sec": 348.35,
+      "cx": 1069.3,
+      "cy": 324.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    }
+  ],
+  "15": [
+    {
+      "frame_id": "8400",
+      "timestamp_sec": 280.28,
+      "cx": 1558.6,
+      "cy": 1686.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 4.816
+    },
+    {
+      "frame_id": "8700",
+      "timestamp_sec": 290.29,
+      "cx": 1558.7,
+      "cy": 1687.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 4.813
+    },
+    {
+      "frame_id": "9720",
+      "timestamp_sec": 324.32,
+      "cx": 1560.2,
+      "cy": 1683.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 4.85
+    }
+  ],
+  "16": [
+    {
+      "frame_id": "8820",
+      "timestamp_sec": 294.29,
+      "cx": 3092.8,
+      "cy": 978.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.334
+    },
+    {
+      "frame_id": "8880",
+      "timestamp_sec": 296.3,
+      "cx": 3092.7,
+      "cy": 978.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.335
+    },
+    {
+      "frame_id": "9000",
+      "timestamp_sec": 300.3,
+      "cx": 3092.9,
+      "cy": 978.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.336
+    },
+    {
+      "frame_id": "9060",
+      "timestamp_sec": 302.3,
+      "cx": 3092.8,
+      "cy": 981.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.302
+    },
+    {
+      "frame_id": "9120",
+      "timestamp_sec": 304.3,
+      "cx": 3093.8,
+      "cy": 981.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.304
+    },
+    {
+      "frame_id": "9180",
+      "timestamp_sec": 306.31,
+      "cx": 3094.1,
+      "cy": 977.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.357
+    },
+    {
+      "frame_id": "9240",
+      "timestamp_sec": 308.31,
+      "cx": 3093.4,
+      "cy": 979.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.328
+    },
+    {
+      "frame_id": "9360",
+      "timestamp_sec": 312.31,
+      "cx": 3094.2,
+      "cy": 979.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.328
+    },
+    {
+      "frame_id": "9480",
+      "timestamp_sec": 316.32,
+      "cx": 3092.6,
+      "cy": 979.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.33
+    },
+    {
+      "frame_id": "9660",
+      "timestamp_sec": 322.32,
+      "cx": 3092.6,
+      "cy": 979.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.324
+    },
+    {
+      "frame_id": "9720",
+      "timestamp_sec": 324.32,
+      "cx": 3094.1,
+      "cy": 979.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.332
+    },
+    {
+      "frame_id": "9900",
+      "timestamp_sec": 330.33,
+      "cx": 3093.5,
+      "cy": 981.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.304
+    },
+    {
+      "frame_id": "10140",
+      "timestamp_sec": 338.34,
+      "cx": 3093.1,
+      "cy": 978.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.338
+    },
+    {
+      "frame_id": "10200",
+      "timestamp_sec": 340.34,
+      "cx": 3094.1,
+      "cy": 978.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.345
+    },
+    {
+      "frame_id": "10260",
+      "timestamp_sec": 342.34,
+      "cx": 3093.2,
+      "cy": 976.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.367
+    },
+    {
+      "frame_id": "10380",
+      "timestamp_sec": 346.35,
+      "cx": 3094.4,
+      "cy": 977.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.368
+    },
+    {
+      "frame_id": "10440",
+      "timestamp_sec": 348.35,
+      "cx": 3094.5,
+      "cy": 976.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.374
+    },
+    {
+      "frame_id": "10620",
+      "timestamp_sec": 354.35,
+      "cx": 3093.0,
+      "cy": 977.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.357
+    },
+    {
+      "frame_id": "11160",
+      "timestamp_sec": 372.37,
+      "cx": 3091.3,
+      "cy": 981.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.29
+    },
+    {
+      "frame_id": "11400",
+      "timestamp_sec": 380.38,
+      "cx": 3089.5,
+      "cy": 982.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.274
+    },
+    {
+      "frame_id": "11460",
+      "timestamp_sec": 382.38,
+      "cx": 3090.1,
+      "cy": 982.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.266
+    }
+  ],
+  "17": [
+    {
+      "frame_id": "9420",
+      "timestamp_sec": 314.31,
+      "cx": 2421.6,
+      "cy": 1324.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 3.841
+    },
+    {
+      "frame_id": "9480",
+      "timestamp_sec": 316.32,
+      "cx": 2417.9,
+      "cy": 1328.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 3.878
+    },
+    {
+      "frame_id": "9540",
+      "timestamp_sec": 318.32,
+      "cx": 2423.6,
+      "cy": 1344.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 3.731
+    },
+    {
+      "frame_id": "9600",
+      "timestamp_sec": 320.32,
+      "cx": 2422.8,
+      "cy": 1338.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 3.766
+    }
+  ],
+  "18": [
+    {
+      "frame_id": "10320",
+      "timestamp_sec": 344.34,
+      "cx": 2298.6,
+      "cy": 1622.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 4.485
+    },
+    {
+      "frame_id": "10380",
+      "timestamp_sec": 346.35,
+      "cx": 2295.0,
+      "cy": 1629.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 4.511
+    },
+    {
+      "frame_id": "10440",
+      "timestamp_sec": 348.35,
+      "cx": 2293.9,
+      "cy": 1637.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 4.495
+    }
+  ],
+  "20": [
+    {
+      "frame_id": "10680",
+      "timestamp_sec": 356.36,
+      "cx": 2203.8,
+      "cy": 763.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 11.431
+    },
+    {
+      "frame_id": "10740",
+      "timestamp_sec": 358.36,
+      "cx": 2203.3,
+      "cy": 765.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 11.42
+    },
+    {
+      "frame_id": "10800",
+      "timestamp_sec": 360.36,
+      "cx": 2204.8,
+      "cy": 765.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 11.403
+    }
+  ],
+  "21": [
+    {
+      "frame_id": "11220",
+      "timestamp_sec": 374.37,
+      "cx": 2626.7,
+      "cy": 1861.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "11580",
+      "timestamp_sec": 386.39,
+      "cx": 2620.7,
+      "cy": 1859.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13020",
+      "timestamp_sec": 434.43,
+      "cx": 2613.7,
+      "cy": 1842.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.0
+    }
+  ],
+  "24": [
+    {
+      "frame_id": "12240",
+      "timestamp_sec": 408.41,
+      "cx": 1064.8,
+      "cy": 326.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13080",
+      "timestamp_sec": 436.44,
+      "cx": 1065.2,
+      "cy": 326.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13140",
+      "timestamp_sec": 438.44,
+      "cx": 1065.5,
+      "cy": 327.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13620",
+      "timestamp_sec": 454.45,
+      "cx": 1065.0,
+      "cy": 325.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "13740",
+      "timestamp_sec": 458.46,
+      "cx": 1066.8,
+      "cy": 327.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    }
+  ],
+  "25": [
+    {
+      "frame_id": "17700",
+      "timestamp_sec": 590.59,
+      "cx": 3016.5,
+      "cy": 992.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.769
+    },
+    {
+      "frame_id": "17760",
+      "timestamp_sec": 592.59,
+      "cx": 3015.2,
+      "cy": 994.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.739
+    },
+    {
+      "frame_id": "17820",
+      "timestamp_sec": 594.59,
+      "cx": 3017.8,
+      "cy": 992.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.774
+    }
+  ],
+  "26": [
+    {
+      "frame_id": "17760",
+      "timestamp_sec": 592.59,
+      "cx": 1926.1,
+      "cy": 1948.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 9.476
+    },
+    {
+      "frame_id": "17940",
+      "timestamp_sec": 598.6,
+      "cx": 1922.2,
+      "cy": 1945.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 9.527
+    },
+    {
+      "frame_id": "18060",
+      "timestamp_sec": 602.6,
+      "cx": 1923.2,
+      "cy": 1947.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 9.516
+    },
+    {
+      "frame_id": "18180",
+      "timestamp_sec": 606.61,
+      "cx": 1925.8,
+      "cy": 1944.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 9.472
+    },
+    {
+      "frame_id": "18360",
+      "timestamp_sec": 612.61,
+      "cx": 1925.1,
+      "cy": 1943.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 9.481
+    },
+    {
+      "frame_id": "18420",
+      "timestamp_sec": 614.61,
+      "cx": 1924.9,
+      "cy": 1944.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 9.484
+    }
+  ],
+  "29": [
+    {
+      "frame_id": "19380",
+      "timestamp_sec": 646.65,
+      "cx": 2454.5,
+      "cy": 56.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 17.949
+    },
+    {
+      "frame_id": "19440",
+      "timestamp_sec": 648.65,
+      "cx": 2456.9,
+      "cy": 56.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 17.982
+    },
+    {
+      "frame_id": "19500",
+      "timestamp_sec": 650.65,
+      "cx": 2456.3,
+      "cy": 54.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 17.982
+    }
+  ],
+  "33": [
+    {
+      "frame_id": "22200",
+      "timestamp_sec": 740.74,
+      "cx": 2602.7,
+      "cy": 922.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.642
+    },
+    {
+      "frame_id": "22260",
+      "timestamp_sec": 742.74,
+      "cx": 2605.1,
+      "cy": 922.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.63
+    },
+    {
+      "frame_id": "22320",
+      "timestamp_sec": 744.74,
+      "cx": 2604.5,
+      "cy": 922.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.637
+    }
+  ],
+  "35": [
+    {
+      "frame_id": "23040",
+      "timestamp_sec": 768.77,
+      "cx": 1194.6,
+      "cy": 1827.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "23100",
+      "timestamp_sec": 770.77,
+      "cx": 1195.6,
+      "cy": 1825.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "23160",
+      "timestamp_sec": 772.77,
+      "cx": 1194.2,
+      "cy": 1824.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "23220",
+      "timestamp_sec": 774.77,
+      "cx": 1194.4,
+      "cy": 1823.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "23460",
+      "timestamp_sec": 782.78,
+      "cx": 1192.7,
+      "cy": 1815.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "23700",
+      "timestamp_sec": 790.79,
+      "cx": 1195.9,
+      "cy": 1816.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "23880",
+      "timestamp_sec": 796.8,
+      "cx": 1190.7,
+      "cy": 1812.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "24060",
+      "timestamp_sec": 802.8,
+      "cx": 1191.4,
+      "cy": 1815.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "24240",
+      "timestamp_sec": 808.81,
+      "cx": 1192.9,
+      "cy": 1808.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "24420",
+      "timestamp_sec": 814.81,
+      "cx": 1190.4,
+      "cy": 1814.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "24540",
+      "timestamp_sec": 818.82,
+      "cx": 1191.2,
+      "cy": 1815.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "24600",
+      "timestamp_sec": 820.82,
+      "cx": 1192.6,
+      "cy": 1816.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "25500",
+      "timestamp_sec": 850.85,
+      "cx": 1192.8,
+      "cy": 1817.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "25560",
+      "timestamp_sec": 852.85,
+      "cx": 1191.0,
+      "cy": 1816.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "25680",
+      "timestamp_sec": 856.86,
+      "cx": 1191.3,
+      "cy": 1820.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "25920",
+      "timestamp_sec": 864.86,
+      "cx": 1193.1,
+      "cy": 1819.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "25980",
+      "timestamp_sec": 866.87,
+      "cx": 1192.1,
+      "cy": 1818.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "26100",
+      "timestamp_sec": 870.87,
+      "cx": 1194.9,
+      "cy": 1819.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "26160",
+      "timestamp_sec": 872.87,
+      "cx": 1195.7,
+      "cy": 1821.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "26220",
+      "timestamp_sec": 874.87,
+      "cx": 1192.0,
+      "cy": 1818.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "26520",
+      "timestamp_sec": 884.88,
+      "cx": 1193.9,
+      "cy": 1823.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "26580",
+      "timestamp_sec": 886.89,
+      "cx": 1191.7,
+      "cy": 1838.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "27000",
+      "timestamp_sec": 900.9,
+      "cx": 1193.6,
+      "cy": 1841.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "27420",
+      "timestamp_sec": 914.91,
+      "cx": 1190.4,
+      "cy": 1840.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "27840",
+      "timestamp_sec": 928.93,
+      "cx": 1190.5,
+      "cy": 1845.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "28020",
+      "timestamp_sec": 934.93,
+      "cx": 1189.0,
+      "cy": 1846.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.003
+    },
+    {
+      "frame_id": "28260",
+      "timestamp_sec": 942.94,
+      "cx": 1189.9,
+      "cy": 1844.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "28320",
+      "timestamp_sec": 944.94,
+      "cx": 1189.8,
+      "cy": 1838.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "28500",
+      "timestamp_sec": 950.95,
+      "cx": 1190.4,
+      "cy": 1840.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "28560",
+      "timestamp_sec": 952.95,
+      "cx": 1189.0,
+      "cy": 1835.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "28620",
+      "timestamp_sec": 954.95,
+      "cx": 1190.1,
+      "cy": 1839.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "28920",
+      "timestamp_sec": 964.96,
+      "cx": 1190.3,
+      "cy": 1836.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "30180",
+      "timestamp_sec": 1007.01,
+      "cx": 1191.1,
+      "cy": 1841.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "30240",
+      "timestamp_sec": 1009.01,
+      "cx": 1189.9,
+      "cy": 1837.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "30300",
+      "timestamp_sec": 1011.01,
+      "cx": 1190.8,
+      "cy": 1831.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "30540",
+      "timestamp_sec": 1019.02,
+      "cx": 1190.2,
+      "cy": 1839.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "30600",
+      "timestamp_sec": 1021.02,
+      "cx": 1189.5,
+      "cy": 1835.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "30840",
+      "timestamp_sec": 1029.03,
+      "cx": 1192.2,
+      "cy": 1836.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "31020",
+      "timestamp_sec": 1035.03,
+      "cx": 1190.7,
+      "cy": 1834.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "33300",
+      "timestamp_sec": 1111.11,
+      "cx": 1191.1,
+      "cy": 1842.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "33480",
+      "timestamp_sec": 1117.12,
+      "cx": 1190.9,
+      "cy": 1835.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "34560",
+      "timestamp_sec": 1153.15,
+      "cx": 1188.8,
+      "cy": 1840.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "34680",
+      "timestamp_sec": 1157.16,
+      "cx": 1190.3,
+      "cy": 1838.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "34740",
+      "timestamp_sec": 1159.16,
+      "cx": 1190.2,
+      "cy": 1837.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "35580",
+      "timestamp_sec": 1187.19,
+      "cx": 1186.4,
+      "cy": 1832.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "36000",
+      "timestamp_sec": 1201.2,
+      "cx": 1186.8,
+      "cy": 1820.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    }
+  ],
+  "37": [
+    {
+      "frame_id": "25020",
+      "timestamp_sec": 834.83,
+      "cx": 2433.7,
+      "cy": 152.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 17.321
+    },
+    {
+      "frame_id": "25080",
+      "timestamp_sec": 836.84,
+      "cx": 2430.1,
+      "cy": 152.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 17.27
+    },
+    {
+      "frame_id": "25140",
+      "timestamp_sec": 838.84,
+      "cx": 2433.1,
+      "cy": 151.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 17.316
+    },
+    {
+      "frame_id": "25200",
+      "timestamp_sec": 840.84,
+      "cx": 2429.3,
+      "cy": 152.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 17.256
+    },
+    {
+      "frame_id": "25260",
+      "timestamp_sec": 842.84,
+      "cx": 2429.4,
+      "cy": 151.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 17.262
+    },
+    {
+      "frame_id": "25320",
+      "timestamp_sec": 844.84,
+      "cx": 2429.7,
+      "cy": 153.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 17.26
+    }
+  ],
+  "38": [
+    {
+      "frame_id": "26160",
+      "timestamp_sec": 872.87,
+      "cx": 2318.6,
+      "cy": 1290.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 5.465
+    },
+    {
+      "frame_id": "26220",
+      "timestamp_sec": 874.87,
+      "cx": 2316.2,
+      "cy": 1286.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 5.514
+    },
+    {
+      "frame_id": "26340",
+      "timestamp_sec": 878.88,
+      "cx": 2319.6,
+      "cy": 1290.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 5.449
+    }
+  ],
+  "41": [
+    {
+      "frame_id": "27840",
+      "timestamp_sec": 928.93,
+      "cx": 3037.0,
+      "cy": 996.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.809
+    },
+    {
+      "frame_id": "27900",
+      "timestamp_sec": 930.93,
+      "cx": 3036.1,
+      "cy": 997.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.793
+    },
+    {
+      "frame_id": "27960",
+      "timestamp_sec": 932.93,
+      "cx": 3036.3,
+      "cy": 997.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.799
+    },
+    {
+      "frame_id": "28020",
+      "timestamp_sec": 934.93,
+      "cx": 3036.8,
+      "cy": 997.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.802
+    },
+    {
+      "frame_id": "28140",
+      "timestamp_sec": 938.94,
+      "cx": 3031.7,
+      "cy": 996.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.792
+    }
+  ],
+  "42": [
+    {
+      "frame_id": "28140",
+      "timestamp_sec": 938.94,
+      "cx": 2134.4,
+      "cy": 1244.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 8.311
+    },
+    {
+      "frame_id": "28200",
+      "timestamp_sec": 940.94,
+      "cx": 2132.2,
+      "cy": 1241.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 8.357
+    },
+    {
+      "frame_id": "28260",
+      "timestamp_sec": 942.94,
+      "cx": 2133.0,
+      "cy": 1238.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 8.357
+    },
+    {
+      "frame_id": "28320",
+      "timestamp_sec": 944.94,
+      "cx": 2134.0,
+      "cy": 1242.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 8.325
+    },
+    {
+      "frame_id": "28500",
+      "timestamp_sec": 950.95,
+      "cx": 2130.3,
+      "cy": 1235.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 8.408
+    },
+    {
+      "frame_id": "28560",
+      "timestamp_sec": 952.95,
+      "cx": 2132.1,
+      "cy": 1233.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 8.389
+    },
+    {
+      "frame_id": "28620",
+      "timestamp_sec": 954.95,
+      "cx": 2132.6,
+      "cy": 1238.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 8.364
+    },
+    {
+      "frame_id": "28680",
+      "timestamp_sec": 956.96,
+      "cx": 2126.5,
+      "cy": 1238.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 8.449
+    },
+    {
+      "frame_id": "28920",
+      "timestamp_sec": 964.96,
+      "cx": 2133.4,
+      "cy": 1230.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 8.381
+    },
+    {
+      "frame_id": "32460",
+      "timestamp_sec": 1083.08,
+      "cx": 2145.6,
+      "cy": 1175.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 8.466
+    }
+  ],
+  "43": [
+    {
+      "frame_id": "28800",
+      "timestamp_sec": 960.96,
+      "cx": 2307.8,
+      "cy": 1319.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 5.509
+    },
+    {
+      "frame_id": "28860",
+      "timestamp_sec": 962.96,
+      "cx": 2310.1,
+      "cy": 1308.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 5.516
+    },
+    {
+      "frame_id": "28920",
+      "timestamp_sec": 964.96,
+      "cx": 2311.1,
+      "cy": 1301.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 5.527
+    }
+  ],
+  "45": [
+    {
+      "frame_id": "29340",
+      "timestamp_sec": 978.98,
+      "cx": 631.3,
+      "cy": 278.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.715
+    },
+    {
+      "frame_id": "29400",
+      "timestamp_sec": 980.98,
+      "cx": 629.2,
+      "cy": 277.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.745
+    },
+    {
+      "frame_id": "29520",
+      "timestamp_sec": 984.98,
+      "cx": 627.8,
+      "cy": 280.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.763
+    },
+    {
+      "frame_id": "29580",
+      "timestamp_sec": 986.99,
+      "cx": 628.3,
+      "cy": 281.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.755
+    },
+    {
+      "frame_id": "29640",
+      "timestamp_sec": 988.99,
+      "cx": 627.4,
+      "cy": 282.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.767
+    },
+    {
+      "frame_id": "29700",
+      "timestamp_sec": 990.99,
+      "cx": 625.4,
+      "cy": 282.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.798
+    },
+    {
+      "frame_id": "29760",
+      "timestamp_sec": 992.99,
+      "cx": 626.8,
+      "cy": 282.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.776
+    },
+    {
+      "frame_id": "29820",
+      "timestamp_sec": 994.99,
+      "cx": 627.6,
+      "cy": 282.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.765
+    },
+    {
+      "frame_id": "29880",
+      "timestamp_sec": 997.0,
+      "cx": 627.5,
+      "cy": 283.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.766
+    },
+    {
+      "frame_id": "29940",
+      "timestamp_sec": 999.0,
+      "cx": 627.8,
+      "cy": 283.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.76
+    },
+    {
+      "frame_id": "30000",
+      "timestamp_sec": 1001.0,
+      "cx": 627.4,
+      "cy": 282.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.768
+    },
+    {
+      "frame_id": "30120",
+      "timestamp_sec": 1005.0,
+      "cx": 629.3,
+      "cy": 285.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.737
+    },
+    {
+      "frame_id": "30240",
+      "timestamp_sec": 1009.01,
+      "cx": 629.4,
+      "cy": 281.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.738
+    },
+    {
+      "frame_id": "30300",
+      "timestamp_sec": 1011.01,
+      "cx": 629.4,
+      "cy": 281.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.738
+    },
+    {
+      "frame_id": "30360",
+      "timestamp_sec": 1013.01,
+      "cx": 629.4,
+      "cy": 281.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.739
+    },
+    {
+      "frame_id": "30420",
+      "timestamp_sec": 1015.01,
+      "cx": 627.5,
+      "cy": 279.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.769
+    },
+    {
+      "frame_id": "30480",
+      "timestamp_sec": 1017.02,
+      "cx": 627.6,
+      "cy": 280.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.768
+    },
+    {
+      "frame_id": "30540",
+      "timestamp_sec": 1019.02,
+      "cx": 627.4,
+      "cy": 279.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.771
+    },
+    {
+      "frame_id": "30600",
+      "timestamp_sec": 1021.02,
+      "cx": 627.9,
+      "cy": 278.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.766
+    },
+    {
+      "frame_id": "30720",
+      "timestamp_sec": 1025.02,
+      "cx": 629.1,
+      "cy": 277.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.748
+    },
+    {
+      "frame_id": "30780",
+      "timestamp_sec": 1027.03,
+      "cx": 630.9,
+      "cy": 278.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.72
+    },
+    {
+      "frame_id": "30840",
+      "timestamp_sec": 1029.03,
+      "cx": 630.4,
+      "cy": 278.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.727
+    },
+    {
+      "frame_id": "30900",
+      "timestamp_sec": 1031.03,
+      "cx": 630.2,
+      "cy": 278.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.731
+    },
+    {
+      "frame_id": "31080",
+      "timestamp_sec": 1037.04,
+      "cx": 629.1,
+      "cy": 277.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.749
+    },
+    {
+      "frame_id": "31200",
+      "timestamp_sec": 1041.04,
+      "cx": 627.8,
+      "cy": 277.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.768
+    },
+    {
+      "frame_id": "31260",
+      "timestamp_sec": 1043.04,
+      "cx": 626.6,
+      "cy": 279.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.783
+    },
+    {
+      "frame_id": "31320",
+      "timestamp_sec": 1045.04,
+      "cx": 624.8,
+      "cy": 278.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.812
+    },
+    {
+      "frame_id": "31380",
+      "timestamp_sec": 1047.05,
+      "cx": 625.1,
+      "cy": 278.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.806
+    },
+    {
+      "frame_id": "31440",
+      "timestamp_sec": 1049.05,
+      "cx": 623.7,
+      "cy": 278.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.827
+    },
+    {
+      "frame_id": "31500",
+      "timestamp_sec": 1051.05,
+      "cx": 622.2,
+      "cy": 281.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.846
+    },
+    {
+      "frame_id": "31560",
+      "timestamp_sec": 1053.05,
+      "cx": 622.2,
+      "cy": 280.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.847
+    },
+    {
+      "frame_id": "31620",
+      "timestamp_sec": 1055.05,
+      "cx": 622.8,
+      "cy": 280.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.838
+    },
+    {
+      "frame_id": "31740",
+      "timestamp_sec": 1059.06,
+      "cx": 623.2,
+      "cy": 282.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.83
+    },
+    {
+      "frame_id": "31860",
+      "timestamp_sec": 1063.06,
+      "cx": 620.4,
+      "cy": 282.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.873
+    },
+    {
+      "frame_id": "31920",
+      "timestamp_sec": 1065.06,
+      "cx": 622.9,
+      "cy": 280.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.837
+    },
+    {
+      "frame_id": "32040",
+      "timestamp_sec": 1069.07,
+      "cx": 621.9,
+      "cy": 279.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.854
+    },
+    {
+      "frame_id": "32100",
+      "timestamp_sec": 1071.07,
+      "cx": 621.6,
+      "cy": 279.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.858
+    },
+    {
+      "frame_id": "32160",
+      "timestamp_sec": 1073.07,
+      "cx": 623.3,
+      "cy": 279.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.832
+    },
+    {
+      "frame_id": "32220",
+      "timestamp_sec": 1075.07,
+      "cx": 623.3,
+      "cy": 279.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.832
+    },
+    {
+      "frame_id": "32280",
+      "timestamp_sec": 1077.08,
+      "cx": 623.2,
+      "cy": 279.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.834
+    },
+    {
+      "frame_id": "32340",
+      "timestamp_sec": 1079.08,
+      "cx": 623.8,
+      "cy": 278.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.825
+    },
+    {
+      "frame_id": "32400",
+      "timestamp_sec": 1081.08,
+      "cx": 624.2,
+      "cy": 280.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.817
+    },
+    {
+      "frame_id": "32460",
+      "timestamp_sec": 1083.08,
+      "cx": 625.2,
+      "cy": 282.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.801
+    },
+    {
+      "frame_id": "32520",
+      "timestamp_sec": 1085.08,
+      "cx": 624.2,
+      "cy": 283.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.814
+    },
+    {
+      "frame_id": "32580",
+      "timestamp_sec": 1087.09,
+      "cx": 622.8,
+      "cy": 282.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.837
+    },
+    {
+      "frame_id": "32640",
+      "timestamp_sec": 1089.09,
+      "cx": 623.6,
+      "cy": 284.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.822
+    },
+    {
+      "frame_id": "32700",
+      "timestamp_sec": 1091.09,
+      "cx": 623.8,
+      "cy": 284.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.819
+    },
+    {
+      "frame_id": "32760",
+      "timestamp_sec": 1093.09,
+      "cx": 622.9,
+      "cy": 285.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.832
+    },
+    {
+      "frame_id": "33540",
+      "timestamp_sec": 1119.12,
+      "cx": 620.8,
+      "cy": 281.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.868
+    },
+    {
+      "frame_id": "33600",
+      "timestamp_sec": 1121.12,
+      "cx": 624.0,
+      "cy": 279.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.822
+    },
+    {
+      "frame_id": "33660",
+      "timestamp_sec": 1123.12,
+      "cx": 624.2,
+      "cy": 278.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.82
+    },
+    {
+      "frame_id": "33720",
+      "timestamp_sec": 1125.12,
+      "cx": 623.8,
+      "cy": 277.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.827
+    },
+    {
+      "frame_id": "33780",
+      "timestamp_sec": 1127.13,
+      "cx": 625.0,
+      "cy": 275.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.811
+    },
+    {
+      "frame_id": "33960",
+      "timestamp_sec": 1133.13,
+      "cx": 627.3,
+      "cy": 278.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.775
+    },
+    {
+      "frame_id": "34020",
+      "timestamp_sec": 1135.13,
+      "cx": 628.1,
+      "cy": 277.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.762
+    },
+    {
+      "frame_id": "34080",
+      "timestamp_sec": 1137.14,
+      "cx": 628.6,
+      "cy": 278.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.755
+    },
+    {
+      "frame_id": "34140",
+      "timestamp_sec": 1139.14,
+      "cx": 627.3,
+      "cy": 277.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.774
+    },
+    {
+      "frame_id": "34320",
+      "timestamp_sec": 1145.14,
+      "cx": 626.8,
+      "cy": 280.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.778
+    },
+    {
+      "frame_id": "34380",
+      "timestamp_sec": 1147.15,
+      "cx": 627.7,
+      "cy": 280.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.765
+    },
+    {
+      "frame_id": "34440",
+      "timestamp_sec": 1149.15,
+      "cx": 626.8,
+      "cy": 282.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.777
+    },
+    {
+      "frame_id": "34500",
+      "timestamp_sec": 1151.15,
+      "cx": 626.8,
+      "cy": 280.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.78
+    },
+    {
+      "frame_id": "34560",
+      "timestamp_sec": 1153.15,
+      "cx": 625.3,
+      "cy": 279.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.802
+    },
+    {
+      "frame_id": "34620",
+      "timestamp_sec": 1155.15,
+      "cx": 626.7,
+      "cy": 277.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.784
+    },
+    {
+      "frame_id": "34680",
+      "timestamp_sec": 1157.16,
+      "cx": 626.0,
+      "cy": 280.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.791
+    },
+    {
+      "frame_id": "34740",
+      "timestamp_sec": 1159.16,
+      "cx": 624.5,
+      "cy": 278.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.816
+    },
+    {
+      "frame_id": "34800",
+      "timestamp_sec": 1161.16,
+      "cx": 623.4,
+      "cy": 278.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.832
+    },
+    {
+      "frame_id": "34860",
+      "timestamp_sec": 1163.16,
+      "cx": 623.1,
+      "cy": 281.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.834
+    },
+    {
+      "frame_id": "34980",
+      "timestamp_sec": 1167.17,
+      "cx": 623.4,
+      "cy": 282.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.827
+    },
+    {
+      "frame_id": "35040",
+      "timestamp_sec": 1169.17,
+      "cx": 623.3,
+      "cy": 283.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.828
+    },
+    {
+      "frame_id": "35100",
+      "timestamp_sec": 1171.17,
+      "cx": 622.7,
+      "cy": 281.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.839
+    },
+    {
+      "frame_id": "35160",
+      "timestamp_sec": 1173.17,
+      "cx": 622.9,
+      "cy": 281.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.836
+    },
+    {
+      "frame_id": "35220",
+      "timestamp_sec": 1175.17,
+      "cx": 624.0,
+      "cy": 282.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.818
+    },
+    {
+      "frame_id": "35280",
+      "timestamp_sec": 1177.18,
+      "cx": 624.7,
+      "cy": 283.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.808
+    },
+    {
+      "frame_id": "35340",
+      "timestamp_sec": 1179.18,
+      "cx": 624.4,
+      "cy": 285.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.81
+    },
+    {
+      "frame_id": "35400",
+      "timestamp_sec": 1181.18,
+      "cx": 624.0,
+      "cy": 285.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.816
+    },
+    {
+      "frame_id": "35640",
+      "timestamp_sec": 1189.19,
+      "cx": 625.2,
+      "cy": 281.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.802
+    },
+    {
+      "frame_id": "35820",
+      "timestamp_sec": 1195.19,
+      "cx": 621.6,
+      "cy": 279.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.858
+    },
+    {
+      "frame_id": "36000",
+      "timestamp_sec": 1201.2,
+      "cx": 621.7,
+      "cy": 281.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.855
+    },
+    {
+      "frame_id": "36120",
+      "timestamp_sec": 1205.2,
+      "cx": 624.3,
+      "cy": 280.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.815
+    },
+    {
+      "frame_id": "36180",
+      "timestamp_sec": 1207.21,
+      "cx": 625.0,
+      "cy": 281.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.805
+    },
+    {
+      "frame_id": "36240",
+      "timestamp_sec": 1209.21,
+      "cx": 626.5,
+      "cy": 282.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.781
+    },
+    {
+      "frame_id": "36360",
+      "timestamp_sec": 1213.21,
+      "cx": 627.8,
+      "cy": 283.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.76
+    },
+    {
+      "frame_id": "36420",
+      "timestamp_sec": 1215.21,
+      "cx": 627.9,
+      "cy": 284.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.757
+    },
+    {
+      "frame_id": "36540",
+      "timestamp_sec": 1219.22,
+      "cx": 629.1,
+      "cy": 283.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.741
+    },
+    {
+      "frame_id": "36600",
+      "timestamp_sec": 1221.22,
+      "cx": 627.8,
+      "cy": 282.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.762
+    },
+    {
+      "frame_id": "36660",
+      "timestamp_sec": 1223.22,
+      "cx": 627.8,
+      "cy": 284.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.76
+    },
+    {
+      "frame_id": "36720",
+      "timestamp_sec": 1225.22,
+      "cx": 629.1,
+      "cy": 283.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.741
+    },
+    {
+      "frame_id": "36780",
+      "timestamp_sec": 1227.23,
+      "cx": 629.2,
+      "cy": 284.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.739
+    },
+    {
+      "frame_id": "36840",
+      "timestamp_sec": 1229.23,
+      "cx": 629.7,
+      "cy": 283.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.732
+    },
+    {
+      "frame_id": "36900",
+      "timestamp_sec": 1231.23,
+      "cx": 629.8,
+      "cy": 283.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.73
+    },
+    {
+      "frame_id": "36960",
+      "timestamp_sec": 1233.23,
+      "cx": 630.2,
+      "cy": 284.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.724
+    },
+    {
+      "frame_id": "37020",
+      "timestamp_sec": 1235.23,
+      "cx": 630.1,
+      "cy": 283.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.726
+    },
+    {
+      "frame_id": "37080",
+      "timestamp_sec": 1237.24,
+      "cx": 629.9,
+      "cy": 284.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.728
+    },
+    {
+      "frame_id": "37140",
+      "timestamp_sec": 1239.24,
+      "cx": 629.8,
+      "cy": 284.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.73
+    },
+    {
+      "frame_id": "37200",
+      "timestamp_sec": 1241.24,
+      "cx": 629.5,
+      "cy": 283.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.736
+    },
+    {
+      "frame_id": "37260",
+      "timestamp_sec": 1243.24,
+      "cx": 629.4,
+      "cy": 283.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.738
+    },
+    {
+      "frame_id": "37320",
+      "timestamp_sec": 1245.24,
+      "cx": 629.7,
+      "cy": 282.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.734
+    },
+    {
+      "frame_id": "37380",
+      "timestamp_sec": 1247.25,
+      "cx": 630.0,
+      "cy": 282.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.728
+    },
+    {
+      "frame_id": "37560",
+      "timestamp_sec": 1253.25,
+      "cx": 632.6,
+      "cy": 293.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.681
+    },
+    {
+      "frame_id": "37740",
+      "timestamp_sec": 1259.26,
+      "cx": 632.5,
+      "cy": 282.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.692
+    },
+    {
+      "frame_id": "37800",
+      "timestamp_sec": 1261.26,
+      "cx": 632.5,
+      "cy": 281.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.694
+    },
+    {
+      "frame_id": "37860",
+      "timestamp_sec": 1263.26,
+      "cx": 628.1,
+      "cy": 279.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.761
+    },
+    {
+      "frame_id": "37920",
+      "timestamp_sec": 1265.26,
+      "cx": 629.0,
+      "cy": 280.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.745
+    },
+    {
+      "frame_id": "37980",
+      "timestamp_sec": 1267.27,
+      "cx": 633.7,
+      "cy": 285.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 5.671
+    }
+  ],
+  "46": [
+    {
+      "frame_id": "29400",
+      "timestamp_sec": 980.98,
+      "cx": 2060.4,
+      "cy": 666.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 12.073
+    },
+    {
+      "frame_id": "29460",
+      "timestamp_sec": 982.98,
+      "cx": 2054.2,
+      "cy": 668.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 11.99
+    },
+    {
+      "frame_id": "29580",
+      "timestamp_sec": 986.99,
+      "cx": 2052.5,
+      "cy": 669.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 11.968
+    },
+    {
+      "frame_id": "29640",
+      "timestamp_sec": 988.99,
+      "cx": 2048.6,
+      "cy": 676.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 11.933
+    }
+  ],
+  "47": [
+    {
+      "frame_id": "29460",
+      "timestamp_sec": 982.98,
+      "cx": 2623.0,
+      "cy": 1456.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.413
+    },
+    {
+      "frame_id": "29640",
+      "timestamp_sec": 988.99,
+      "cx": 2620.1,
+      "cy": 1458.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.448
+    },
+    {
+      "frame_id": "29820",
+      "timestamp_sec": 994.99,
+      "cx": 2619.1,
+      "cy": 1463.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.443
+    },
+    {
+      "frame_id": "29880",
+      "timestamp_sec": 997.0,
+      "cx": 2619.7,
+      "cy": 1463.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.432
+    }
+  ],
+  "48": [
+    {
+      "frame_id": "30360",
+      "timestamp_sec": 1013.01,
+      "cx": 3037.0,
+      "cy": 995.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.822
+    },
+    {
+      "frame_id": "30420",
+      "timestamp_sec": 1015.01,
+      "cx": 3038.1,
+      "cy": 995.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.841
+    },
+    {
+      "frame_id": "30720",
+      "timestamp_sec": 1025.02,
+      "cx": 3039.4,
+      "cy": 989.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.931
+    }
+  ],
+  "49": [
+    {
+      "frame_id": "30780",
+      "timestamp_sec": 1027.03,
+      "cx": 3001.4,
+      "cy": 2049.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.427
+    },
+    {
+      "frame_id": "30900",
+      "timestamp_sec": 1031.03,
+      "cx": 2997.3,
+      "cy": 2044.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.321
+    },
+    {
+      "frame_id": "30960",
+      "timestamp_sec": 1033.03,
+      "cx": 3000.3,
+      "cy": 2050.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.418
+    },
+    {
+      "frame_id": "31020",
+      "timestamp_sec": 1035.03,
+      "cx": 3006.8,
+      "cy": 2057.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.571
+    },
+    {
+      "frame_id": "31080",
+      "timestamp_sec": 1037.04,
+      "cx": 3006.2,
+      "cy": 2058.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.573
+    }
+  ],
+  "50": [
+    {
+      "frame_id": "31020",
+      "timestamp_sec": 1035.03,
+      "cx": 2249.8,
+      "cy": 1262.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.571
+    },
+    {
+      "frame_id": "31080",
+      "timestamp_sec": 1037.04,
+      "cx": 2244.4,
+      "cy": 1277.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.591
+    },
+    {
+      "frame_id": "34320",
+      "timestamp_sec": 1145.14,
+      "cx": 2134.0,
+      "cy": 1534.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 7.207
+    }
+  ],
+  "51": [
+    {
+      "frame_id": "31380",
+      "timestamp_sec": 1047.05,
+      "cx": 3030.3,
+      "cy": 998.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.75
+    },
+    {
+      "frame_id": "31440",
+      "timestamp_sec": 1049.05,
+      "cx": 3032.5,
+      "cy": 999.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.757
+    },
+    {
+      "frame_id": "31500",
+      "timestamp_sec": 1051.05,
+      "cx": 3028.6,
+      "cy": 1000.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.724
+    },
+    {
+      "frame_id": "31560",
+      "timestamp_sec": 1053.05,
+      "cx": 3030.5,
+      "cy": 999.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.736
+    },
+    {
+      "frame_id": "31620",
+      "timestamp_sec": 1055.05,
+      "cx": 3029.6,
+      "cy": 999.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 6.733
+    }
+  ],
+  "52": [
+    {
+      "frame_id": "31680",
+      "timestamp_sec": 1057.06,
+      "cx": 1182.1,
+      "cy": 1817.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "31740",
+      "timestamp_sec": 1059.06,
+      "cx": 1182.5,
+      "cy": 1815.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "31980",
+      "timestamp_sec": 1067.07,
+      "cx": 1183.2,
+      "cy": 1814.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    }
+  ],
+  "55": [
+    {
+      "frame_id": "33180",
+      "timestamp_sec": 1107.11,
+      "cx": 3009.5,
+      "cy": 2053.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.554
+    },
+    {
+      "frame_id": "33840",
+      "timestamp_sec": 1129.13,
+      "cx": 3012.2,
+      "cy": 2051.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.564
+    },
+    {
+      "frame_id": "33900",
+      "timestamp_sec": 1131.13,
+      "cx": 3011.6,
+      "cy": 2054.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.588
+    },
+    {
+      "frame_id": "34440",
+      "timestamp_sec": 1149.15,
+      "cx": 3009.1,
+      "cy": 2063.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.654
+    },
+    {
+      "frame_id": "34800",
+      "timestamp_sec": 1161.16,
+      "cx": 3009.3,
+      "cy": 2061.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.634
+    },
+    {
+      "frame_id": "34860",
+      "timestamp_sec": 1163.16,
+      "cx": 3008.4,
+      "cy": 2060.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.617
+    },
+    {
+      "frame_id": "34920",
+      "timestamp_sec": 1165.16,
+      "cx": 3007.4,
+      "cy": 2060.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.604
+    },
+    {
+      "frame_id": "35160",
+      "timestamp_sec": 1173.17,
+      "cx": 3012.4,
+      "cy": 2063.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.684
+    },
+    {
+      "frame_id": "35220",
+      "timestamp_sec": 1175.17,
+      "cx": 3013.0,
+      "cy": 2064.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.702
+    }
+  ],
+  "57": [
+    {
+      "frame_id": "33720",
+      "timestamp_sec": 1125.12,
+      "cx": 2623.7,
+      "cy": 1452.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.418
+    },
+    {
+      "frame_id": "34740",
+      "timestamp_sec": 1159.16,
+      "cx": 2618.4,
+      "cy": 1458.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.47
+    },
+    {
+      "frame_id": "36300",
+      "timestamp_sec": 1211.21,
+      "cx": 2628.0,
+      "cy": 1464.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.308
+    },
+    {
+      "frame_id": "36540",
+      "timestamp_sec": 1219.22,
+      "cx": 2628.5,
+      "cy": 1461.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.314
+    },
+    {
+      "frame_id": "36600",
+      "timestamp_sec": 1221.22,
+      "cx": 2628.5,
+      "cy": 1455.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.336
+    },
+    {
+      "frame_id": "36960",
+      "timestamp_sec": 1233.23,
+      "cx": 2630.4,
+      "cy": 1439.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.371
+    }
+  ],
+  "61": [
+    {
+      "frame_id": "36360",
+      "timestamp_sec": 1213.21,
+      "cx": 3067.1,
+      "cy": 2015.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 1.234
+    },
+    {
+      "frame_id": "36420",
+      "timestamp_sec": 1215.21,
+      "cx": 3065.8,
+      "cy": 2014.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 1.214
+    },
+    {
+      "frame_id": "36480",
+      "timestamp_sec": 1217.22,
+      "cx": 3064.7,
+      "cy": 2020.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 1.207
+    },
+    {
+      "frame_id": "36540",
+      "timestamp_sec": 1219.22,
+      "cx": 3065.7,
+      "cy": 2022.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 1.225
+    }
+  ],
+  "64": [
+    {
+      "frame_id": "38400",
+      "timestamp_sec": 1281.28,
+      "cx": 1779.3,
+      "cy": 1693.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 7.996
+    },
+    {
+      "frame_id": "39300",
+      "timestamp_sec": 1311.31,
+      "cx": 1778.7,
+      "cy": 1692.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 7.992
+    },
+    {
+      "frame_id": "39480",
+      "timestamp_sec": 1317.32,
+      "cx": 1778.1,
+      "cy": 1694.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 7.976
+    },
+    {
+      "frame_id": "43860",
+      "timestamp_sec": 1463.46,
+      "cx": 1776.6,
+      "cy": 1695.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 7.948
+    }
+  ],
+  "68": [
+    {
+      "frame_id": "39780",
+      "timestamp_sec": 1327.33,
+      "cx": 1214.1,
+      "cy": 429.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "39840",
+      "timestamp_sec": 1329.33,
+      "cx": 1215.0,
+      "cy": 430.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "39900",
+      "timestamp_sec": 1331.33,
+      "cx": 1210.8,
+      "cy": 427.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "39960",
+      "timestamp_sec": 1333.33,
+      "cx": 1212.2,
+      "cy": 427.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "40020",
+      "timestamp_sec": 1335.33,
+      "cx": 1211.3,
+      "cy": 423.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    }
+  ],
+  "69": [
+    {
+      "frame_id": "40380",
+      "timestamp_sec": 1347.35,
+      "cx": 3087.1,
+      "cy": 2060.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 1.636
+    },
+    {
+      "frame_id": "40440",
+      "timestamp_sec": 1349.35,
+      "cx": 3086.8,
+      "cy": 2059.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 1.627
+    },
+    {
+      "frame_id": "40500",
+      "timestamp_sec": 1351.35,
+      "cx": 3085.1,
+      "cy": 2058.4,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 1.597
+    },
+    {
+      "frame_id": "40560",
+      "timestamp_sec": 1353.35,
+      "cx": 3084.1,
+      "cy": 2058.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 1.583
+    },
+    {
+      "frame_id": "40620",
+      "timestamp_sec": 1355.35,
+      "cx": 3079.1,
+      "cy": 2056.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 1.503
+    },
+    {
+      "frame_id": "40680",
+      "timestamp_sec": 1357.36,
+      "cx": 3077.9,
+      "cy": 2060.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 1.502
+    },
+    {
+      "frame_id": "40860",
+      "timestamp_sec": 1363.36,
+      "cx": 3083.5,
+      "cy": 2072.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 1.648
+    },
+    {
+      "frame_id": "42120",
+      "timestamp_sec": 1405.4,
+      "cx": 3074.1,
+      "cy": 2016.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 1.342
+    }
+  ],
+  "70": [
+    {
+      "frame_id": "40920",
+      "timestamp_sec": 1365.36,
+      "cx": 1223.3,
+      "cy": 405.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "41100",
+      "timestamp_sec": 1371.37,
+      "cx": 1220.4,
+      "cy": 403.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "41160",
+      "timestamp_sec": 1373.37,
+      "cx": 1219.1,
+      "cy": 404.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "41220",
+      "timestamp_sec": 1375.37,
+      "cx": 1218.9,
+      "cy": 406.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "41280",
+      "timestamp_sec": 1377.38,
+      "cx": 1217.6,
+      "cy": 405.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "41340",
+      "timestamp_sec": 1379.38,
+      "cx": 1217.4,
+      "cy": 407.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "41400",
+      "timestamp_sec": 1381.38,
+      "cx": 1220.9,
+      "cy": 400.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "41460",
+      "timestamp_sec": 1383.38,
+      "cx": 1212.4,
+      "cy": 398.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 0.0
+    }
+  ],
+  "72": [
+    {
+      "frame_id": "41160",
+      "timestamp_sec": 1373.37,
+      "cx": 936.8,
+      "cy": 300.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.12
+    },
+    {
+      "frame_id": "41220",
+      "timestamp_sec": 1375.37,
+      "cx": 936.6,
+      "cy": 300.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.122
+    },
+    {
+      "frame_id": "41520",
+      "timestamp_sec": 1385.38,
+      "cx": 937.6,
+      "cy": 308.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.1
+    },
+    {
+      "frame_id": "41700",
+      "timestamp_sec": 1391.39,
+      "cx": 936.5,
+      "cy": 309.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.117
+    },
+    {
+      "frame_id": "42120",
+      "timestamp_sec": 1405.4,
+      "cx": 937.5,
+      "cy": 309.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.102
+    },
+    {
+      "frame_id": "42240",
+      "timestamp_sec": 1409.41,
+      "cx": 938.9,
+      "cy": 312.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.082
+    },
+    {
+      "frame_id": "42360",
+      "timestamp_sec": 1413.41,
+      "cx": 937.9,
+      "cy": 310.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.096
+    },
+    {
+      "frame_id": "42660",
+      "timestamp_sec": 1423.42,
+      "cx": 939.2,
+      "cy": 307.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.078
+    },
+    {
+      "frame_id": "43860",
+      "timestamp_sec": 1463.46,
+      "cx": 939.3,
+      "cy": 314.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.076
+    },
+    {
+      "frame_id": "43980",
+      "timestamp_sec": 1467.47,
+      "cx": 934.1,
+      "cy": 313.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.154
+    },
+    {
+      "frame_id": "44340",
+      "timestamp_sec": 1479.48,
+      "cx": 936.2,
+      "cy": 307.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.122
+    },
+    {
+      "frame_id": "44400",
+      "timestamp_sec": 1481.48,
+      "cx": 939.4,
+      "cy": 307.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.074
+    },
+    {
+      "frame_id": "44760",
+      "timestamp_sec": 1493.49,
+      "cx": 937.9,
+      "cy": 308.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.097
+    },
+    {
+      "frame_id": "44940",
+      "timestamp_sec": 1499.5,
+      "cx": 938.3,
+      "cy": 310.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.091
+    },
+    {
+      "frame_id": "45300",
+      "timestamp_sec": 1511.51,
+      "cx": 936.9,
+      "cy": 308.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.112
+    },
+    {
+      "frame_id": "45660",
+      "timestamp_sec": 1523.52,
+      "cx": 936.8,
+      "cy": 308.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.113
+    },
+    {
+      "frame_id": "45720",
+      "timestamp_sec": 1525.52,
+      "cx": 935.8,
+      "cy": 308.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.127
+    },
+    {
+      "frame_id": "45840",
+      "timestamp_sec": 1529.53,
+      "cx": 938.8,
+      "cy": 311.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.082
+    },
+    {
+      "frame_id": "45900",
+      "timestamp_sec": 1531.53,
+      "cx": 938.6,
+      "cy": 310.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.086
+    },
+    {
+      "frame_id": "46020",
+      "timestamp_sec": 1535.53,
+      "cx": 938.4,
+      "cy": 310.8,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.089
+    },
+    {
+      "frame_id": "46800",
+      "timestamp_sec": 1561.56,
+      "cx": 937.9,
+      "cy": 311.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.097
+    },
+    {
+      "frame_id": "46860",
+      "timestamp_sec": 1563.56,
+      "cx": 937.0,
+      "cy": 310.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.11
+    },
+    {
+      "frame_id": "46920",
+      "timestamp_sec": 1565.56,
+      "cx": 937.8,
+      "cy": 310.9,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.098
+    },
+    {
+      "frame_id": "46980",
+      "timestamp_sec": 1567.57,
+      "cx": 937.5,
+      "cy": 310.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.102
+    },
+    {
+      "frame_id": "47160",
+      "timestamp_sec": 1573.57,
+      "cx": 936.6,
+      "cy": 310.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.116
+    },
+    {
+      "frame_id": "47400",
+      "timestamp_sec": 1581.58,
+      "cx": 935.0,
+      "cy": 309.2,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.141
+    },
+    {
+      "frame_id": "47580",
+      "timestamp_sec": 1587.59,
+      "cx": 935.1,
+      "cy": 311.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.138
+    },
+    {
+      "frame_id": "47880",
+      "timestamp_sec": 1597.6,
+      "cx": 935.0,
+      "cy": 310.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.14
+    },
+    {
+      "frame_id": "47940",
+      "timestamp_sec": 1599.6,
+      "cx": 934.3,
+      "cy": 310.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 2,
+      "distance_to_nearest_zebra_m": 1.151
+    }
+  ],
+  "75": [
+    {
+      "frame_id": "44160",
+      "timestamp_sec": 1473.47,
+      "cx": 1190.7,
+      "cy": 1835.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "44220",
+      "timestamp_sec": 1475.47,
+      "cx": 1189.8,
+      "cy": 1835.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "44280",
+      "timestamp_sec": 1477.48,
+      "cx": 1190.6,
+      "cy": 1836.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "45300",
+      "timestamp_sec": 1511.51,
+      "cx": 1188.5,
+      "cy": 1837.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "45600",
+      "timestamp_sec": 1521.52,
+      "cx": 1190.0,
+      "cy": 1835.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "45660",
+      "timestamp_sec": 1523.52,
+      "cx": 1189.7,
+      "cy": 1829.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "45720",
+      "timestamp_sec": 1525.52,
+      "cx": 1188.8,
+      "cy": 1831.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "47040",
+      "timestamp_sec": 1569.57,
+      "cx": 1190.3,
+      "cy": 1835.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "47100",
+      "timestamp_sec": 1571.57,
+      "cx": 1190.6,
+      "cy": 1833.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "47160",
+      "timestamp_sec": 1573.57,
+      "cx": 1190.2,
+      "cy": 1838.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "49200",
+      "timestamp_sec": 1641.64,
+      "cx": 1190.8,
+      "cy": 1839.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    }
+  ],
+  "77": [
+    {
+      "frame_id": "45660",
+      "timestamp_sec": 1523.52,
+      "cx": 1189.1,
+      "cy": 1817.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "45780",
+      "timestamp_sec": 1527.53,
+      "cx": 1190.3,
+      "cy": 1813.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "45840",
+      "timestamp_sec": 1529.53,
+      "cx": 1190.8,
+      "cy": 1812.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "45900",
+      "timestamp_sec": 1531.53,
+      "cx": 1190.6,
+      "cy": 1814.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "45960",
+      "timestamp_sec": 1533.53,
+      "cx": 1190.5,
+      "cy": 1812.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "46020",
+      "timestamp_sec": 1535.53,
+      "cx": 1190.2,
+      "cy": 1812.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "46200",
+      "timestamp_sec": 1541.54,
+      "cx": 1190.4,
+      "cy": 1813.1,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "47160",
+      "timestamp_sec": 1573.57,
+      "cx": 1189.1,
+      "cy": 1820.4,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    },
+    {
+      "frame_id": "47760",
+      "timestamp_sec": 1593.59,
+      "cx": 1186.4,
+      "cy": 1831.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": true,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 0.0
+    }
+  ],
+  "78": [
+    {
+      "frame_id": "45840",
+      "timestamp_sec": 1529.53,
+      "cx": 2618.4,
+      "cy": 1468.8,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.432
+    },
+    {
+      "frame_id": "46200",
+      "timestamp_sec": 1541.54,
+      "cx": 2617.6,
+      "cy": 1467.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.447
+    },
+    {
+      "frame_id": "47760",
+      "timestamp_sec": 1593.59,
+      "cx": 2615.5,
+      "cy": 1465.6,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.487
+    },
+    {
+      "frame_id": "47880",
+      "timestamp_sec": 1597.6,
+      "cx": 2615.1,
+      "cy": 1467.2,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.486
+    },
+    {
+      "frame_id": "47940",
+      "timestamp_sec": 1599.6,
+      "cx": 2616.3,
+      "cy": 1465.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.477
+    },
+    {
+      "frame_id": "48000",
+      "timestamp_sec": 1601.6,
+      "cx": 2617.5,
+      "cy": 1464.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 0.461
+    }
+  ],
+  "79": [
+    {
+      "frame_id": "46320",
+      "timestamp_sec": 1545.54,
+      "cx": 2382.4,
+      "cy": 542.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 13.024
+    },
+    {
+      "frame_id": "46380",
+      "timestamp_sec": 1547.55,
+      "cx": 2381.8,
+      "cy": 542.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 13.029
+    },
+    {
+      "frame_id": "47280",
+      "timestamp_sec": 1577.58,
+      "cx": 2376.7,
+      "cy": 547.0,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 12.993
+    }
+  ],
+  "82": [
+    {
+      "frame_id": "48660",
+      "timestamp_sec": 1623.62,
+      "cx": 2326.9,
+      "cy": 750.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.545
+    },
+    {
+      "frame_id": "48720",
+      "timestamp_sec": 1625.62,
+      "cx": 2326.5,
+      "cy": 749.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.561
+    },
+    {
+      "frame_id": "48780",
+      "timestamp_sec": 1627.63,
+      "cx": 2326.5,
+      "cy": 750.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.549
+    },
+    {
+      "frame_id": "48960",
+      "timestamp_sec": 1633.63,
+      "cx": 2329.7,
+      "cy": 764.1,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 0,
+      "distance_to_nearest_zebra_m": 10.351
+    }
+  ],
+  "81": [
+    {
+      "frame_id": "48660",
+      "timestamp_sec": 1623.62,
+      "cx": 1363.7,
+      "cy": 1559.7,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 2.454
+    },
+    {
+      "frame_id": "48720",
+      "timestamp_sec": 1625.62,
+      "cx": 1364.6,
+      "cy": 1559.5,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 2.467
+    },
+    {
+      "frame_id": "48780",
+      "timestamp_sec": 1627.63,
+      "cx": 1364.4,
+      "cy": 1561.3,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 2.458
+    },
+    {
+      "frame_id": "48840",
+      "timestamp_sec": 1629.63,
+      "cx": 1364.5,
+      "cy": 1561.0,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 2.461
+    },
+    {
+      "frame_id": "49800",
+      "timestamp_sec": 1661.66,
+      "cx": 1363.9,
+      "cy": 1562.9,
+      "inside_crossing_zone": true,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 2.445
+    }
+  ],
+  "83": [
+    {
+      "frame_id": "50160",
+      "timestamp_sec": 1673.67,
+      "cx": 41.3,
+      "cy": 1072.6,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 11.692
+    },
+    {
+      "frame_id": "50220",
+      "timestamp_sec": 1675.67,
+      "cx": 43.3,
+      "cy": 1076.5,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 11.646
+    },
+    {
+      "frame_id": "50280",
+      "timestamp_sec": 1677.68,
+      "cx": 43.3,
+      "cy": 1076.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 11.646
+    },
+    {
+      "frame_id": "50340",
+      "timestamp_sec": 1679.68,
+      "cx": 42.1,
+      "cy": 1075.3,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 11.669
+    },
+    {
+      "frame_id": "50400",
+      "timestamp_sec": 1681.68,
+      "cx": 41.2,
+      "cy": 1076.7,
+      "inside_crossing_zone": false,
+      "inside_zebra": false,
+      "nearest_zebra_id": 1,
+      "distance_to_nearest_zebra_m": 11.674
+    }
+  ]
+}

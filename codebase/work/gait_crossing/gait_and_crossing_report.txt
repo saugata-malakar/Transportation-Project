@@ -1,0 +1,28 @@
+================================================================================
+PEDESTRIAN GAIT PARAMETERS, GROUP CROSSING & KERB/MEDIAN ANALYSIS
+Sample Size: N = 49 Tracked Pedestrians
+================================================================================
+
+1. GAIT PARAMETERS & BIOMECHANICS
+   - Mean Stride Length:     0.132 meters (Min: 0.100m, Max: 0.405m)
+   - Mean Step Length:       0.066 meters
+   - Mean Cadence:           17.9 steps/minute
+   - Mean Step Frequency:    0.30 Hz
+   - Total Steps Executed:   699 steps across all observed trajectories
+
+2. GROUP CROSSING CATEGORIES
+   - Single Pedestrian Crossing: 43 (87.8%)
+   - Couple Crossing (Pairs):    2 (4.1%)
+   - Group Crossing (>2 people): 4 (8.2%)
+
+3. CROSSING ORIGIN & DESTINATION (KERB SIDE vs MEDIAN SIDE)
+   - Origin at North Kerb Side:  8 (16.3%)
+   - Origin at South Kerb Side:  19 (38.8%)
+   - Origin at Median Side:      22 (44.9%)
+   - Active Street Crossers:     2 (4.1%)
+
+4. DETAILED CROSSING TRANSITION BREAKDOWN
+   - Median Side Corridor Traversal     :  2 pedestrians
+   - Median Side Island Phase           : 20 pedestrians
+   - North Kerb Side Curbside Phase     :  8 pedestrians
+   - South Kerb Side Curbside Phase     : 19 pedestrians

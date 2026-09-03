@@ -36,6 +36,11 @@ TRANSPORTATION/
 │   ├── stage13_combined_output.py                                # Stage 13: End-to-end unified record merger
 │   ├── stage14_train_intention.py                                # Stage 14: Intention training & inference orchestrator
 │   ├── stage15_physical_trajectory_analysis.py                   # Stage 15: DataFromSky physical kinematics
+│   ├── stage16_pedestrian_comprehensive_features.py              # Stage 16: 8 core features (Gender, Group, Load, Speed, Wait, Attempts, Gestures)
+│   ├── stage17_annotate_full_video.py                            # Stage 17: Full-video HUD overlay & crossing annotation
+│   ├── stage18_gait_and_crossing_dynamics.py                     # Stage 18: Gait biomechanics & Kerb/Median origin-destination
+│   ├── refine_crossing_and_roadway.py                            # Exact roadway & two white boundary line definition
+│   ├── generate_mathematical_pdf_report.py                       # 8-page publication-grade PDF report generator
 │   ├── finetune_yolo_detector.py                                 # Target-domain detector fine-tuning ladder
 │   ├── generate_complete_output.py                               # Human-readable report & CSV generator
 │   ├── generate_verification.py                                  # Visual crop grids for gender verification
@@ -44,6 +49,25 @@ TRANSPORTATION/
 │   │   ├── yolo11n.pt                                            # YOLO11 detector weights
 │   │   └── yolo11n-pose.pt                                       # YOLO11 pose estimation weights
 │   └── work/                                                     # Output deliverables
+│       ├── PEDESTRIAN_BEHAVIOR_AND_GAIT_MATHEMATICAL_REPORT.pdf   # 8-page comprehensive mathematical PDF report (6.87 MB)
+│       ├── crossing_zones/                                       # Perfected roadway & crossing boundaries
+│       │   ├── perfect_crossing_zones_annotated.jpg              # High-res zone boundary map
+│       │   ├── crossing_zones_perfect.json                       # Exact polygon specifications
+│       │   └── annotated_intersection_video.mp4                  # 1080p demonstration video with live HUD (26 MB)
+│       ├── features/                                             # 8-feature extraction deliverables
+│       │   ├── pedestrian_behavioral_features_per_person.csv     # Per-person 8-feature table
+│       │   ├── pedestrian_behavioral_features_per_person.json    # Structured JSON
+│       │   ├── pedestrian_behavioral_timeseries.csv              # 759-row trajectory timeseries
+│       │   ├── pedestrian_features_dashboard.png                 # 8-panel analytics dashboard
+│       │   ├── pedestrian_crossing_trajectories_annotated.jpg    # Full trajectory overlay map
+│       │   └── comprehensive_features_report.txt                 # Statistical summary
+│       ├── gait_crossing/                                        # Gait & Kerb/Median dynamics
+│       │   ├── pedestrian_gait_and_crossing_summary.csv          # Gait metrics & origin-destination table
+│       │   ├── pedestrian_gait_and_crossing_summary.json         # Structured JSON
+│       │   ├── pedestrian_gait_timeseries.csv                    # 759-row instantaneous gait dynamics
+│       │   ├── gait_and_crossing_dashboard.png                   # 6-panel gait & crossing dashboard
+│       │   ├── kerb_median_crossing_map.jpg                      # Kerb vs. Median vector map
+│       │   └── gait_and_crossing_report.txt                      # Detailed analysis report
 │       ├── output/
 │       │   ├── FINAL_complete_results.csv                        # Main human-readable table (49 pedestrians)
 │       │   ├── FINAL_complete_results.json                       # Main JSON summary

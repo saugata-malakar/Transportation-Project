@@ -1,0 +1,37 @@
+================================================================================
+PEDESTRIAN BEHAVIORAL & KINEMATIC FEATURE EXTRACTION REPORT
+Total Tracked Pedestrians: 49
+================================================================================
+
+1. GENDER DISTRIBUTION
+   - Males:   33 (67.3%)
+   - Females: 16 (32.7%)
+   - Mean Attribute Confidence: 0.9077
+
+2. GROUP SIZE & CO-WALKING DYNAMICS
+   - Single / Alone (Group Size = 1): 47 (95.9%)
+   - Pairs (Group Size = 2):          2 (4.1%)
+   - Groups (Group Size >= 3):        0 (0.0%)
+
+3. CARRYING LOAD
+   - Carrying Load (Backpack / Bag):  35 (71.4%)
+   - No Visible Load:                 14 (28.6%)
+
+4. WALKING SPEED KINEMATICS (m/s & km/h)
+   - Overall Mean Speed: 0.02 m/s (0.09 km/h)
+   - Male Mean Speed:    0.02 m/s
+   - Female Mean Speed:  0.04 m/s
+   - Max Observed Speed: 0.26 m/s
+
+5 & 6. WAITING BEHAVIOR & TOTAL WAITING TIME
+   - Mean Waiting Time per Pedestrian: 86.2 seconds
+   - Max Waiting Time Observed:        768.8 seconds
+   - Pedestrians with Active Waiting:  49 (100.0%)
+
+7. NUMBER OF CROSSING ATTEMPTS
+   - Direct Crossing (1 Attempt):         9 (18.4%)
+   - Hesitant Crossing (2+ Attempts):     0 (0.0%)
+   - Stationary / Non-Crossing:           40
+
+8. BODY GESTURES & POSTURAL STATES
+   - Standing / Stationary Posture: 49 pedestrians (100.0%)
