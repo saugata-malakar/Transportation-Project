@@ -370,22 +370,38 @@ def build_pdf():
     # ──────────────────────────────────────────────────────────
     story.append(Paragraph("5. PHYSICAL FRAME VERIFICATION & GROUND TRUTH EVIDENCE", h1_style))
     phys_text = """
-    To establish empirical verifiability against the original 4K UAV video (<code>DJI_20251005162440_0129_D.MP4</code>), every single detected identity was mapped back to its precise video timestamp, frame index, and spatial coordinates. A dedicated verification card was rendered for all 49 pedestrians, displaying the full video frame with targeting reticle and the high-resolution crop side-by-side.
+    To establish empirical verifiability against the original 4K UAV video (<code>DJI_20251005162440_0129_D.MP4</code>), every single detected identity was mapped back to its precise video timestamp, frame index, and spatial coordinates. Below are the dedicated physical verification plates demonstrating sequential gait kinematics, group categories, and spatial origin-destination zones.
     """
     story.append(Paragraph(phys_text, body_style))
     story.append(Spacer(1, 4))
 
-    card_p50 = os.path.join(WORK_DIR, "physical_verification", "cards", "P50_verification_card.jpg")
-    if os.path.exists(card_p50):
-        story.append(Paragraph("<b>Figure 5:</b> Exemplary Physical Verification Card (Person #50, Female active corridor crosser, Frame #34320, t = 19m 05s)", body_style))
-        story.append(Image(card_p50, width=7.2*inch, height=4.05*inch))
+    p1_atlas = os.path.join(WORK_DIR, "physical_verification", "atlas", "PART1_GAIT_STRIDE_KINEMATICS_VERIFICATION.jpg")
+    if os.path.exists(p1_atlas):
+        story.append(Paragraph("<b>Figure 5:</b> Physical Verification of Pedestrian Gait Biomechanics & Step/Stride Kinematics (Sequential Multi-Frame Tracking of P70)", body_style))
+        story.append(Image(p1_atlas, width=7.2*inch, height=4.2*inch))
+        story.append(Spacer(1, 10))
+
+    story.append(PageBreak())
+
+    p2_atlas = os.path.join(WORK_DIR, "physical_verification", "atlas", "PART2_GROUP_CROSSING_CATEGORIES_VERIFICATION.jpg")
+    if os.path.exists(p2_atlas):
+        story.append(Paragraph("<b>Figure 6:</b> Physical Verification of Social Group Crossing Categories (Single P42, Couple P75 & P77, Group P6/P7/P13/P35)", body_style))
+        story.append(Image(p2_atlas, width=7.2*inch, height=4.2*inch))
+        story.append(Spacer(1, 10))
+
+    story.append(PageBreak())
+
+    p3_atlas = os.path.join(WORK_DIR, "physical_verification", "atlas", "PART3_KERB_MEDIAN_ORIGIN_DESTINATION_VERIFICATION.jpg")
+    if os.path.exists(p3_atlas):
+        story.append(Paragraph("<b>Figure 7:</b> Physical Verification of Kerb vs. Median Origin-Destination Dynamics & Active Corridor Traversal", body_style))
+        story.append(Image(p3_atlas, width=7.2*inch, height=4.2*inch))
         story.append(Spacer(1, 10))
 
     story.append(PageBreak())
 
     sheet_all = os.path.join(WORK_DIR, "physical_verification", "ALL_49_PERSONS_VERIFICATION_SHEET.jpg")
     if os.path.exists(sheet_all):
-        story.append(Paragraph("<b>Figure 6:</b> Master Verification Mosaic Sheet — All 49 Tracked Pedestrians with Video Frame Numbers & Timestamps", body_style))
+        story.append(Paragraph("<b>Figure 8:</b> Master Verification Mosaic Sheet — All 49 Tracked Pedestrians with Video Frame Numbers & Timestamps", body_style))
         story.append(Image(sheet_all, width=7.2*inch, height=8.4*inch))
         story.append(Spacer(1, 8))
 
