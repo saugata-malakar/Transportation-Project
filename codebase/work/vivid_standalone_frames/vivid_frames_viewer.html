@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Standalone Vivid Frames Physical Verification Viewer</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+        body { background: #0b0f17; color: #e2e8f0; display: flex; height: 100vh; overflow: hidden; }
+        #sidebar { width: 360px; background: #131b26; border-right: 1px solid #1e293b; display: flex; flex-direction: column; }
+        #header { padding: 16px; background: #0f172a; border-bottom: 1px solid #1e293b; }
+        #header h1 { font-size: 15px; color: #38bdf8; margin-bottom: 4px; }
+        #header p { font-size: 11px; color: #94a3b8; }
+        #categories { padding: 10px 16px; background: #172033; display: flex; flex-wrap: wrap; gap: 6px; border-bottom: 1px solid #1e293b; }
+        .cat-btn { background: #243046; border: none; color: #94a3b8; padding: 5px 10px; border-radius: 4px; font-size: 11px; cursor: pointer; }
+        .cat-btn.active { background: #0284c7; color: #fff; font-weight: bold; }
+        #nav-controls { padding: 8px 16px; background: #131b26; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #1e293b; }
+        .nav-btn { background: #1e293b; border: 1px solid #334155; color: #cbd5e1; padding: 6px 14px; border-radius: 4px; cursor: pointer; font-size: 12px; font-weight: bold; }
+        .nav-btn:hover { background: #0284c7; color: #fff; border-color: #38bdf8; }
+        #counter { font-size: 11px; color: #94a3b8; }
+        #file-list { flex: 1; overflow-y: auto; padding: 8px; }
+        .file-item { padding: 8px 12px; border-radius: 4px; font-size: 12px; cursor: pointer; margin-bottom: 4px; background: #1a2333; color: #cbd5e1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border: 1px solid transparent; }
+        .file-item:hover { background: #243046; border-color: #0284c7; }
+        .file-item.selected { background: #1e3a5f; color: #38bdf8; border-color: #38bdf8; font-weight: bold; }
+        #viewport { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 16px; background: #080c14; }
+        #main-frame { max-width: 100%; max-height: 94vh; object-fit: contain; border-radius: 6px; border: 1px solid #1e293b; box-shadow: 0 10px 30px rgba(0,0,0,0.8); }
+    </style>
+</head>
+<body>
+    <div id="sidebar">
+        <div id="header">
+            <h1>ONE IMAGE PER FRAME VIEWER</h1>
+            <p>Standalone High-Definition Computer Vision Verification</p>
+        </div>
+        <div id="categories">
+            <button class="cat-btn active" onclick="setCategory('All')">All (63)</button>
+            <button class="cat-btn" onclick="setCategory('Pedestrians (All 49)')">Pedestrians (49)</button>
+            <button class="cat-btn" onclick="setCategory('Gait Steps (1 Step/Frame)')">Gait Steps (8)</button>
+            <button class="cat-btn" onclick="setCategory('Group Categories')">Groups (3)</button>
+            <button class="cat-btn" onclick="setCategory('Spatial Zones')">Zones (3)</button>
+        </div>
+        <div id="nav-controls">
+            <button class="nav-btn" onclick="prevFrame()">&larr; Previous</button>
+            <span id="counter">1 / 63</span>
+            <button class="nav-btn" onclick="nextFrame()">Next &rarr;</button>
+        </div>
+        <div id="file-list"></div>
+    </div>
+    <div id="viewport">
+        <img id="main-frame" src="" alt="Select an image">
+    </div>
+
+    <script>
+        const items = [{"cat": "Pedestrians (All 49)", "name": "P01_Male", "path": "pedestrians/pedestrian_P01_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P02_Male", "path": "pedestrians/pedestrian_P02_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P04_Female", "path": "pedestrians/pedestrian_P04_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P05_Male", "path": "pedestrians/pedestrian_P05_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P06_Female", "path": "pedestrians/pedestrian_P06_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P07_Male", "path": "pedestrians/pedestrian_P07_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P09_Male", "path": "pedestrians/pedestrian_P09_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P13_Male", "path": "pedestrians/pedestrian_P13_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P14_Male", "path": "pedestrians/pedestrian_P14_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P15_Female", "path": "pedestrians/pedestrian_P15_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P16_Male", "path": "pedestrians/pedestrian_P16_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P17_Female", "path": "pedestrians/pedestrian_P17_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P18_Male", "path": "pedestrians/pedestrian_P18_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P20_Male", "path": "pedestrians/pedestrian_P20_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P21_Male", "path": "pedestrians/pedestrian_P21_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P24_Male", "path": "pedestrians/pedestrian_P24_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P25_Male", "path": "pedestrians/pedestrian_P25_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P26_Male", "path": "pedestrians/pedestrian_P26_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P29_Female", "path": "pedestrians/pedestrian_P29_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P33_Female", "path": "pedestrians/pedestrian_P33_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P35_Male", "path": "pedestrians/pedestrian_P35_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P37_Female", "path": "pedestrians/pedestrian_P37_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P38_Male", "path": "pedestrians/pedestrian_P38_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P41_Male", "path": "pedestrians/pedestrian_P41_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P42_Male", "path": "pedestrians/pedestrian_P42_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P43_Female", "path": "pedestrians/pedestrian_P43_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P45_Female", "path": "pedestrians/pedestrian_P45_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P46_Male", "path": "pedestrians/pedestrian_P46_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P47_Male", "path": "pedestrians/pedestrian_P47_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P48_Male", "path": "pedestrians/pedestrian_P48_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P49_Female", "path": "pedestrians/pedestrian_P49_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P50_Female", "path": "pedestrians/pedestrian_P50_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P51_Male", "path": "pedestrians/pedestrian_P51_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P52_Male", "path": "pedestrians/pedestrian_P52_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P55_Female", "path": "pedestrians/pedestrian_P55_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P57_Male", "path": "pedestrians/pedestrian_P57_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P61_Female", "path": "pedestrians/pedestrian_P61_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P64_Male", "path": "pedestrians/pedestrian_P64_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P68_Male", "path": "pedestrians/pedestrian_P68_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P69_Female", "path": "pedestrians/pedestrian_P69_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P70_Male", "path": "pedestrians/pedestrian_P70_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P72_Male", "path": "pedestrians/pedestrian_P72_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P75_Male", "path": "pedestrians/pedestrian_P75_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P77_Male", "path": "pedestrians/pedestrian_P77_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P78_Male", "path": "pedestrians/pedestrian_P78_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P79_Male", "path": "pedestrians/pedestrian_P79_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P81_Female", "path": "pedestrians/pedestrian_P81_Female.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P82_Male", "path": "pedestrians/pedestrian_P82_Male.jpg"}, {"cat": "Pedestrians (All 49)", "name": "P83_Female", "path": "pedestrians/pedestrian_P83_Female.jpg"}, {"cat": "Gait Steps (1 Step/Frame)", "name": "crossing_stage_1_P50_frame31020", "path": "gait_steps/crossing_stage_1_P50_frame31020.jpg"}, {"cat": "Gait Steps (1 Step/Frame)", "name": "crossing_stage_2_P50_frame31080", "path": "gait_steps/crossing_stage_2_P50_frame31080.jpg"}, {"cat": "Gait Steps (1 Step/Frame)", "name": "crossing_stage_3_P50_frame34320", "path": "gait_steps/crossing_stage_3_P50_frame34320.jpg"}, {"cat": "Gait Steps (1 Step/Frame)", "name": "gait_step_1_P70_frame40920", "path": "gait_steps/gait_step_1_P70_frame40920.jpg"}, {"cat": "Gait Steps (1 Step/Frame)", "name": "gait_step_2_P70_frame41100", "path": "gait_steps/gait_step_2_P70_frame41100.jpg"}, {"cat": "Gait Steps (1 Step/Frame)", "name": "gait_step_3_P70_frame41220", "path": "gait_steps/gait_step_3_P70_frame41220.jpg"}, {"cat": "Gait Steps (1 Step/Frame)", "name": "gait_step_4_P70_frame41340", "path": "gait_steps/gait_step_4_P70_frame41340.jpg"}, {"cat": "Gait Steps (1 Step/Frame)", "name": "gait_step_5_P70_frame41460", "path": "gait_steps/gait_step_5_P70_frame41460.jpg"}, {"cat": "Group Categories", "name": "group_category1_single_P42_frame28140", "path": "group_categories/group_category1_single_P42_frame28140.jpg"}, {"cat": "Group Categories", "name": "group_category2_couple_P75_P77", "path": "group_categories/group_category2_couple_P75_P77.jpg"}, {"cat": "Group Categories", "name": "group_category3_cluster_P6_P7_P13", "path": "group_categories/group_category3_cluster_P6_P7_P13.jpg"}, {"cat": "Spatial Zones", "name": "zone1_north_kerb_P14_frame10440", "path": "spatial_zones/zone1_north_kerb_P14_frame10440.jpg"}, {"cat": "Spatial Zones", "name": "zone2_central_median_P02_frame60", "path": "spatial_zones/zone2_central_median_P02_frame60.jpg"}, {"cat": "Spatial Zones", "name": "zone3_south_kerb_P01_frame180", "path": "spatial_zones/zone3_south_kerb_P01_frame180.jpg"}];
+        let currentCategory = 'All';
+        let filteredItems = items;
+        let currentIndex = 0;
+
+        function setCategory(cat) {
+            currentCategory = cat;
+            document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+            event.target.classList.add('active');
+            filteredItems = (cat === 'All') ? items : items.filter(i => i.cat === cat);
+            currentIndex = 0;
+            renderList();
+            showCurrent();
+        }
+
+        function renderList() {
+            const listEl = document.getElementById('file-list');
+            listEl.innerHTML = '';
+            filteredItems.forEach((item, idx) => {
+                const div = document.createElement('div');
+                div.className = 'file-item' + (idx === currentIndex ? ' selected' : '');
+                div.innerText = item.name;
+                div.onclick = () => {
+                    currentIndex = idx;
+                    showCurrent();
+                };
+                listEl.appendChild(div);
+            });
+        }
+
+        function showCurrent() {
+            if (filteredItems.length === 0) return;
+            const item = filteredItems[currentIndex];
+            document.getElementById('main-frame').src = item.path;
+            document.getElementById('counter').innerText = `${currentIndex + 1} / ${filteredItems.length}`;
+            document.querySelectorAll('.file-item').forEach((el, idx) => {
+                el.classList.toggle('selected', idx === currentIndex);
+            });
+        }
+
+        function nextFrame() {
+            if (currentIndex < filteredItems.length - 1) {
+                currentIndex++;
+                showCurrent();
+            }
+        }
+
+        function prevFrame() {
+            if (currentIndex > 0) {
+                currentIndex--;
+                showCurrent();
+            }
+        }
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight' || e.key === 'ArrowDown') nextFrame();
+            if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') prevFrame();
+        });
+
+        renderList();
+        showCurrent();
+    </script>
+</body>
+</html>

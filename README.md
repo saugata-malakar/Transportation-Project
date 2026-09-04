@@ -41,6 +41,7 @@ TRANSPORTATION/
 │   ├── stage18_gait_and_crossing_dynamics.py                     # Stage 18: Gait biomechanics & Kerb/Median origin-destination
 │   ├── stage19_extract_physical_verification_frames.py           # Stage 19: Physical video frame extraction & verification
 │   ├── stage20_comprehensive_physical_verification_atlas.py      # Stage 20: Multi-frame gait & group crossing visual atlas
+│   ├── stage21_vivid_standalone_verification_frames.py           # Stage 21: One-image-per-frame vivid verification generator
 │   ├── refine_crossing_and_roadway.py                            # Exact roadway & two white boundary line definition
 │   ├── generate_mathematical_pdf_report.py                       # 8-page publication-grade PDF report generator
 │   ├── finetune_yolo_detector.py                                 # Target-domain detector fine-tuning ladder
