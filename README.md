@@ -39,6 +39,7 @@ TRANSPORTATION/
 │   ├── stage16_pedestrian_comprehensive_features.py              # Stage 16: 8 core features (Gender, Group, Load, Speed, Wait, Attempts, Gestures)
 │   ├── stage17_annotate_full_video.py                            # Stage 17: Full-video HUD overlay & crossing annotation
 │   ├── stage18_gait_and_crossing_dynamics.py                     # Stage 18: Gait biomechanics & Kerb/Median origin-destination
+│   ├── stage19_extract_physical_verification_frames.py           # Stage 19: Physical video frame extraction & verification
 │   ├── refine_crossing_and_roadway.py                            # Exact roadway & two white boundary line definition
 │   ├── generate_mathematical_pdf_report.py                       # 8-page publication-grade PDF report generator
 │   ├── finetune_yolo_detector.py                                 # Target-domain detector fine-tuning ladder

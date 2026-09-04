@@ -366,14 +366,44 @@ def build_pdf():
     story.append(PageBreak())
 
     # ──────────────────────────────────────────────────────────
-    # Section 5: Exact File Locations on System
+    # Section 5: Physical Frame Verification & Ground Truth
     # ──────────────────────────────────────────────────────────
-    story.append(Paragraph("5. DELIVERABLES DIRECTORY & SYSTEM FILE LOCATIONS", h1_style))
+    story.append(Paragraph("5. PHYSICAL FRAME VERIFICATION & GROUND TRUTH EVIDENCE", h1_style))
+    phys_text = """
+    To establish empirical verifiability against the original 4K UAV video (<code>DJI_20251005162440_0129_D.MP4</code>), every single detected identity was mapped back to its precise video timestamp, frame index, and spatial coordinates. A dedicated verification card was rendered for all 49 pedestrians, displaying the full video frame with targeting reticle and the high-resolution crop side-by-side.
+    """
+    story.append(Paragraph(phys_text, body_style))
+    story.append(Spacer(1, 4))
+
+    card_p50 = os.path.join(WORK_DIR, "physical_verification", "cards", "P50_verification_card.jpg")
+    if os.path.exists(card_p50):
+        story.append(Paragraph("<b>Figure 5:</b> Exemplary Physical Verification Card (Person #50, Female active corridor crosser, Frame #34320, t = 19m 05s)", body_style))
+        story.append(Image(card_p50, width=7.2*inch, height=4.05*inch))
+        story.append(Spacer(1, 10))
+
+    story.append(PageBreak())
+
+    sheet_all = os.path.join(WORK_DIR, "physical_verification", "ALL_49_PERSONS_VERIFICATION_SHEET.jpg")
+    if os.path.exists(sheet_all):
+        story.append(Paragraph("<b>Figure 6:</b> Master Verification Mosaic Sheet — All 49 Tracked Pedestrians with Video Frame Numbers & Timestamps", body_style))
+        story.append(Image(sheet_all, width=7.2*inch, height=8.4*inch))
+        story.append(Spacer(1, 8))
+
+    story.append(PageBreak())
+
+    # ──────────────────────────────────────────────────────────
+    # Section 6: Exact File Locations on System
+    # ──────────────────────────────────────────────────────────
+    story.append(Paragraph("6. DELIVERABLES DIRECTORY & SYSTEM FILE LOCATIONS", h1_style))
     story.append(Paragraph("The exact physical locations of all generated datasets, models, visualizations, and video files on the local Windows filesystem:", body_style))
     story.append(Spacer(1, 4))
 
     file_entries = [
         ("PDF Comprehensive Report", os.path.abspath(OUTPUT_PDF_PATH)),
+        ("Physical Verification Index CSV", os.path.abspath(os.path.join(WORK_DIR, "physical_verification", "pedestrian_physical_verification_index.csv"))),
+        ("Physical Verification 49 Cards Folder", os.path.abspath(os.path.join(WORK_DIR, "physical_verification", "cards"))),
+        ("Master Verification Mosaic Sheet", os.path.abspath(sheet_all)),
+        ("Interactive HTML Verification Viewer", os.path.abspath(os.path.join(WORK_DIR, "physical_verification", "physical_verification_viewer.html"))),
         ("Per-Person Behavioral Features CSV", os.path.abspath(os.path.join(WORK_DIR, "features", "pedestrian_behavioral_features_per_person.csv"))),
         ("Per-Person Behavioral Features JSON", os.path.abspath(os.path.join(WORK_DIR, "features", "pedestrian_behavioral_features_per_person.json"))),
         ("Timeseries Kinematic CSV (759 rows)", os.path.abspath(os.path.join(WORK_DIR, "features", "pedestrian_behavioral_timeseries.csv"))),
@@ -387,6 +417,7 @@ def build_pdf():
         ("Gait & Crossing Analytics Dashboard", os.path.abspath(FIG4_DASH2)),
         ("Kerb vs. Median Crossing Spatial Map", os.path.abspath(FIG5_KERB_MAP)),
         ("Annotated 1080p Video (MP4, 26 MB)", os.path.abspath(os.path.join(WORK_DIR, "crossing_zones", "annotated_intersection_video.mp4"))),
+        ("Physical Verification Extractor (Stage 19)", os.path.abspath(os.path.join(CODEBASE_DIR, "stage19_extract_physical_verification_frames.py"))),
         ("Gait Dynamics Script (Stage 18)", os.path.abspath(os.path.join(CODEBASE_DIR, "stage18_gait_and_crossing_dynamics.py"))),
         ("Features Extraction Script (Stage 16)", os.path.abspath(os.path.join(CODEBASE_DIR, "stage16_pedestrian_comprehensive_features.py"))),
         ("Video Annotation Script (Stage 17)", os.path.abspath(os.path.join(CODEBASE_DIR, "stage17_annotate_full_video.py"))),
