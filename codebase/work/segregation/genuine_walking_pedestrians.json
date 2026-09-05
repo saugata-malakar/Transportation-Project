@@ -1,0 +1,74 @@
+{
+  "42": {
+    "person_id": "42",
+    "classification": "GENUINE_WALKING_PEDESTRIAN",
+    "rationale": "Physically verified walking on foot across roadway/corridor/zebra crossing; active gait kinematics",
+    "points": 10,
+    "duration_s": 144.14,
+    "distance_m": 1.51,
+    "mean_speed_m_s": 0.01,
+    "centroid_pos": [
+      2133.4,
+      1231.8
+    ],
+    "roadway_dist_px": 686.8,
+    "is_inside_roadway": true,
+    "motor_overlap_ioa": 0.954,
+    "visdrone_label": "none",
+    "crop_aspect_ratio": 1.38
+  },
+  "48": {
+    "person_id": "48",
+    "classification": "GENUINE_WALKING_PEDESTRIAN",
+    "rationale": "Physically verified walking on foot across roadway/corridor/zebra crossing; active gait kinematics",
+    "points": 3,
+    "duration_s": 12.01,
+    "distance_m": 0.11,
+    "mean_speed_m_s": 0.009,
+    "centroid_pos": [
+      3038.2,
+      993.3
+    ],
+    "roadway_dist_px": 98.8,
+    "is_inside_roadway": true,
+    "motor_overlap_ioa": 0.0,
+    "visdrone_label": "none",
+    "crop_aspect_ratio": 2.1
+  },
+  "50": {
+    "person_id": "50",
+    "classification": "GENUINE_WALKING_PEDESTRIAN",
+    "rationale": "Physically verified walking on foot across roadway/corridor/zebra crossing; active gait kinematics",
+    "points": 3,
+    "duration_s": 110.11,
+    "distance_m": 4.43,
+    "mean_speed_m_s": 0.04,
+    "centroid_pos": [
+      2209.4,
+      1358.3
+    ],
+    "roadway_dist_px": 746.8,
+    "is_inside_roadway": true,
+    "motor_overlap_ioa": 0.388,
+    "visdrone_label": "none",
+    "crop_aspect_ratio": 1.82
+  },
+  "70": {
+    "person_id": "70",
+    "classification": "GENUINE_WALKING_PEDESTRIAN",
+    "rationale": "Physically verified walking on foot across roadway/corridor/zebra crossing; active gait kinematics",
+    "points": 8,
+    "duration_s": 18.02,
+    "distance_m": 0.4,
+    "mean_speed_m_s": 0.022,
+    "centroid_pos": [
+      1218.8,
+      404.2
+    ],
+    "roadway_dist_px": 164.7,
+    "is_inside_roadway": true,
+    "motor_overlap_ioa": 0.0,
+    "visdrone_label": "none",
+    "crop_aspect_ratio": 1.4
+  }
+}

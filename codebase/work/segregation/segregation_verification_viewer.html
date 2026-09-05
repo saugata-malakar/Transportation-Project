@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pedestrian vs. Two-Wheeler & Passenger Segregation Atlas</title>
+    <style>
+        :root {
+            --bg-dark: #0f172a;
+            --card-bg: #1e293b;
+            --border-color: #334155;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent-green: #10b981;
+            --accent-orange: #f97316;
+            --accent-blue: #38bdf8;
+            --accent-yellow: #eab308;
+            --accent-red: #ef4444;
+            --accent-purple: #c084fc;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            margin: 0;
+            padding: 24px;
+        }
+        .header {
+            max-width: 1400px;
+            margin: 0 auto 32px auto;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 24px;
+        }
+        .header h1 {
+            font-size: 2.2rem;
+            margin: 0 0 8px 0;
+            color: #38bdf8;
+        }
+        .header p {
+            color: var(--text-muted);
+            margin: 0;
+            font-size: 1.05rem;
+            line-height: 1.5;
+        }
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            max-width: 1400px;
+            margin: 0 auto 32px auto;
+        }
+        .metric-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 16px;
+            text-align: center;
+        }
+        .metric-val {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+        .metric-label {
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .section-title {
+            max-width: 1400px;
+            margin: 40px auto 16px auto;
+            font-size: 1.4rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .badge {
+            font-size: 0.75rem;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        .badge-green { background-color: rgba(16, 185, 129, 0.2); color: var(--accent-green); border: 1px solid var(--accent-green); }
+        .badge-orange { background-color: rgba(249, 115, 22, 0.2); color: var(--accent-orange); border: 1px solid var(--accent-orange); }
+        .badge-blue { background-color: rgba(56, 189, 248, 0.2); color: var(--accent-blue); border: 1px solid var(--accent-blue); }
+        .badge-yellow { background-color: rgba(234, 179, 8, 0.2); color: var(--accent-yellow); border: 1px solid var(--accent-yellow); }
+        .badge-purple { background-color: rgba(192, 132, 252, 0.2); color: var(--accent-purple); border: 1px solid var(--accent-purple); }
+        .badge-red { background-color: rgba(239, 68, 68, 0.2); color: var(--accent-red); border: 1px solid var(--accent-red); }
+        
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(440px, 1fr));
+            gap: 24px;
+            max-width: 1400px;
+            margin: 0 auto 40px auto;
+        }
+        .image-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+            transition: transform 0.2s ease, border-color 0.2s ease;
+        }
+        .image-card:hover {
+            transform: translateY(-4px);
+            border-color: #38bdf8;
+        }
+        .image-card img {
+            width: 100%;
+            height: auto;
+            display: block;
+            border-bottom: 1px solid var(--border-color);
+        }
+        .card-body {
+            padding: 16px;
+        }
+        .card-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin: 0 0 8px 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .card-desc {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            line-height: 1.4;
+            margin: 0;
+        }
+        .atlas-container {
+            max-width: 1400px;
+            margin: 0 auto 40px auto;
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid var(--border-color);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+        }
+        .atlas-container img {
+            width: 100%;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Pedestrian vs. Two-Wheeler & Passenger Segregation Atlas</h1>
+        <p>Physical verification, VisDrone aerial multi-class disambiguation, and biomechanical filtering isolating true walking pedestrians from motorcycle riders, pillion passengers, parked bikes, and roadside stalls.</p>
+    </div>
+
+    <div class="metrics-grid">
+        <div class="metric-card">
+            <div class="metric-val" style="color: var(--accent-green);">4</div>
+            <div class="metric-label">Genuine Walking Pedestrians</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-val" style="color: var(--accent-orange);">17</div>
+            <div class="metric-label">Two-Wheeler Riders (Drivers)</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-val" style="color: var(--accent-blue);">1</div>
+            <div class="metric-label">Two-Wheeler Passengers</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-val" style="color: var(--accent-yellow);">14</div>
+            <div class="metric-label">Parked Two-Wheelers</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-val" style="color: var(--accent-purple);">3</div>
+            <div class="metric-label">Off-Road Shop Occupants</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-val" style="color: var(--accent-red);">10</div>
+            <div class="metric-label">Infrastructure False Positives</div>
+        </div>
+    </div>
+
+    <div class="section-title">
+        <span>Master Comparative Segregation Atlas</span>
+        <span class="badge badge-blue">Full Intersection Overview</span>
+    </div>
+    <div class="atlas-container">
+        <img src="verification_frames/MASTER_PEDESTRIAN_VS_BIKE_SEGREGATION_ATLAS.jpg" alt="Master Segregation Atlas">
+    </div>
+
+    <div class="section-title">
+        <span>Part 1: Genuine Walking Pedestrians (Active Gait on Live Roadway)</span>
+        <span class="badge badge-green">Verified Walking on Foot</span>
+    </div>
+    <div class="gallery-grid">
+        <div class="image-card">
+            <img src="verification_frames/GENUINE_PEDESTRIAN_P50_VIVID_FRAME.jpg" alt="Pedestrian P50">
+            <div class="card-body">
+                <div class="card-title">
+                    <span>Pedestrian P50 (Female)</span>
+                    <span class="badge badge-green">Walking on Foot</span>
+                </div>
+                <p class="card-desc">Transiting across live roadway corridor. 4.43m walking distance over 110.1s. Walking speed: 0.04 m/s (peak: 0.12 m/s). Zero vehicle co-occurrence.</p>
+            </div>
+        </div>
+        <div class="image-card">
+            <img src="verification_frames/GENUINE_PEDESTRIAN_P70_VIVID_FRAME.jpg" alt="Pedestrian P70">
+            <div class="card-body">
+                <div class="card-title">
+                    <span>Pedestrian P70 (Male)</span>
+                    <span class="badge badge-green">Zebra Crossing</span>
+                </div>
+                <p class="card-desc">Walking across north zebra crossing stripes. Active upright stride with swinging arms. Zero two-wheeler overlap.</p>
+            </div>
+        </div>
+        <div class="image-card">
+            <img src="verification_frames/GENUINE_PEDESTRIAN_P42_VIVID_FRAME.jpg" alt="Pedestrian P42">
+            <div class="card-body">
+                <div class="card-title">
+                    <span>Pedestrian P42</span>
+                    <span class="badge badge-green">Crossing Corridor</span>
+                </div>
+                <p class="card-desc">Transit along central corridor towards median. 1.51m trajectory distance. Clear alternating foot placement.</p>
+            </div>
+        </div>
+        <div class="image-card">
+            <img src="verification_frames/GENUINE_PEDESTRIAN_P48_VIVID_FRAME.jpg" alt="Pedestrian P48">
+            <div class="card-body">
+                <div class="card-title">
+                    <span>Pedestrian P48</span>
+                    <span class="badge badge-green">Curbside Walker</span>
+                </div>
+                <p class="card-desc">Walking pedestrian at kerbside approach. Verified standing/walking posture segregated from stationary two-wheelers.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="section-title">
+        <span>Part 2: Segregated Two-Wheelers, Pillion Passengers & Non-Pedestrian Entities</span>
+        <span class="badge badge-orange">Segregated & Pruned</span>
+    </div>
+    <div class="gallery-grid">
+        <div class="image-card">
+            <img src="verification_frames/SEGREGATION_TWO_WHEELER_RIDER_VERIFICATION.jpg" alt="Two-Wheeler Rider P46">
+            <div class="card-body">
+                <div class="card-title">
+                    <span>Two-Wheeler Rider (Driver) P46</span>
+                    <span class="badge badge-orange">Rider / Driver</span>
+                </div>
+                <p class="card-desc">Operating motorcycle at road median. Hands on handlebars, sitting on motorcycle seat. Motor IoA = 0.84. Excluded from pedestrian metrics.</p>
+            </div>
+        </div>
+        <div class="image-card">
+            <img src="verification_frames/SEGREGATION_TWO_WHEELER_PASSENGER_P61_VERIFICATION.jpg" alt="Two-Wheeler Passenger P61">
+            <div class="card-body">
+                <div class="card-title">
+                    <span>Two-Wheeler Passenger P61</span>
+                    <span class="badge badge-blue">Pillion Passenger</span>
+                </div>
+                <p class="card-desc">Seated on rear motorcycle pillion behind driver. Co-moving with vehicle chassis. Excluded from pedestrian walking metrics.</p>
+            </div>
+        </div>
+        <div class="image-card">
+            <img src="verification_frames/SEGREGATION_PARKED_TWO_WHEELER_P07_VERIFICATION.jpg" alt="Parked Two-Wheeler P07">
+            <div class="card-body">
+                <div class="card-title">
+                    <span>Parked Two-Wheeler P07</span>
+                    <span class="badge badge-yellow">Parked Vehicle</span>
+                </div>
+                <p class="card-desc">Unattended stationary motorcycle parked outside MedPlus pharmacy (-143.9px off-road). Pruned from pedestrian cohort.</p>
+            </div>
+        </div>
+        <div class="image-card">
+            <img src="verification_frames/SEGREGATION_OFF_ROAD_SHOP_OCCUPANT_P01_VERIFICATION.jpg" alt="Off-Road Occupant P01">
+            <div class="card-body">
+                <div class="card-title">
+                    <span>Off-Road Stall Occupant P01</span>
+                    <span class="badge badge-purple">Off-Road Shop</span>
+                </div>
+                <p class="card-desc">Individual seated inside tin shed market stall (-241.8px outside road boundary). Non-crossing roadside occupant.</p>
+            </div>
+        </div>
+        <div class="image-card">
+            <img src="verification_frames/SEGREGATION_INFRASTRUCTURE_FP_P47_VERIFICATION.jpg" alt="Infrastructure FP P47">
+            <div class="card-body">
+                <div class="card-title">
+                    <span>Infrastructure False Positive P47</span>
+                    <span class="badge badge-red">Solar Light Pole</span>
+                </div>
+                <p class="card-desc">Solar panel on metallic street lighting pole above parked truck. Vertical pole aspect ratio (2.87). Pruned completely.</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

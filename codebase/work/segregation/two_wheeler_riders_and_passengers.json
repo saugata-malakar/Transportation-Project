@@ -1,0 +1,330 @@
+{
+  "riders": {
+    "2": {
+      "person_id": "2",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 4,
+      "duration_s": 204.2,
+      "distance_m": 1.9,
+      "mean_speed_m_s": 0.009,
+      "centroid_pos": [
+        2288.1,
+        759.2
+      ],
+      "roadway_dist_px": 295.5,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.914,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 2.32
+    },
+    "16": {
+      "person_id": "16",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 21,
+      "duration_s": 88.09,
+      "distance_m": 0.48,
+      "mean_speed_m_s": 0.005,
+      "centroid_pos": [
+        3093.0,
+        979.4
+      ],
+      "roadway_dist_px": 66.0,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.0,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 1.75
+    },
+    "17": {
+      "person_id": "17",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 4,
+      "duration_s": 6.01,
+      "distance_m": 0.43,
+      "mean_speed_m_s": 0.072,
+      "centroid_pos": [
+        2421.5,
+        1333.9
+      ],
+      "roadway_dist_px": 639.0,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.613,
+      "visdrone_label": "people",
+      "crop_aspect_ratio": 2.05
+    },
+    "18": {
+      "person_id": "18",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 3,
+      "duration_s": 4.01,
+      "distance_m": 0.24,
+      "mean_speed_m_s": 0.06,
+      "centroid_pos": [
+        2295.8,
+        1629.7
+      ],
+      "roadway_dist_px": 500.9,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.683,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 1.77
+    },
+    "20": {
+      "person_id": "20",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 3,
+      "duration_s": 4.0,
+      "distance_m": 0.05,
+      "mean_speed_m_s": 0.012,
+      "centroid_pos": [
+        2204.0,
+        764.8
+      ],
+      "roadway_dist_px": 378.7,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.951,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 1.94
+    },
+    "26": {
+      "person_id": "26",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 6,
+      "duration_s": 22.02,
+      "distance_m": 0.18,
+      "mean_speed_m_s": 0.008,
+      "centroid_pos": [
+        1924.6,
+        1945.6
+      ],
+      "roadway_dist_px": 194.4,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.0,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 2.19
+    },
+    "29": {
+      "person_id": "29",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 3,
+      "duration_s": 4.0,
+      "distance_m": 0.06,
+      "mean_speed_m_s": 0.016,
+      "centroid_pos": [
+        2455.9,
+        55.7
+      ],
+      "roadway_dist_px": -18.7,
+      "is_inside_roadway": false,
+      "motor_overlap_ioa": 0.0,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 2.15
+    },
+    "37": {
+      "person_id": "37",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 6,
+      "duration_s": 10.01,
+      "distance_m": 0.21,
+      "mean_speed_m_s": 0.021,
+      "centroid_pos": [
+        2430.9,
+        152.4
+      ],
+      "roadway_dist_px": 24.1,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.567,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 1.71
+    },
+    "38": {
+      "person_id": "38",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 3,
+      "duration_s": 6.01,
+      "distance_m": 0.15,
+      "mean_speed_m_s": 0.024,
+      "centroid_pos": [
+        2318.1,
+        1289.4
+      ],
+      "roadway_dist_px": 635.9,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 1.0,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 2.43
+    },
+    "41": {
+      "person_id": "41",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 5,
+      "duration_s": 10.01,
+      "distance_m": 0.11,
+      "mean_speed_m_s": 0.011,
+      "centroid_pos": [
+        3035.6,
+        997.1
+      ],
+      "roadway_dist_px": 103.3,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.0,
+      "visdrone_label": "pedestrian",
+      "crop_aspect_ratio": 2.26
+    },
+    "43": {
+      "person_id": "43",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 3,
+      "duration_s": 4.0,
+      "distance_m": 0.26,
+      "mean_speed_m_s": 0.066,
+      "centroid_pos": [
+        2309.7,
+        1309.8
+      ],
+      "roadway_dist_px": 657.9,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.0,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 2.28
+    },
+    "46": {
+      "person_id": "46",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 4,
+      "duration_s": 8.01,
+      "distance_m": 0.25,
+      "mean_speed_m_s": 0.031,
+      "centroid_pos": [
+        2053.9,
+        670.5
+      ],
+      "roadway_dist_px": 503.4,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.15,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 1.1
+    },
+    "49": {
+      "person_id": "49",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 5,
+      "duration_s": 10.01,
+      "distance_m": 0.38,
+      "mean_speed_m_s": 0.038,
+      "centroid_pos": [
+        3002.4,
+        2052.1
+      ],
+      "roadway_dist_px": -227.1,
+      "is_inside_roadway": false,
+      "motor_overlap_ioa": 0.0,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 2.36
+    },
+    "51": {
+      "person_id": "51",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 5,
+      "duration_s": 8.0,
+      "distance_m": 0.14,
+      "mean_speed_m_s": 0.017,
+      "centroid_pos": [
+        3030.3,
+        999.5
+      ],
+      "roadway_dist_px": 107.4,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.0,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 1.58
+    },
+    "72": {
+      "person_id": "72",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 29,
+      "duration_s": 226.23,
+      "distance_m": 0.98,
+      "mean_speed_m_s": 0.004,
+      "centroid_pos": [
+        937.2,
+        309.4
+      ],
+      "roadway_dist_px": 116.5,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.0,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 1.84
+    },
+    "82": {
+      "person_id": "82",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 4,
+      "duration_s": 10.01,
+      "distance_m": 0.24,
+      "mean_speed_m_s": 0.024,
+      "centroid_pos": [
+        2327.4,
+        753.7
+      ],
+      "roadway_dist_px": 255.9,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.988,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 1.6
+    },
+    "81": {
+      "person_id": "81",
+      "classification": "TWO_WHEELER_RIDER",
+      "rationale": "Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",
+      "points": 5,
+      "duration_s": 38.04,
+      "distance_m": 0.07,
+      "mean_speed_m_s": 0.002,
+      "centroid_pos": [
+        1364.2,
+        1560.8
+      ],
+      "roadway_dist_px": 169.2,
+      "is_inside_roadway": true,
+      "motor_overlap_ioa": 0.207,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 1.88
+    }
+  },
+  "passengers": {
+    "61": {
+      "person_id": "61",
+      "classification": "TWO_WHEELER_PASSENGER",
+      "rationale": "Pillion passenger seated behind driver on motorcycle/scooter; segregated from walking pedestrians",
+      "points": 4,
+      "duration_s": 6.01,
+      "distance_m": 0.15,
+      "mean_speed_m_s": 0.025,
+      "centroid_pos": [
+        3065.8,
+        2017.8
+      ],
+      "roadway_dist_px": -232.4,
+      "is_inside_roadway": false,
+      "motor_overlap_ioa": 0.0,
+      "visdrone_label": "none",
+      "crop_aspect_ratio": 1.43
+    }
+  }
+}

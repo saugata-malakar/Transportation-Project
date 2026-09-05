@@ -1,0 +1,50 @@
+person_id,classification,rationale,points,duration_s,distance_m,mean_speed_m_s,centroid_pos,roadway_dist_px,is_inside_roadway,motor_overlap_ioa,visdrone_label,crop_aspect_ratio
+1,OFF_ROAD_OCCUPANT,"Individual seated/standing inside off-road roadside shop/stall, >15px outside roadway corridor",10,18.02,0.54,0.03,"[2955.5, 2098.7]",-241.8,False,0.0,none,2.09
+2,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",4,204.2,1.9,0.009,"[2288.1, 759.2]",295.5,True,0.914,none,2.32
+4,INFRASTRUCTURE_FALSE_POSITIVE,"Solar street light panel, signboard, roof awning or vegetation falsely flagged by standard detector",5,16.02,0.2,0.013,"[1208.9, 1595.6]",82.8,True,0.0,none,1.77
+5,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,14,174.18,0.25,0.001,"[1924.1, 2117.4]",22.6,True,0.0,none,2.16
+6,INFRASTRUCTURE_FALSE_POSITIVE,"Solar street light panel, signboard, roof awning or vegetation falsely flagged by standard detector",233,768.77,6.4,0.008,"[1208.0, 1681.2]",2.5,True,0.0,none,1.9
+7,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,95,496.5,4.34,0.009,"[1202.7, 1835.9]",-143.9,False,0.0,none,1.88
+9,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,4,14.02,0.07,0.005,"[3034.9, 990.4]",97.3,True,0.0,none,1.67
+13,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,5,20.02,0.21,0.01,"[1202.6, 1859.3]",-166.0,False,0.0,none,2.61
+14,INFRASTRUCTURE_FALSE_POSITIVE,"Solar street light panel, signboard, roof awning or vegetation falsely flagged by standard detector",12,82.08,0.2,0.002,"[1065.9, 326.4]",113.6,True,0.0,none,1.58
+15,OFF_ROAD_OCCUPANT,"Individual seated/standing inside off-road roadside shop/stall, >15px outside roadway corridor",3,44.04,0.09,0.002,"[1559.2, 1685.5]",148.6,True,0.0,none,2.23
+16,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",21,88.09,0.48,0.005,"[3093.0, 979.4]",66.0,True,0.0,none,1.75
+17,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",4,6.01,0.43,0.072,"[2421.5, 1333.9]",639.0,True,0.613,people,2.05
+18,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",3,4.01,0.24,0.06,"[2295.8, 1629.7]",500.9,True,0.683,none,1.77
+20,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",3,4.0,0.05,0.012,"[2204.0, 764.8]",378.7,True,0.951,none,1.94
+21,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,3,60.06,0.37,0.006,"[2620.4, 1854.7]",140.4,True,0.0,none,2.08
+24,INFRASTRUCTURE_FALSE_POSITIVE,"Solar street light panel, signboard, roof awning or vegetation falsely flagged by standard detector",5,50.05,0.09,0.002,"[1065.4, 326.8]",114.1,True,0.0,none,1.52
+25,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,3,4.0,0.08,0.019,"[3016.5, 993.4]",106.7,True,0.0,pedestrian,1.82
+26,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",6,22.02,0.18,0.008,"[1924.6, 1945.6]",194.4,True,0.0,none,2.19
+29,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",3,4.0,0.06,0.016,"[2455.9, 55.7]",-18.7,False,0.0,none,2.15
+33,INFRASTRUCTURE_FALSE_POSITIVE,"Solar street light panel, signboard, roof awning or vegetation falsely flagged by standard detector",3,4.0,0.05,0.012,"[2604.1, 922.3]",189.3,True,0.0,none,2.17
+35,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,46,432.43,2.9,0.007,"[1191.5, 1829.2]",-141.6,False,0.0,none,2.18
+37,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",6,10.01,0.21,0.021,"[2430.9, 152.4]",24.1,True,0.567,none,1.71
+38,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",3,6.01,0.15,0.024,"[2318.1, 1289.4]",635.9,True,1.0,none,2.43
+41,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",5,10.01,0.11,0.011,"[3035.6, 997.1]",103.3,True,0.0,pedestrian,2.26
+42,GENUINE_WALKING_PEDESTRIAN,Physically verified walking on foot across roadway/corridor/zebra crossing; active gait kinematics,10,144.14,1.51,0.01,"[2133.4, 1231.8]",686.8,True,0.954,none,1.38
+43,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",3,4.0,0.26,0.066,"[2309.7, 1309.8]",657.9,True,0.0,none,2.28
+45,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,104,288.29,2.84,0.01,"[626.5, 281.3]",127.9,True,0.978,none,1.43
+46,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",4,8.01,0.25,0.031,"[2053.9, 670.5]",503.4,True,0.15,none,1.1
+47,INFRASTRUCTURE_FALSE_POSITIVE,"Solar street light panel, signboard, roof awning or vegetation falsely flagged by standard detector",4,14.02,0.14,0.01,"[2620.5, 1460.3]",477.2,True,0.0,none,2.87
+48,GENUINE_WALKING_PEDESTRIAN,Physically verified walking on foot across roadway/corridor/zebra crossing; active gait kinematics,3,12.01,0.11,0.009,"[3038.2, 993.3]",98.8,True,0.0,none,2.1
+49,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",5,10.01,0.38,0.038,"[3002.4, 2052.1]",-227.1,False,0.0,none,2.36
+50,GENUINE_WALKING_PEDESTRIAN,Physically verified walking on foot across roadway/corridor/zebra crossing; active gait kinematics,3,110.11,4.43,0.04,"[2209.4, 1358.3]",746.8,True,0.388,none,1.82
+51,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",5,8.0,0.14,0.017,"[3030.3, 999.5]",107.4,True,0.0,none,1.58
+52,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,3,10.01,0.04,0.004,"[1182.6, 1815.9]",-132.4,False,0.0,none,1.91
+55,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,9,68.06,0.39,0.006,"[3010.3, 2059.2]",-237.4,False,0.205,none,1.73
+57,INFRASTRUCTURE_FALSE_POSITIVE,"Solar street light panel, signboard, roof awning or vegetation falsely flagged by standard detector",6,108.11,0.68,0.006,"[2626.3, 1455.3]",478.3,True,0.0,none,2.96
+61,TWO_WHEELER_PASSENGER,Pillion passenger seated behind driver on motorcycle/scooter; segregated from walking pedestrians,4,6.01,0.15,0.025,"[3065.8, 2017.8]",-232.4,False,0.0,none,1.43
+64,INFRASTRUCTURE_FALSE_POSITIVE,"Solar street light panel, signboard, roof awning or vegetation falsely flagged by standard detector",4,182.18,0.08,0.0,"[1778.2, 1693.9]",289.3,True,0.04,none,2.5
+68,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,5,8.0,0.18,0.022,"[1212.7, 427.7]",188.9,True,0.0,none,1.86
+69,OFF_ROAD_OCCUPANT,"Individual seated/standing inside off-road roadside shop/stall, >15px outside roadway corridor",8,58.05,1.25,0.022,"[3082.2, 2055.2]",-272.8,False,0.289,none,2.42
+70,GENUINE_WALKING_PEDESTRIAN,Physically verified walking on foot across roadway/corridor/zebra crossing; active gait kinematics,8,18.02,0.4,0.022,"[1218.8, 404.2]",164.7,True,0.0,none,1.4
+72,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",29,226.23,0.98,0.004,"[937.2, 309.4]",116.5,True,0.0,none,1.84
+75,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,11,168.17,0.44,0.003,"[1190.0, 1835.4]",-147.9,False,0.0,none,2.97
+77,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,9,70.07,0.44,0.006,"[1189.7, 1816.4]",-130.3,False,0.0,none,1.89
+78,INFRASTRUCTURE_FALSE_POSITIVE,"Solar street light panel, signboard, roof awning or vegetation falsely flagged by standard detector",6,72.07,0.15,0.002,"[2616.7, 1466.5]",474.0,True,0.0,none,2.56
+79,INFRASTRUCTURE_FALSE_POSITIVE,"Solar street light panel, signboard, roof awning or vegetation falsely flagged by standard detector",3,32.04,0.11,0.003,"[2380.3, 544.1]",156.9,True,0.0,pedestrian,1.69
+82,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",4,10.01,0.24,0.024,"[2327.4, 753.7]",255.9,True,0.988,none,1.6
+81,TWO_WHEELER_RIDER,"Active motorcycle/scooter/bike driver; co-located with two-wheeler chassis, seated posture",5,38.04,0.07,0.002,"[1364.2, 1560.8]",169.2,True,0.207,none,1.88
+83,PARKED_TWO_WHEELER,Parked/stationary two-wheeler chassis or seat falsely flagged as person by standard detector,5,8.01,0.12,0.015,"[42.3, 1075.5]",-17.7,False,0.0,none,2.11

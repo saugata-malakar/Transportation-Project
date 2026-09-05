@@ -1,0 +1,5 @@
+pedestrian_id,walking_distance_m,transit_duration_s,mean_walking_speed_ms,peak_walking_speed_ms,effective_gait_speed_ms,stride_length_m,step_length_m,step_frequency_hz,stride_frequency_hz,cadence_steps_per_min,crossing_corridor_direction,group_crossing_category,origin_destination_dynamics
+P42,1.51,144.1,0.01,0.045,0.12,0.416,0.208,0.58,0.29,34.6,Kerb-to-Median (Northbound),Single Pedestrian (Solo Walker on Foot),Live Roadway Corridor Transit
+P48,0.11,12.0,0.009,0.011,0.12,0.416,0.208,0.58,0.29,34.6,Kerb-to-Median (Northbound),Single Pedestrian (Solo Walker on Foot),Live Roadway Corridor Transit
+P50,4.43,110.1,0.04,0.114,0.12,0.416,0.208,0.58,0.29,34.6,Median-to-Kerb (Southbound),Single Pedestrian (Solo Walker on Foot),Live Roadway Corridor Transit
+P70,0.4,18.0,0.022,0.066,0.12,0.416,0.208,0.58,0.29,34.6,Kerb-to-Kerb (Westbound),Single Pedestrian (Solo Walker on Foot),Live Roadway Corridor Transit

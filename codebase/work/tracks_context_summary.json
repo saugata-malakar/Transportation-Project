@@ -1,0 +1,743 @@
+[
+  {
+    "pid": "1",
+    "pts": 10,
+    "dur_s": 18.0,
+    "dist_m": 0.54,
+    "speed_m_s": 0.03,
+    "road_dist": -241.8,
+    "pos": [
+      2955.5,
+      2098.7
+    ],
+    "detections_in_context": [
+      "bed:0.50",
+      "bed:0.17"
+    ]
+  },
+  {
+    "pid": "2",
+    "pts": 4,
+    "dur_s": 204.2,
+    "dist_m": 1.9,
+    "speed_m_s": 0.009,
+    "road_dist": 295.5,
+    "pos": [
+      2288.1,
+      759.2
+    ],
+    "detections_in_context": [
+      "person:0.22",
+      "person:0.22"
+    ]
+  },
+  {
+    "pid": "4",
+    "pts": 5,
+    "dur_s": 16.0,
+    "dist_m": 0.2,
+    "speed_m_s": 0.013,
+    "road_dist": 82.8,
+    "pos": [
+      1208.9,
+      1595.6
+    ],
+    "detections_in_context": [
+      "car:0.38"
+    ]
+  },
+  {
+    "pid": "5",
+    "pts": 14,
+    "dur_s": 174.2,
+    "dist_m": 0.25,
+    "speed_m_s": 0.001,
+    "road_dist": 22.6,
+    "pos": [
+      1924.1,
+      2117.4
+    ],
+    "detections_in_context": [
+      "person:0.24"
+    ]
+  },
+  {
+    "pid": "6",
+    "pts": 233,
+    "dur_s": 768.8,
+    "dist_m": 6.4,
+    "speed_m_s": 0.008,
+    "road_dist": 2.5,
+    "pos": [
+      1208.0,
+      1681.2
+    ],
+    "detections_in_context": [
+      "car:0.68"
+    ]
+  },
+  {
+    "pid": "7",
+    "pts": 95,
+    "dur_s": 496.5,
+    "dist_m": 4.34,
+    "speed_m_s": 0.009,
+    "road_dist": -143.9,
+    "pos": [
+      1202.7,
+      1835.9
+    ],
+    "detections_in_context": []
+  },
+  {
+    "pid": "9",
+    "pts": 4,
+    "dur_s": 14.0,
+    "dist_m": 0.07,
+    "speed_m_s": 0.005,
+    "road_dist": 97.3,
+    "pos": [
+      3034.9,
+      990.4
+    ],
+    "detections_in_context": [
+      "person:0.38"
+    ]
+  },
+  {
+    "pid": "13",
+    "pts": 5,
+    "dur_s": 20.0,
+    "dist_m": 0.21,
+    "speed_m_s": 0.01,
+    "road_dist": -166.0,
+    "pos": [
+      1202.6,
+      1859.3
+    ],
+    "detections_in_context": []
+  },
+  {
+    "pid": "14",
+    "pts": 12,
+    "dur_s": 82.1,
+    "dist_m": 0.2,
+    "speed_m_s": 0.002,
+    "road_dist": 113.6,
+    "pos": [
+      1065.9,
+      326.4
+    ],
+    "detections_in_context": []
+  },
+  {
+    "pid": "15",
+    "pts": 3,
+    "dur_s": 44.0,
+    "dist_m": 0.09,
+    "speed_m_s": 0.002,
+    "road_dist": 148.6,
+    "pos": [
+      1559.2,
+      1685.5
+    ],
+    "detections_in_context": []
+  },
+  {
+    "pid": "16",
+    "pts": 21,
+    "dur_s": 88.1,
+    "dist_m": 0.48,
+    "speed_m_s": 0.005,
+    "road_dist": 66.0,
+    "pos": [
+      3093.0,
+      979.4
+    ],
+    "detections_in_context": [
+      "person:0.34",
+      "skateboard:0.17"
+    ]
+  },
+  {
+    "pid": "17",
+    "pts": 4,
+    "dur_s": 6.0,
+    "dist_m": 0.43,
+    "speed_m_s": 0.072,
+    "road_dist": 639.0,
+    "pos": [
+      2421.5,
+      1333.9
+    ],
+    "detections_in_context": [
+      "car:0.74",
+      "person:0.31"
+    ]
+  },
+  {
+    "pid": "18",
+    "pts": 3,
+    "dur_s": 4.0,
+    "dist_m": 0.24,
+    "speed_m_s": 0.06,
+    "road_dist": 500.9,
+    "pos": [
+      2295.8,
+      1629.7
+    ],
+    "detections_in_context": [
+      "car:0.42",
+      "fire hydrant:0.19"
+    ]
+  },
+  {
+    "pid": "20",
+    "pts": 3,
+    "dur_s": 4.0,
+    "dist_m": 0.05,
+    "speed_m_s": 0.012,
+    "road_dist": 378.7,
+    "pos": [
+      2204.0,
+      764.8
+    ],
+    "detections_in_context": [
+      "person:0.44",
+      "person:0.29"
+    ]
+  },
+  {
+    "pid": "21",
+    "pts": 3,
+    "dur_s": 60.1,
+    "dist_m": 0.37,
+    "speed_m_s": 0.006,
+    "road_dist": 140.4,
+    "pos": [
+      2620.4,
+      1854.7
+    ],
+    "detections_in_context": [
+      "person:0.37"
+    ]
+  },
+  {
+    "pid": "24",
+    "pts": 5,
+    "dur_s": 50.0,
+    "dist_m": 0.09,
+    "speed_m_s": 0.002,
+    "road_dist": 114.1,
+    "pos": [
+      1065.4,
+      326.8
+    ],
+    "detections_in_context": []
+  },
+  {
+    "pid": "25",
+    "pts": 3,
+    "dur_s": 4.0,
+    "dist_m": 0.08,
+    "speed_m_s": 0.019,
+    "road_dist": 106.7,
+    "pos": [
+      3016.5,
+      993.4
+    ],
+    "detections_in_context": [
+      "bird:0.20"
+    ]
+  },
+  {
+    "pid": "26",
+    "pts": 6,
+    "dur_s": 22.0,
+    "dist_m": 0.18,
+    "speed_m_s": 0.008,
+    "road_dist": 194.4,
+    "pos": [
+      1924.6,
+      1945.6
+    ],
+    "detections_in_context": [
+      "snowboard:0.21"
+    ]
+  },
+  {
+    "pid": "29",
+    "pts": 3,
+    "dur_s": 4.0,
+    "dist_m": 0.06,
+    "speed_m_s": 0.016,
+    "road_dist": -18.7,
+    "pos": [
+      2455.9,
+      55.7
+    ],
+    "detections_in_context": [
+      "umbrella:0.77",
+      "toilet:0.48"
+    ]
+  },
+  {
+    "pid": "33",
+    "pts": 3,
+    "dur_s": 4.0,
+    "dist_m": 0.05,
+    "speed_m_s": 0.012,
+    "road_dist": 189.3,
+    "pos": [
+      2604.1,
+      922.3
+    ],
+    "detections_in_context": [
+      "person:0.37",
+      "person:0.19",
+      "car:0.19"
+    ]
+  },
+  {
+    "pid": "35",
+    "pts": 46,
+    "dur_s": 432.4,
+    "dist_m": 2.9,
+    "speed_m_s": 0.007,
+    "road_dist": -141.6,
+    "pos": [
+      1191.5,
+      1829.2
+    ],
+    "detections_in_context": []
+  },
+  {
+    "pid": "37",
+    "pts": 6,
+    "dur_s": 10.0,
+    "dist_m": 0.21,
+    "speed_m_s": 0.021,
+    "road_dist": 24.1,
+    "pos": [
+      2430.9,
+      152.4
+    ],
+    "detections_in_context": [
+      "umbrella:0.83",
+      "toilet:0.43"
+    ]
+  },
+  {
+    "pid": "38",
+    "pts": 3,
+    "dur_s": 6.0,
+    "dist_m": 0.15,
+    "speed_m_s": 0.024,
+    "road_dist": 635.9,
+    "pos": [
+      2318.1,
+      1289.4
+    ],
+    "detections_in_context": [
+      "snowboard:0.18"
+    ]
+  },
+  {
+    "pid": "41",
+    "pts": 5,
+    "dur_s": 10.0,
+    "dist_m": 0.11,
+    "speed_m_s": 0.011,
+    "road_dist": 103.3,
+    "pos": [
+      3035.6,
+      997.1
+    ],
+    "detections_in_context": []
+  },
+  {
+    "pid": "42",
+    "pts": 10,
+    "dur_s": 144.1,
+    "dist_m": 1.51,
+    "speed_m_s": 0.01,
+    "road_dist": 686.8,
+    "pos": [
+      2133.4,
+      1231.8
+    ],
+    "detections_in_context": [
+      "person:0.70"
+    ]
+  },
+  {
+    "pid": "43",
+    "pts": 3,
+    "dur_s": 4.0,
+    "dist_m": 0.26,
+    "speed_m_s": 0.066,
+    "road_dist": 657.9,
+    "pos": [
+      2309.7,
+      1309.8
+    ],
+    "detections_in_context": [
+      "suitcase:0.42",
+      "suitcase:0.31",
+      "person:0.26",
+      "car:0.26",
+      "suitcase:0.21"
+    ]
+  },
+  {
+    "pid": "45",
+    "pts": 104,
+    "dur_s": 288.3,
+    "dist_m": 2.84,
+    "speed_m_s": 0.01,
+    "road_dist": 127.9,
+    "pos": [
+      626.5,
+      281.3
+    ],
+    "detections_in_context": [
+      "person:0.16"
+    ]
+  },
+  {
+    "pid": "46",
+    "pts": 4,
+    "dur_s": 8.0,
+    "dist_m": 0.25,
+    "speed_m_s": 0.031,
+    "road_dist": 503.4,
+    "pos": [
+      2053.9,
+      670.5
+    ],
+    "detections_in_context": [
+      "person:0.28"
+    ]
+  },
+  {
+    "pid": "47",
+    "pts": 4,
+    "dur_s": 14.0,
+    "dist_m": 0.14,
+    "speed_m_s": 0.01,
+    "road_dist": 477.2,
+    "pos": [
+      2620.5,
+      1460.3
+    ],
+    "detections_in_context": []
+  },
+  {
+    "pid": "48",
+    "pts": 3,
+    "dur_s": 12.0,
+    "dist_m": 0.11,
+    "speed_m_s": 0.009,
+    "road_dist": 98.8,
+    "pos": [
+      3038.2,
+      993.3
+    ],
+    "detections_in_context": []
+  },
+  {
+    "pid": "49",
+    "pts": 5,
+    "dur_s": 10.0,
+    "dist_m": 0.38,
+    "speed_m_s": 0.038,
+    "road_dist": -227.1,
+    "pos": [
+      3002.4,
+      2052.1
+    ],
+    "detections_in_context": [
+      "car:0.44",
+      "car:0.22",
+      "bed:0.19",
+      "suitcase:0.18"
+    ]
+  },
+  {
+    "pid": "50",
+    "pts": 3,
+    "dur_s": 110.1,
+    "dist_m": 4.43,
+    "speed_m_s": 0.04,
+    "road_dist": 746.8,
+    "pos": [
+      2209.4,
+      1358.3
+    ],
+    "detections_in_context": [
+      "person:0.39",
+      "person:0.26"
+    ]
+  },
+  {
+    "pid": "51",
+    "pts": 5,
+    "dur_s": 8.0,
+    "dist_m": 0.14,
+    "speed_m_s": 0.017,
+    "road_dist": 107.4,
+    "pos": [
+      3030.3,
+      999.5
+    ],
+    "detections_in_context": [
+      "person:0.21",
+      "person:0.20"
+    ]
+  },
+  {
+    "pid": "52",
+    "pts": 3,
+    "dur_s": 10.0,
+    "dist_m": 0.04,
+    "speed_m_s": 0.004,
+    "road_dist": -132.4,
+    "pos": [
+      1182.6,
+      1815.9
+    ],
+    "detections_in_context": []
+  },
+  {
+    "pid": "55",
+    "pts": 9,
+    "dur_s": 68.1,
+    "dist_m": 0.39,
+    "speed_m_s": 0.006,
+    "road_dist": -237.4,
+    "pos": [
+      3010.3,
+      2059.2
+    ],
+    "detections_in_context": [
+      "person:0.24"
+    ]
+  },
+  {
+    "pid": "57",
+    "pts": 6,
+    "dur_s": 108.1,
+    "dist_m": 0.68,
+    "speed_m_s": 0.006,
+    "road_dist": 478.3,
+    "pos": [
+      2626.3,
+      1455.3
+    ],
+    "detections_in_context": [
+      "cell phone:0.21",
+      "suitcase:0.19"
+    ]
+  },
+  {
+    "pid": "61",
+    "pts": 4,
+    "dur_s": 6.0,
+    "dist_m": 0.15,
+    "speed_m_s": 0.025,
+    "road_dist": -232.4,
+    "pos": [
+      3065.8,
+      2017.8
+    ],
+    "detections_in_context": [
+      "person:0.56",
+      "motorcycle:0.25",
+      "person:0.24",
+      "person:0.23",
+      "person:0.19"
+    ]
+  },
+  {
+    "pid": "64",
+    "pts": 4,
+    "dur_s": 182.2,
+    "dist_m": 0.08,
+    "speed_m_s": 0.0,
+    "road_dist": 289.3,
+    "pos": [
+      1778.2,
+      1693.9
+    ],
+    "detections_in_context": [
+      "cell phone:0.46"
+    ]
+  },
+  {
+    "pid": "68",
+    "pts": 5,
+    "dur_s": 8.0,
+    "dist_m": 0.18,
+    "speed_m_s": 0.022,
+    "road_dist": 188.9,
+    "pos": [
+      1212.7,
+      427.7
+    ],
+    "detections_in_context": [
+      "car:0.42"
+    ]
+  },
+  {
+    "pid": "69",
+    "pts": 8,
+    "dur_s": 58.1,
+    "dist_m": 1.25,
+    "speed_m_s": 0.022,
+    "road_dist": -272.8,
+    "pos": [
+      3082.2,
+      2055.2
+    ],
+    "detections_in_context": [
+      "person:0.70",
+      "person:0.15"
+    ]
+  },
+  {
+    "pid": "70",
+    "pts": 8,
+    "dur_s": 18.0,
+    "dist_m": 0.4,
+    "speed_m_s": 0.022,
+    "road_dist": 164.7,
+    "pos": [
+      1218.8,
+      404.2
+    ],
+    "detections_in_context": [
+      "person:0.66",
+      "car:0.50"
+    ]
+  },
+  {
+    "pid": "72",
+    "pts": 29,
+    "dur_s": 226.2,
+    "dist_m": 0.98,
+    "speed_m_s": 0.004,
+    "road_dist": 116.5,
+    "pos": [
+      937.2,
+      309.4
+    ],
+    "detections_in_context": [
+      "bird:0.43"
+    ]
+  },
+  {
+    "pid": "75",
+    "pts": 11,
+    "dur_s": 168.2,
+    "dist_m": 0.44,
+    "speed_m_s": 0.003,
+    "road_dist": -147.9,
+    "pos": [
+      1190.0,
+      1835.4
+    ],
+    "detections_in_context": []
+  },
+  {
+    "pid": "77",
+    "pts": 9,
+    "dur_s": 70.1,
+    "dist_m": 0.44,
+    "speed_m_s": 0.006,
+    "road_dist": -130.3,
+    "pos": [
+      1189.7,
+      1816.4
+    ],
+    "detections_in_context": []
+  },
+  {
+    "pid": "78",
+    "pts": 6,
+    "dur_s": 72.1,
+    "dist_m": 0.15,
+    "speed_m_s": 0.002,
+    "road_dist": 474.0,
+    "pos": [
+      2616.7,
+      1466.5
+    ],
+    "detections_in_context": [
+      "keyboard:0.20"
+    ]
+  },
+  {
+    "pid": "79",
+    "pts": 3,
+    "dur_s": 32.0,
+    "dist_m": 0.11,
+    "speed_m_s": 0.003,
+    "road_dist": 156.9,
+    "pos": [
+      2380.3,
+      544.1
+    ],
+    "detections_in_context": [
+      "skis:0.25",
+      "skis:0.24",
+      "skis:0.16"
+    ]
+  },
+  {
+    "pid": "82",
+    "pts": 4,
+    "dur_s": 10.0,
+    "dist_m": 0.24,
+    "speed_m_s": 0.024,
+    "road_dist": 255.9,
+    "pos": [
+      2327.4,
+      753.7
+    ],
+    "detections_in_context": [
+      "person:0.65",
+      "dog:0.23"
+    ]
+  },
+  {
+    "pid": "81",
+    "pts": 5,
+    "dur_s": 38.0,
+    "dist_m": 0.07,
+    "speed_m_s": 0.002,
+    "road_dist": 169.2,
+    "pos": [
+      1364.2,
+      1560.8
+    ],
+    "detections_in_context": [
+      "suitcase:0.84",
+      "suitcase:0.64",
+      "suitcase:0.35",
+      "suitcase:0.15"
+    ]
+  },
+  {
+    "pid": "83",
+    "pts": 5,
+    "dur_s": 8.0,
+    "dist_m": 0.12,
+    "speed_m_s": 0.015,
+    "road_dist": -17.7,
+    "pos": [
+      42.3,
+      1075.5
+    ],
+    "detections_in_context": []
+  }
+]
